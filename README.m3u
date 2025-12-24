@@ -315,10 +315,7 @@ https://live2.shoq.com.pk/live/eds/Minimax/DASH/Minimax.mpd
 #KODIPROP:inputstream.adaptive.license_key=8508ff2a5f04345f3353e112d7ce2c09:73ed2d9eb8287f8a56b73e6243c57755
 https://live2.shoq.com.pk/live/eds/Neo_TV/DASH/Neo_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/urdu-1.png" group-title="Shoq", Urdu 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf56a165967418484e82689dd48432b2:bbea8c027a9008b08e50f532ea8f0b8d
-https://live2.shoq.com.pk/live/eds/Urdu_1/DASH/Urdu_1.mpd
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/venus_ent.png" group-title="Shoq", Venus Entertainement
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -326,20 +323,12 @@ https://live2.shoq.com.pk/live/eds/Urdu_1/DASH/Urdu_1.mpd
 https://live2.shoq.com.pk/live/eds/Venus_Ent/DASH/Venus_Ent.mpd
 
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Film-World.png" group-title="Shoq",Film World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=501c219f6640b42b454a1fc3bda48a7e:d547a7eaac74ae83cadcaddb6243978f
-https://live2.shoq.com.pk/live/eds/Film_World/DASH/Film_World.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/filmax.png" group-title="Shoq",Filmax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
 https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/movie_one.png" group-title="Shoq", MovieOne
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f65c4e993a44d0f2d2a6a0314805c5a:f75fb4689475fcefd538ac9064858beb
-https://live2.shoq.com.pk/live/eds/Movie_One/DASH/Movie_One.mpd
 
 
 
@@ -348,10 +337,6 @@ https://live2.shoq.com.pk/live/eds/Movie_One/DASH/Movie_One.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca8acb089361d0a5463056151255e6bf:66c0f28dc5473ecf937181357eebfe1a
 https://live2.shoq.com.pk/live/eds/Discover_Pakistan/DASH/Discover_Pakistan.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discovery-science.png" group-title="Shoq",Discovery Science
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c00da2a838a8989bc26e314dd7fb3775:1e4c2a8c011e138a2190ab19c2b30f86
-https://live2.shoq.com.pk/live/eds/Discovery_Science/DASH/Discovery_Science.mpd
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Planet-Fun.png" group-title="Shoq",Planet Fun
@@ -388,35 +373,15 @@ https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 https://live2.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bbc-first.png" group-title="Shoq",BBC First
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c3551e6ca530b70b6cb3c3ad2380027:36bd1fb594d552f3b2768e5880743275
-https://live2.shoq.com.pk/live/eds/BBC_First/DASH/BBC_First.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc-max.png" group-title="Shoq",MBC Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b327dfc1e089c3fc7a7a3e4f56747b89:f527fa71813ffc13a6e3e3775c88c1ff
-https://live2.shoq.com.pk/live/eds/MBCMAX/DASH/MBCMAX.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc-action.png" group-title="Shoq", MBC Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d3efa61d43ce45f74faaae5fb448ff1:4ea8aa5e8e352ecdc18e58f7f1849706
-https://live2.shoq.com.pk/live/eds/MBC_Action/DASH/MBC_Action.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc2.png" group-title="Shoq",MBC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d5c58776940655fceaab7a9d3c9935a:5736da381434f498affafd5028940d0b
-https://live2.shoq.com.pk/live/eds/MBC2/DASH/MBC2.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/aljazeera-en.png" group-title="Shoq",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002ec9244b1a567f067a178080b524fc:e014d86befba726e16106bd467c9a36c
 https://live2.shoq.com.pk/live/eds/Aljazeera/DASH/Aljazeera.mpd
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bloomberg.png" group-title="Shoq",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14740560a3f60fc7b640944d81077185:eebceecee71bd88e58daccbbd6d0f09b
-https://live2.shoq.com.pk/live/eds/Bloomberg/DASH/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/nhk-world-en.png" group-title="Shoq",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -484,15 +449,8 @@ https://edge4-moblive.yuppcdn.net/drm2/smil:tencricketdrm1.smil/manifest.mpd
 https://livecricketsl.cc.nf/proxy/fox.php/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25725?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Ten Cricket Toffee TV
-https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
 
-#EXTINF:-1 tvg-id="Cricket Gold New" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg",Cricket Gold New
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
-
-#EXTINF:-1 tvg-id="Cricket Gold Old" tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp",Cricket Gold  Old
-https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -511,41 +469,8 @@ https://edge4-moblive.yuppcdn.net/drm1/smil:peosports2drm.smil/manifest.mpd
 https://edge4-moblive.yuppcdn.net/drm1/smil:peosports3drm.smil/manifest.mpd
 
 
-#EXTINF:-1,Skysports EPL tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongepl
-#EXTINF:-1,Skysports Main Event tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongmain
-#EXTINF:-1,Skysports News tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongnews
-#EXTINF:-1,Skysports Mix tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongmix
-#EXTINF:-1,Skysportsf1 tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongf1
-#EXTINF:-1,Skysportscricket tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongcricket
-#EXTINF:-1,Skysports Racing tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankongracing
-#EXTINF:-1,Skysports Golf tzh911
-https://tzh911.qzz.io/play-smt.php?id=tiankonggolf
 
 
-#EXTINF:-1,UK Sky Sports Golf nocable
-http://nocable.cc:8080/EJ9GvC/046694/35240
-
-#EXTINF:-1,UK Sky Sports F1 nocable
-http://nocable.cc:8080/EJ9GvC/046694/35244
-
-#EXTINF:-1,UK: Sky Sports RACING nocable
-http://nocable.cc:8080/EJ9GvC/046694/76842
-
-#EXTINF:-1,UK-Sky Sports Main Event nocable
-http://nocable.cc:8080/EJ9GvC/046694/35243
-
-#EXTINF:-1,UK Sky Sports Mix nocable
-http://nocable.cc:8080/EJ9GvC/046694/53706
-
-#EXTINF:-1,UK Sky Sports Premium League nocable
-http://nocable.cc:8080/EJ9GvC/046694/35241
 
 
 #EXTINF:-1,Fox Sports English
@@ -570,8 +495,6 @@ https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/FfrCHqN.png" group-title="HD SPORTS",Prime TV
-https://cors-proxy.rdpsell01.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lqj6tdomna/out/v1/817aa485206f4456ad594bbf61c1016c/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -699,70 +622,63 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KWCPXBS.png" group-title="HD SPORTS",UFC +
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd|
-
-https://bd-streams.site/crx/master.php?id=skyscric|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Sports Main Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXycShOktMgQSs6TX7XrJ_w596wEa9FEKBNnKNu5l7-ZBJygk9XIIGc18aA&s", Sky Sports Main Event
-https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtxtjcUZ5fy9ArETN7VJlXvmSuZ4RtSkQA817_66pCkGHvhOQNkJtV75kIzQ&s", Sky Cinema
-https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR3r2O09T8TaEm_bN94bDKtxR0UHZP0n33w&usqp=CAU", Sky Sports Action
-https://bd-streams.site/crx/master.php?id=skysact|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDNDKw242BWw0LdDuzb293T92MV9ywJAz3m-Pj6dr-NeibJw44FmjRgOoWVM&s", Sky Sports Golf
-https://bd-streams.site/crx/master.php?id=skysgol|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLdXasHoTc5NU6L9qLjqrD-NGMFVBaX22mBI5xdil2aMBAyTu_65utgUY&s=10", Sky Sports Premier League
-https://bd-streams.site/crx/master.php?id=skysprem|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysfott" tvg-name="Sky Sports Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWM04ded3I1O0hX_WxSAFdZ18obIzTKByew&s", Sky Sports Football
-https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzI1XyF4-z0lKDs2AzQ5HuVDSzGeMaHpS0EEGrsImBcaDMDHiCjQzSXeM125U&s", Sky Sports Plus
-https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-v_hINj_by0pYp4k3PvWaRIME2jrlUKCVmmXCcMcakfzyYKC3iaiX-VGp3e4&s", Sky Sports F1
-https://bd-streams.site/crx/master.php?id=skysfor1|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0nPXM9GthSCLN7Lq88QX2N3qkB-EkK9GJ9h2BvbtrdB4PU2ipjhOoz_yIM8&s", Sky Sports Arena
-https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8SnCLoj9Ul0mL9OKVRoJmJoFt251n7GL_uupmRXwZBZUAqPLyfJSjqNgTg&s", Sky Sports Mix
-https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtvC2vjT1RSbS2FJ2R6TDW7PFj7rPDW42FVfe1TrthhJGwV_b8yG0dBnwF9M&s", Sky Sports Tennis
-https://bd-streams.site/crx/master.php?id=skystennis|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 
 #EXTINF:-1 tvg-id="laligauk" tvg-name="LaLiGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStvCaRGBSi8kfv9DzPajaWdSfF5zW8oXYbRzwaRO8o3bFrccBJ_knLrY0ow&s", LaLiGA
-https://bd-streams.site/crx/master.php?id=laligauk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 
 #EXTINF:-1 tvg-id="superfotball" tvg-name="Super Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIB6zWFMX4dz69mXehQvxh_4_tcEZoJ2W7AVEFEKpwWC8RVe4TtN334kH6sQ&s", Super Football
-https://bd-streams.site/crx/master.php?id=superfotball|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="superpremier" tvg-name="Super Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPBc_81l9juPzm8Gn8CQqT45ZXXrpyonJyw5js75_IbpLi3jN0srfwoWZajM&s", Super Premier League
-https://bd-streams.site/crx/master.php?id=superpremier|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 
 #EXTINF:-1 tvg-id="espnusa" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcdY7UM7eLzESXeexsWULhGcpxsbGTABBEyLrc8DgP7MOfLb8Xg3-_v7IfA&s", ESPN 1
-https://bd-streams.site/crx/master.php?id=espnusa|Referer=https://bd-streams.site/crx/master.php?id=skyscric
+
 
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUUqZs_9boIB-B-BQ9XT8YZbr4GYSn1ki_eR8TD5wO7IZq4Ls7Ppleg28hA&s", ESPN 2
-https://bd-streams.site/crx/master.php?id=espn2|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
-#EXTINF:-1 tvg-id="fox501" tvg-name="Fox Cricket 501 HD" tvg-logo="", Fox Cricket 501 HD
-https://bd-streams.site/crx/master.php?id=fox501|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+
 #EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket
 http://51.89.166.17:3002/index.php?id=Acricket
 
@@ -795,29 +711,21 @@ http://51.89.166.17:3002/index.php?id=go_assp4
 http://51.89.166.17:3002/index.php?id=Nba
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
-http://79.124.52.91:6161/ESPNHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" type="channel",ESPN 2 Dutch
 http://79.124.52.91:6161/ESPN2HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" type="channel",ESPN 3 Dutch
-http://79.124.52.91:6161/ESPN3HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" type="channel",ESPN 4 Dutch
 http://79.124.52.91:6161/ESPN4HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",Ten Sports HD 4456
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play/a05v
-
-#EXTINF:-1,Geo Super 4456
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://175.107.244.52:4456/play/a06z
 
 
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/650px-Ten_Sports_Logo.png",Ten Sports HD Flussonic
-https://flussonic.superfasthdserver.com/TenSports/index.mpd
 
-#EXTINF:-1,A SPORTS HD tnm3us
-https://stalker.tnm3us.workers.dev/30975.m3u8
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://66.102.120.18:8000/play/a04w
+https://stalker.tnm3us.workers.dev/30975.m3u8
