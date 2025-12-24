@@ -993,56 +993,63 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Sports Main Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXycShOktMgQSs6TX7XrJ_w596wEa9FEKBNnKNu5l7-ZBJygk9XIIGc18aA&s", Sky Sports Main Event
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122409.ts
 
 
-
-#EXTINF:-1 tvg-id="skysme" tvg-name="Sky Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtxtjcUZ5fy9ArETN7VJlXvmSuZ4RtSkQA817_66pCkGHvhOQNkJtV75kIzQ&s", Sky Cinema
 
 
 #EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR3r2O09T8TaEm_bN94bDKtxR0UHZP0n33w&usqp=CAU", Sky Sports Action
-
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122413.ts
 
 #EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDNDKw242BWw0LdDuzb293T92MV9ywJAz3m-Pj6dr-NeibJw44FmjRgOoWVM&s", Sky Sports Golf
-
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/11.ts
 
 #EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLdXasHoTc5NU6L9qLjqrD-NGMFVBaX22mBI5xdil2aMBAyTu_65utgUY&s=10", Sky Sports Premier League
-
+http://178.33.239.54:8080/506/index.m3u8
 
 #EXTINF:-1 tvg-id="skysfott" tvg-name="Sky Sports Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWM04ded3I1O0hX_WxSAFdZ18obIzTKByew&s", Sky Sports Football
+http://178.33.239.54:8080/500/index.m3u8
 
-
-#EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzI1XyF4-z0lKDs2AzQ5HuVDSzGeMaHpS0EEGrsImBcaDMDHiCjQzSXeM125U&s", Sky Sports Plus
 
 
 #EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-v_hINj_by0pYp4k3PvWaRIME2jrlUKCVmmXCcMcakfzyYKC3iaiX-VGp3e4&s", Sky Sports F1
-
+http://178.33.239.54:8080/508/index.m3u8
 
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0nPXM9GthSCLN7Lq88QX2N3qkB-EkK9GJ9h2BvbtrdB4PU2ipjhOoz_yIM8&s", Sky Sports Arena
-
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122414.ts
 
 #EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8SnCLoj9Ul0mL9OKVRoJmJoFt251n7GL_uupmRXwZBZUAqPLyfJSjqNgTg&s", Sky Sports Mix
-
-
-#EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtvC2vjT1RSbS2FJ2R6TDW7PFj7rPDW42FVfe1TrthhJGwV_b8yG0dBnwF9M&s", Sky Sports Tennis
-
-
-
-#EXTINF:-1 tvg-id="laligauk" tvg-name="LaLiGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStvCaRGBSi8kfv9DzPajaWdSfF5zW8oXYbRzwaRO8o3bFrccBJ_knLrY0ow&s", LaLiGA
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148684.ts
 
 
 
-#EXTINF:-1 tvg-id="superfotball" tvg-name="Super Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIB6zWFMX4dz69mXehQvxh_4_tcEZoJ2W7AVEFEKpwWC8RVe4TtN334kH6sQ&s", Super Football
 
 
-#EXTINF:-1 tvg-id="superpremier" tvg-name="Super Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPBc_81l9juPzm8Gn8CQqT45ZXXrpyonJyw5js75_IbpLi3jN0srfwoWZajM&s", Super Premier League
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true",Bein Sport 01
+https://sdmmt162.provegooott.com/1_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg",Bein Sport 02
+https://sdmmt162.provegooott.com/2_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports3.default.png?raw=true",Bein Sport 03
+https://sdmmt162.provegooott.com/3_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true",Bein Sport 04
+https://sdmmt162.provegooott.com/4_.m3u8
 
 
+#EXTINF:-1, SUPER SPORTS cricket
+#https://stalker.tnm3us.workers.dev/12167.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157939.ts
+#EXTINF:-1, SUPER SPORTS football
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157942.ts
+#EXTINF:-1, SUPER SPORTS TENNIS
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7603.ts
+#EXTINF:-1, SUPER SPORTS GOLF
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/525.ts
+#EXTINF:-1, SUPER SPORTS premier league
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157940.ts
+#EXTINF:-1, SUPER SPORTS la Liga tv
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157941.ts
 
-#EXTINF:-1 tvg-id="espnusa" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcdY7UM7eLzESXeexsWULhGcpxsbGTABBEyLrc8DgP7MOfLb8Xg3-_v7IfA&s", ESPN 1
-
-
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUUqZs_9boIB-B-BQ9XT8YZbr4GYSn1ki_eR8TD5wO7IZq4Ls7Ppleg28hA&s", ESPN 2
 
 
 
@@ -1080,7 +1087,7 @@ http://51.89.166.17:3002/index.php?id=go_assp4
 http://51.89.166.17:3002/index.php?id=Nba
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
-
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/503.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" type="channel",ESPN 2 Dutch
 http://79.124.52.91:6161/ESPN2HD/index.m3u8
