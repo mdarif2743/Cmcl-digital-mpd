@@ -1,5 +1,8 @@
-
-
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138917_5808_NOE_CCH_fc-web_1766733054113.jpg" group-title="Live Event", Chattogram Royals vs Noakhali Express (Bangladesh Premier League- 2025-26)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c657cf59c36f050d3c065a05415118:00abdaaafb9cae9efbb7f5ec53841c3f
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhuhr4rfjk/out/v1/897cf67b309b4fe1ae5441e401bece4c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
