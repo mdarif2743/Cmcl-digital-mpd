@@ -6,7 +6,7 @@ https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- 2025-26)
-
+http://103.60.204.26:3255/TSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SA 20
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
@@ -163,13 +163,15 @@ http://103.140.254.2:3500/live/559.m3u8
 #EXTINF:-1,SONIC
 http://103.140.254.2:3500/live/815.m3u8
 #EXTINF:-1, CARTOON NETWORK
-http://103.140.254.2:3500/live/816.m3u8
+http://103.60.204.26:3255/CartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355286.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98877.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
-http://66.102.120.18:8000/play/a001/index.m3u8
+#http://66.102.120.18:8000/play/a001/index.m3u8
+http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98872.ts
@@ -192,14 +194,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 ---------------------------------------------------------------------
 -------------------------------SONY----------------------------------
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
-
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment (toffee)
+http://103.60.204.26:3255/SonyEntertainmentTelevisionHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 https://tvsen5.aynaott.com/Wfn4bVp3dLgA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
+http://103.60.204.26:3255/SonyAath/index.m3u8
+#EXTINF:-1,SONY MAX(TOFFEE)
+http://103.60.204.26:3255/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
@@ -215,6 +221,11 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98871.ts
 http://163.61.227.29:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/31314.ts
+#EXTINF:-1,SONY SPORTS 2 SD
+http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
 http://87.255.35.150:18848/
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
@@ -393,8 +404,8 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
-
-
+#EXTINF:-1,ZEE CHINEMA HD FEED
+http://103.60.204.26:3255/ZeeCinemaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98850.ts
@@ -408,8 +419,8 @@ http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="0-9-andpictureshd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98856.ts
 
-
-
+#EXTINF:-1,ZEE BANGLA SD
+http://103.60.204.26:3255/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",And Pictures SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
