@@ -314,6 +314,11 @@ https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TEN SPORTS HD
 http://66.102.120.18:8000/play/a018/index.m3u8
 
+
+#EXTINF:-1,TEN CRICKET 🏏 
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tencricket/mono.ts.m3u8
+
+
 #EXTINF:-1, STAR SPORTS KHEL
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
@@ -682,6 +687,13 @@ https://live2.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
 https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humtv/mono.ts.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
