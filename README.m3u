@@ -12,6 +12,10 @@ http://103.60.204.26:3255/TSportsHD/tracks-v1a1/mono.m3u8
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 
 
+#EXTINF:-1, WILLOW 2
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
