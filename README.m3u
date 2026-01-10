@@ -6,7 +6,7 @@ https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- 2025-26)
-http://103.60.204.26:3255/TSportsHD/tracks-v1a1/mono.m3u8
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tsports/mono.ts.m3u8
 
 #EXTINF:-1,SA 20
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
