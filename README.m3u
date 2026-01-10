@@ -186,9 +186,8 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-#http://103.140.254.2:3500/live/144.m3u8
-http://stvlive.net:8080/colorshd/index.m3u8
-
+#http://stvlive.net:8080/colorshd/index.m3u8
+http://103.175.242.10:8080/colorshd/index.m3u8
 
 #EXTINF:-1, COLORS INFINITY HD
 http://66.102.120.18:8000/play/a014/index.m3u8
@@ -246,7 +245,9 @@ https://tvsen5.aynaott.com/Wfn4bVp3dLgA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+http://103.175.242.10:8080/sonyaath/index.m3u8
+
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
 http://103.60.204.26:3255/SonyAath/index.m3u8
 #EXTINF:-1,SONY MAX(TOFFEE)
@@ -254,7 +255,9 @@ http://103.60.204.26:3255/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-http://66.102.120.18:8000/play/a071/index.m3u8
+#http://66.102.120.18:8000/play/a071/index.m3u8
+http://103.175.242.10:8080/sonymax/index.m3u8
+
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4077.ts
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
@@ -297,7 +300,10 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
-http://stvlive.net:8080/starplus/index.m3u8
+#http://stvlive.net:8080/starplus/index.m3u8
+http://103.175.242.10:8080/starplus/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
