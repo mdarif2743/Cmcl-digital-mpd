@@ -6,14 +6,14 @@ https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- 2025-26)
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tsports/mono.ts.m3u8
+https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
 
 #EXTINF:-1,SA 20
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 
 
 #EXTINF:-1, WILLOW 2
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
@@ -22,8 +22,8 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1,BBL LIVE
 http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/19146/index.m3u8
 #EXTINF:-1,BBL LIVE
-#http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/9258/index.m3u8
-http://178.33.239.54:8080/503/index.m3u8
+http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/9258/index.m3u8
+
 #EXTINF:-1,Sohl sports
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1,MADANI CHANNEL URDU
@@ -34,7 +34,7 @@ http://103.175.242.10:8080/btv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3ehttps://mrgifytv.pages.dev/bpl/tsports/index.m3u8df-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/250px-BTV_News_Logo.png" group-title="BANGLADESH", বিটিভি নিউজ
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
