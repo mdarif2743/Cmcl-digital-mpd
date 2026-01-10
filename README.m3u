@@ -174,8 +174,8 @@ https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
-https://tvsen6.aynaott.com/ZeeBanglaCinema/tracks-v1a1/mono.ts.m3u8
+https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ZEE CAFE HD
 http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1,&EXPLOR HD
