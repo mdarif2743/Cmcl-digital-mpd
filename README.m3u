@@ -252,8 +252,8 @@ http://103.178.78.151:7505/play/a0ul/index.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
-http://103.175.242.10:8080/sonyaath/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+#http://103.175.242.10:8080/sonyaath/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
 http://103.60.204.26:3255/SonyAath/index.m3u8
