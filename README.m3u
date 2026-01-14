@@ -182,6 +182,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1, ZEE CAFE HD
 
@@ -365,18 +367,26 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9397.ts
+https://bongoflixbd.top/bk/25.m3u8?user=bongoflix&pass=eaminvai
+
+
+
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/239.ts
+https://bongoflixbd.top/bk/26.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
+
+
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-#https://tvsen6.aynaott.com/spsel1/tracks-v1a1/mono.ts.m3u8
+#https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
 http://stvlive.net:8080/starselect1/index.m3u8
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#https://tvsen7.aynaott.com/ssps2hd/tracks-v1a1/mono.ts.m3u8
+#https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
 http://stvlive.net:8080/starselect2/index.m3u8
 
 
@@ -401,11 +411,18 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/514856.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
 
+#EXTINF:-1,STAR JALSHA SD
+https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
+
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
 https://stalker.tnm3us.workers.dev/66798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
+#https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
 
