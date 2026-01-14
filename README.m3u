@@ -286,7 +286,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98846.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98871.ts
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-http://163.61.227.29:8000/play/a060/index.m3u8
+#http://163.61.227.29:8000/play/a060/index.m3u8
+https://falconftp.noobmaster.xyz/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
 http://103.175.242.10:8080/sonyten2/index.m3u8
 #EXTINF:-1,SONY SPORTS 2 SD
