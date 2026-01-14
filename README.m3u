@@ -34,8 +34,8 @@ https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1,MADANI CHANNEL URDU
 http://163.61.227.29:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels",BTV NATIONAL HD
-http://103.175.242.10:8080/btv/index.m3u8
-
+#http://103.175.242.10:8080/btv/index.m3u8
+https://bongoflixbd.top/bk/53.m3u8?user=bongoflix&pass=eaminvai
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
 #https://www.btvlive.gov.bd/live/37f2df30-3ehttps://mrgifytv.pages.dev/bpl/tsports/index.m3u8df-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
@@ -76,7 +76,10 @@ http://103.175.242.10:8080/deepto/index.m3u8
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+#https://bongoflixbd.top/bk/65.m3u8?user=bongoflix&pass=eaminvai
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 #http://stvlive.net:8080/somoy/index.m3u8
 http://103.175.242.10:8080/somoy/index.m3u8
@@ -126,6 +129,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/767.ts
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/399.ts
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
+#https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/429.ts
 
 
@@ -197,6 +201,7 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
 #http://stvlive.net:8080/colorshd/index.m3u8
+#https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/colorshd/index.m3u8
 
 #EXTINF:-1, COLORS INFINITY HD
@@ -236,8 +241,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98874.ts
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20622.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
-#https://xfireflix.fun/playlist/bdix-playlist/Nick.m3u8
-#http://66.102.120.18:8000/play/a00w/index.m3u8
+#https://bongoflixbd.top/bk/55.m3u8?user=bongoflix&pass=eaminvai
 http://103.140.254.2:3500/live/545.m3u8
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
@@ -309,6 +313,7 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #http://stvlive.net:8080/starplus/index.m3u8
+#https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/starplus/index.m3u8
 
 
@@ -336,6 +341,7 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wp.logos-download.com/wp-content/uploads/2020/06/9XM_Logo-700x406.png" group-title="AynaOTT - Indian ENT",9XM
+#https://bongoflixbd.top/bk/48.m3u8?user=bongoflix&pass=eaminvai
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 
 
@@ -362,7 +368,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-#https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+#https://bongoflixbd.top/bk/58.m3u8?user=bongoflix&pass=eaminvai
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
 
 
