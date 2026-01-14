@@ -290,7 +290,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98871.ts
 https://falconftp.noobmaster.xyz/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-http://103.175.242.10:8080/sonyten2/index.m3u8
+#http://103.175.242.10:8080/sonyten2/index.m3u8
+https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,SONY SPORTS 2 SD
 http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
@@ -299,7 +301,9 @@ http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/146.ts
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
-http://103.175.242.10:8080/sonyten5/index.m3u8
+#http://103.175.242.10:8080/sonyten5/index.m3u8
+https://falconftp.noobmaster.xyz/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9399.ts
