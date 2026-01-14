@@ -265,7 +265,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
 http://103.60.204.26:3255/SonyAath/index.m3u8
 #EXTINF:-1,SONY MAX(TOFFEE)
-http://103.60.204.26:3255/SonyMAX/tracks-v1a1/mono.m3u8
+https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
@@ -438,7 +438,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
 #http://66.102.120.18:8000/play/a01s/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9376.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
+https://bongoflixbd.top/bk/72.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
@@ -551,6 +553,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#https://bongoflixbd.top/bk/76.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/zeecinema/index.m3u8
 
 
