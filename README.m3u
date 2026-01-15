@@ -1,3 +1,12 @@
+
+
+
+
+
+
+#EXTINF:-1, WORLD CUP U19 LIVE
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd?|drmScheme=clearkey&drmLicense=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- 2025-26)
 https://bongoflixbd.top/bk/102.m3u8?user=bongoflix&pass=eaminvai
 
@@ -30,8 +39,8 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1,BBL LIVE
 https://7pal.short.gy/fox501au
-#EXTINF:-1,BBL LIVE(sky sports nz)
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/O55a90HqWUcaEvdgk6u3BZkxhpZyUt37adKIDsJhDc-SH-yVoTxjfY_WVkhzjEfokqR4ycuawNpDqQ5uEuKlxA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1,BBL LIVE(criclife)
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?|drmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 
 
 
