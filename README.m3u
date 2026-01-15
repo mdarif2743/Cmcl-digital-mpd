@@ -638,9 +638,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/136.ts
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="Shoq",Ary News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fa84110cc26554aeb7c9530e4a2b980:8abac986087083230fcdc1a3b365e74a
-https://live2.shoq.com.pk/live/eds/ARY_News/DASH/ARY_News.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="Shoq",Bol News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
