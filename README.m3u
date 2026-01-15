@@ -612,39 +612,30 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9488.ts
 ===================================================== Shoq Channels ======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png" group-title="Shoq",8XM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
-https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/112.ts
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Jalwa.png" group-title="Shoq",Jalwa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=603b7b19e77808ab634771509b1c7e56:9935dd9c81f9e5478c76bee7100b4a28
-https://live2.shoq.com.pk/live/eds/Jalwa/DASH/Jalwa.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/18311.ts
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/92-News-HD.png" group-title="Shoq",92 News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d37708af12e1605d130b49d58dc7433d:41612caef195c97ab246b64a45b4ba18
-https://live2.shoq.com.pk/live/eds/92_News/DASH/92_News.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/141.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/24-news.png" group-title="Shoq",24 News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live2.shoq.com.pk/live/eds/24_Channel/DASH/24_Channel.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/138.ts
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="Shoq", Aaj News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be2bd90ba46603e147f7e2c75ed367bf:d826e19c7a637a80d3ba9299ad2b822d
-https://live2.shoq.com.pk/live/eds/Aaj_News/DASH/Aaj_News.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/137.ts
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Shoq", Aan TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e6eb6c5fc1753defa332911efb51f74:2eb8d7fa82d8e1d2c08aecb26ce109fd
-https://live2.shoq.com.pk/live/eds/AAN_TV/DASH/AAN_TV.mpd
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png" group-title="Shoq",Abb Tak News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=971afc4c7b4a29686ee22a282f50e9da:f204a8ed43fb4efd3cea8115b56f5884
-https://live2.shoq.com.pk/live/eds/Abb_Takk_News/DASH/Abb_Takk_News.mpd
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/136.ts
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="Shoq",Ary News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
