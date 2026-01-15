@@ -76,8 +76,10 @@ https://bongoflixbd.top/bk/14.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
-#https://tvsen5.aynaott.com/maasrangatv/tracks-v1a1/mono.ts.m3u8
+#https://bongoflixbd.top/bk/51.m3u8?user=bongoflix&pass=eaminvai
 https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
+
+
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
 #http://stvlive.net:8080/channeli/index.m3u8
 #https://bongoflixbd.top/bk/6.m3u8?user=bongoflix&pass=eaminvai
@@ -121,6 +123,7 @@ http://103.175.242.10:8080/channel24/index.m3u8
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
 #http://stvlive.net:8080/atnnews/index.m3u8
+#https://bongoflixbd.top/bk/49.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/atnnews/index.m3u8
 
 
@@ -285,9 +288,13 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment (toffee)
-http://103.60.204.26:3255/SonyEntertainmentTelevisionHD/tracks-v1a1/mono.m3u8
+https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 http://103.178.78.151:7505/play/a0ul/index.m3u8
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
+https://bongoflixbd.top/bk/36.m3u8?user=bongoflix&pass=eaminvai
+
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -301,7 +308,7 @@ https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-#http://66.102.120.18:8000/play/a071/index.m3u8
+#https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
@@ -558,9 +565,8 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 ======================================================== Watcho ==========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho",And TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1,ZEE CHINEMA HD FEED
 http://103.60.204.26:3255/ZeeCinemaHD/index.m3u8
@@ -571,10 +577,13 @@ http://103.175.242.10:8080/zeetv/index.m3u8
 #EXTINF:-1 tvg-id="0-9-andtvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",AndTV HD
 #http://66.102.120.18:8000/play/a01u/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98852.ts
+
+
 #EXTINF:-1,&EXPOLR
 http://66.102.120.18:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-andpictureshd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+#https://bongoflixbd.top/bk/100.m3u8?user=bongoflix&pass=eaminvai
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98856.ts
 
 #EXTINF:-1,ZEE BANGLA SD
@@ -586,14 +595,10 @@ https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="watcho",Zee TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+https://bongoflixbd.top/bk/40.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #https://bongoflixbd.top/bk/76.m3u8?user=bongoflix&pass=eaminvai
 http://103.175.242.10:8080/zeecinema/index.m3u8
 
@@ -1298,4 +1303,4 @@ http://79.124.52.91:6161/ESPN4HD/index.m3u8
 
 
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
-https://stalker.tnm3us.workers.dev/30975.m3u8
+https://bongoflixbd.top/bk/73.m3u8?user=bongoflix&pass=eaminvai
