@@ -928,11 +928,26 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157941.ts
 
 
 
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ",Sky Sport1 NZ FHD
+https://sixseven.attitude.my.id/skynz1/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ",Sky Sport2 NZ FHD
+https://sixseven.attitude.my.id/skynz2/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ",Sky Sport3 NZ FHD
+https://sixseven.attitude.my.id/skynz3/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ",Sky Sport4 NZ FHD
+https://sixseven.attitude.my.id/skynz4/index.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ",Sky Sport5 NZ FHD
+https://sixseven.attitude.my.id/skynz5/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ",Sky Sport6 NZ FHD
+https://sixseven.attitude.my.id/skynz6/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ",Sky Sport7 NZ FHD
+https://sixseven.attitude.my.id/skynz7/index.m3u8
+#EXTINF:-1,SKY SPORT NZ 8
+https://sixseven.attitude.my.id/skynz8/index.m3u8
+#EXTINF:-1,SKY SPORT NZ 9
+https://sixseven.attitude.my.id/skynz9/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
