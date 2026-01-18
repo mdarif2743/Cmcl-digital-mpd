@@ -8,8 +8,8 @@
 https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- 2025-26)
-https://bongoflixbd.top/bk/102.m3u8?user=bongoflix&pass=eaminvai
-
+#https://bongoflixbd.top/bk/102.m3u8?user=bongoflix&pass=eaminvai
+https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
 
 
 
@@ -220,7 +220,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
@@ -308,8 +310,11 @@ https://bongoflixbd.top/bk/36.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
 #http://103.175.242.10:8080/sonyaath/index.m3u8
+https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
 https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
@@ -364,14 +369,19 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/89.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
-https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #http://stvlive.net:8080/starplus/index.m3u8
 #https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
+https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 http://103.175.242.10:8080/starplus/index.m3u8
 
 
@@ -478,6 +488,7 @@ https://stalker.tnm3us.workers.dev/66798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
 #https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
+#https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 
 
@@ -545,7 +556,9 @@ https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
 
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://103.175.242.10:8080/zeetv/index.m3u8
+#http://103.175.242.10:8080/zeetv/index.m3u8
+https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-andtvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",AndTV HD
 #http://66.102.120.18:8000/play/a01u/index.m3u8
