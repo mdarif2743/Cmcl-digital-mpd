@@ -152,7 +152,7 @@ http://103.175.242.10:8080/ekattor/index.m3u8
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="All-In-One~ENT🧩",DBC News
 #https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/420.ts
-
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="All-In-One~ENT🧩",Ekhon Tv
 https://aynaott.unosottor.workers.dev/bpk-tv/ekhon.m3u8
@@ -215,8 +215,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-
-
+#EXTINF:-1,PADMACABLE VISION
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -242,7 +242,10 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #http://stvlive.net:8080/colorshd/index.m3u8
 #https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
 #http://103.175.242.10:8080/colorshd/index.m3u8
+#https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 http://217.20.112.199:8888/ColorsHD/index.m3u8
+
+
 #EXTINF:-1, COLORS INFINITY HD
 
 
