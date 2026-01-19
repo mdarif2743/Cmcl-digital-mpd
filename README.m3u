@@ -242,12 +242,13 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
-
+#https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+http://poketporota.noobmaster.xyz:8080/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-#https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+http://poketporota.noobmaster.xyz:8080/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
@@ -336,8 +337,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
 #http://103.175.242.10:8080/sonyaath/index.m3u8
+#https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
@@ -398,7 +399,10 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
-https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+#https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+http://poketporota.noobmaster.xyz:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 http://stvlive.net:8080/tsports1/index.m3u8
@@ -512,11 +516,11 @@ http://sansatplus.net:88/live/02042009404540/oAQ3hVAnDP5xKuL/100641.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
+#https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 #https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
-https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
-
+#http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+http://poketporota.noobmaster.xyz:8080/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
