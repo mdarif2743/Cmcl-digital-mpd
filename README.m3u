@@ -251,8 +251,8 @@ http://poketporota.noobmaster.xyz:8080/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
-
+#https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
+http://poketporota.noobmaster.xyz:8080/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ZEE CAFE HD
 
@@ -395,12 +395,19 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/89.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
 http://poketporota.noobmaster.xyz:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DD BANGLA
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+
 
 
 
@@ -553,7 +560,10 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/37074.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
+#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
+http://poketporota.noobmaster.xyz:8080/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98908.ts
 
