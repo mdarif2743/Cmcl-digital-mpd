@@ -387,7 +387,7 @@ http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-#https://bongoflixbd.top/bk/22.m3u8?user=bongoflix&pass=eaminvai
+#http://poketporota.noobmaster.xyz:8080/SONYSPORTS3/tracks-v1a1/mono.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/146.ts
 
 
@@ -553,8 +553,8 @@ http://poketporota.noobmaster.xyz:8080/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
-
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+http://poketporota.noobmaster.xyz:8080/STARGOLD2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://poketporota.noobmaster.xyz:8080/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
