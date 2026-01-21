@@ -13,12 +13,12 @@
 https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- play off)
-#https://mrgifytv.pages.dev/bpl/asports/index.m3u8
-http://poketporota.noobmaster.xyz:8080/ASPORTSHD/index.m3u8
+https://mrgifytv.pages.dev/bpl/asports/index.m3u8
+
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- play off)
 #https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
-https://nancy-sides-recruitment-wonderful.trycloudflare.com/emax.m3u8
+https://emaxtv.exmax.workers.dev/emax.m3u8
 
 
 
@@ -246,17 +246,17 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-#https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
-http://poketporota.noobmaster.xyz:8080/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
-http://poketporota.noobmaster.xyz:8080/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
-http://poketporota.noobmaster.xyz:8080/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1, ZEE CAFE HD
 
@@ -310,8 +310,8 @@ http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98872.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98874.ts
-http://poketporota.noobmaster.xyz:8080/NATGEOHD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98874.ts
+
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
@@ -331,8 +331,8 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
 #https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
-#http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
-http://poketporota.noobmaster.xyz:8080/SONYENTHD/tracks-v1a1/mono.m3u8
+http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.178.78.151:7505/play/a0ul/index.m3u8
@@ -340,7 +340,7 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
-https://bongoflixbd.top/bk/36.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
@@ -352,18 +352,18 @@ https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
-https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
+
 
 
 #EXTINF:-1,SONY MAX(TOFFEE)
-https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
+
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
 #http://103.175.242.10:8080/sonymax/index.m3u8
-#https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
-http://poketporota.noobmaster.xyz:8080/SONYMAXHD/index.m3u8
+https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
@@ -374,12 +374,12 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98846.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98871.ts
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-#http://163.61.227.29:8000/play/a060/index.m3u8
-https://falconftp.noobmaster.xyz/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
+http://163.61.227.29:8000/play/a060/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-#http://103.175.242.10:8080/sonyten2/index.m3u8
-https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/sonyten2/index.m3u8
+
 
 #EXTINF:-1,SONY SPORTS 2 SD
 http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
@@ -392,8 +392,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/146.ts
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
-#http://103.175.242.10:8080/sonyten5/index.m3u8
-https://falconftp.noobmaster.xyz/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/sonyten5/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
@@ -410,14 +410,14 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/89.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
-#https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
-http://poketporota.noobmaster.xyz:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
+https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -436,8 +436,8 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-#http://103.175.242.10:8080/starplus/index.m3u8
-http://poketporota.noobmaster.xyz:8080/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/starplus/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
@@ -498,20 +498,20 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9397.ts
-#https://bongoflixbd.top/bk/25.m3u8?user=bongoflix&pass=eaminvai
-http://poketporota.noobmaster.xyz:8080/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9397.ts
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/239.ts
-#https://bongoflixbd.top/bk/26.m3u8?user=bongoflix&pass=eaminvai
-http://poketporota.noobmaster.xyz:8080/STARSPORTS2HD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/239.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
-http://poketporota.noobmaster.xyz:8080/STARSPORTS3/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
+
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 #https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
@@ -537,37 +537,36 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
 
 #EXTINF:-1,STAR JALSHA SD
-https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-#https://stalker.tnm3us.workers.dev/66798.m3u8
-http://sansatplus.net:88/live/02042009404540/oAQ3hVAnDP5xKuL/100641.ts
+https://stalker.tnm3us.workers.dev/66798.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 #https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
-#http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
-http://poketporota.noobmaster.xyz:8080/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
-http://poketporota.noobmaster.xyz:8080/STARGOLD2HD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-#http://poketporota.noobmaster.xyz:8080/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9376.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
-#https://bongoflixbd.top/bk/72.m3u8?user=bongoflix&pass=eaminvai
-http://poketporota.noobmaster.xyz:8080/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
-http://poketporota.noobmaster.xyz:8080/STARBHARATHD/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
@@ -583,8 +582,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/37074.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
-http://poketporota.noobmaster.xyz:8080/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
@@ -614,14 +613,14 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20512.ts
 ======================================================== Watcho ==========================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho",And TV SD
-https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
+
 
 
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #http://103.175.242.10:8080/zeetv/index.m3u8
-#https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
-http://poketporota.noobmaster.xyz:8080/ZEETVHD/tracks-v1a1/mono.m3u8
+https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-andtvhd" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",AndTV HD
 #http://66.102.120.18:8000/play/a01u/index.m3u8
@@ -636,7 +635,7 @@ http://66.102.120.18:8000/play/a012/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98856.ts
 
 #EXTINF:-1,ZEE BANGLA SD
-https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",And Pictures SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -674,8 +673,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7065.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/52495.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="watcho",Zing
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/970.ts
-http://poketporota.noobmaster.xyz:8080/ZING/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/970.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="watcho",Zoom
@@ -874,7 +873,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148559.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/186630.ts
 
 #EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/84882a51b6c9326e4499dedbb089ca95bd82663084027217207edb964a9a89ad.jpg" group-title="Sports",Ten Cricket Peo
-https://bongoflixbd.top/toffee/ten_cricket.m3u8?user=bongoflix&pass=eaminvai
+
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png" group-title="Sports",FOX 501 HD
@@ -1013,25 +1012,25 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157941.ts
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ",Sky Sport1 NZ FHD
-https://sixseven.attitude.my.id/skynz1/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ",Sky Sport2 NZ FHD
-https://sixseven.attitude.my.id/skynz2/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ",Sky Sport3 NZ FHD
-https://sixseven.attitude.my.id/skynz3/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ",Sky Sport4 NZ FHD
-https://sixseven.attitude.my.id/skynz4/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ",Sky Sport5 NZ FHD
-https://sixseven.attitude.my.id/skynz5/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ",Sky Sport6 NZ FHD
-https://sixseven.attitude.my.id/skynz6/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ",Sky Sport7 NZ FHD
-https://sixseven.attitude.my.id/skynz7/index.m3u8
+
 #EXTINF:-1,SKY SPORT NZ 8
-https://sixseven.attitude.my.id/skynz8/index.m3u8
+
 #EXTINF:-1,SKY SPORT NZ 9
-https://sixseven.attitude.my.id/skynz9/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" type="channel",ESPN Dutch
@@ -1052,4 +1051,4 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 
 
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
-https://bongoflixbd.top/bk/73.m3u8?user=bongoflix&pass=eaminvai
+
