@@ -1057,3 +1057,13 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTVSPORTS HD 66.102.120.18
 
+
+#EXTINF:-1, SPORTS 1 
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1, SPORTS 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1, SPORTS 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1, SPORTS 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
+
