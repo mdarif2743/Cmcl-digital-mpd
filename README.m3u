@@ -250,8 +250,8 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
-
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+https://livetvapp.vercel.app/tracks-v1a1/277416/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
@@ -342,16 +342,18 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
+https://livetvapp.vercel.app/tracks-v1a1/276921/mono.m3u8
+
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4083.ts
 #http://103.175.242.10:8080/sonyaath/index.m3u8
-#https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
+#http://cdnd.sonyplex.com:8090/hls/SonyAtth.m3u8
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(BSCL FEED)
-
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 
 
 #EXTINF:-1,SONY MAX(TOFFEE)
@@ -359,7 +361,7 @@ https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-#https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
+#http://cdnd.sonyplex.com:8090/hls/sonymaxhd.m3u8
 #http://103.175.242.10:8080/sonymax/index.m3u8
 https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
 
@@ -411,11 +413,17 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/89.ts
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 
+#EXTINF:-1, BONGO DRAMA
+https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
+#EXTINF:-1, BONGO MOVIE
+https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream/a02e1e3c-eeba-4339-88e1-d6f7e99669e2/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
-
+http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -433,7 +441,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
-#https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
+#http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 http://103.175.242.10:8080/starplus/index.m3u8
 
@@ -441,7 +449,7 @@ http://103.175.242.10:8080/starplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
@@ -544,11 +552,9 @@ https://stalker.tnm3us.workers.dev/66798.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-#https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
-#https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
-http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
-
+#http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+https://livetvapp.vercel.app/tracks-v1a1/277425/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
@@ -565,7 +571,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
-
+https://livetvapp.vercel.app/tracks-v1a1/276909/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
@@ -807,7 +813,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/128.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122.ts
-
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/121.ts
