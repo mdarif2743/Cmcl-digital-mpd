@@ -95,8 +95,8 @@ http://103.175.242.10:8080/channeli/index.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
 #http://stvlive.net:8080/ntv/index.m3u8
-http://103.175.242.10:8080/ntv/index.m3u8
-
+#http://103.175.242.10:8080/ntv/index.m3u8
+https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
@@ -330,9 +330,8 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-#https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
-http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
-
+#http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
+http://217.20.112.199/sethd/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.178.78.151:7505/play/a0ul/index.m3u8
