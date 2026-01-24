@@ -55,8 +55,8 @@ http://103.175.242.10:8080/btv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
-#https://www.btvlive.gov.bd/live/37f2df30-3ehttps://mrgifytv.pages.dev/bpl/tsports/index.m3u8df-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3818.ts
+https://www.btvlive.gov.bd/live/37f2df30-3ehttps://mrgifytv.pages.dev/bpl/tsports/index.m3u8df-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/250px-BTV_News_Logo.png" group-title="BANGLADESH", বিটিভি নিউজ
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -126,7 +126,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
 #https://aynaott.unosottor.workers.dev/bpk-tv/channel9.m3u8
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/434.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/434.ts
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 http://103.175.242.10:8080/channel24/index.m3u8
@@ -181,8 +181,8 @@ http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/408.ts
-
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/408.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/408.ts
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/767.ts
@@ -190,9 +190,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/399.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/399.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/399.ts
+
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
-#https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 
 
@@ -209,8 +210,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/411.ts
-
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/411.ts
 
 
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Channels",Global TV
@@ -250,12 +250,12 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/3753.ts
 
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/49615.ts
 
 
 #EXTINF:-1, ZEE CAFE HD
@@ -279,16 +279,16 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
-#https://cdn-4.pishow.tv/live/1143/master.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/405.ts
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/18456.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/18456.ts
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/66162.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/66162.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 #http://66.102.120.18:8000/play/a013/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/19741.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/19741.ts
 #EXTINF:-1,POGO
 http://103.140.254.2:3500/live/559.m3u8
 #EXTINF:-1,SONIC
@@ -296,29 +296,28 @@ http://103.140.254.2:3500/live/815.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://103.60.204.26:3255/CartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ETV BAL BHARAT
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355286.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/355286.ts
 
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98877.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/9392.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
 #http://66.102.120.18:8000/play/a001/index.m3u8
 http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98872.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/156.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98874.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/7342.ts
 
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20622.ts
+http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/1623.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
-#https://bongoflixbd.top/bk/55.m3u8?user=bongoflix&pass=eaminvai
 http://103.140.254.2:3500/live/545.m3u8
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
