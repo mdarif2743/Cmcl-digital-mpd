@@ -1295,7 +1295,7 @@ http://178.33.239.54:8080/508a/index.m3u8
 
 
 #EXTINF:-1  tvg-name="Sky Sports Football FHD" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sky Sports" radio="false",Sky Sports Football
-https://zamlb.tgaadi.workers.dev/103979.ts
+http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports" radio="false",Sky Sports Golf
 https://zamlb.tgaadi.workers.dev/1785.ts
 #EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports" radio="false",Sky Sports Main Event
