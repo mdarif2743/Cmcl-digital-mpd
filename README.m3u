@@ -345,8 +345,8 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 https://livetvapp.vercel.app/tracks-v1a1/276921/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://103.175.242.10:8080/sonyaath/index.m3u8
-http://cdnd.sonyplex.com:8090/hls/SonyAtth.m3u8
+http://103.175.242.10:8080/sonyaath/index.m3u8
+
 
 
 
@@ -360,8 +360,8 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://cdnd.sonyplex.com:8090/hls/sonymaxhd.m3u8
-#http://103.175.242.10:8080/sonymax/index.m3u8
-https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
+http://103.175.242.10:8080/sonymax/index.m3u8
+
 
 
 
@@ -559,7 +559,10 @@ http://103.229.254.25:7001/play/a0df/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+#http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+http://103.175.242.10:8080/stargold/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
@@ -637,9 +640,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+http://103.175.242.10:8080/zeetv/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="watcho",Zee TV SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -647,10 +650,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-
+http://103.175.242.10:8080/zeecinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
