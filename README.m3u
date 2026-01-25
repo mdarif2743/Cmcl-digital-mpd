@@ -397,7 +397,7 @@ http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-
+http://webhop.live:8080/live/24652367/36732367/98866.ts
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 http://cdnd.sonyplex.com:8090/hls/StarSportsHindi2HD.m3u8
