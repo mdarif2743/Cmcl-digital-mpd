@@ -1285,13 +1285,12 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sky Sports" radio="false",Sky Sports Action
 https://zamlb.tgaadi.workers.dev/1775.ts
 #EXTINF:-1  tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky Sports" radio="false",Sky Sports Cricket
-https://zamlb.tgaadi.workers.dev/1779.ts
+http://178.33.239.54:8080/503a/index.m3u8
 
 
 
 #EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sky Sports" radio="false",Sky Sports F1
-#https://zamlb.tgaadi.workers.dev/1783.ts
-https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mayn9zpunj/out/v1/5623834d108749bebb71979abdfe7dd8/cenc.mpd?|drmScheme=clearkey&drmLicense=62ac0f0c382a696058c8598821d6591d:75a5350cc5bc7eb38efeb694ec13e0a0
+http://178.33.239.54:8080/508a/index.m3u8
 
 
 
@@ -1302,10 +1301,7 @@ https://zamlb.tgaadi.workers.dev/1785.ts
 #EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports" radio="false",Sky Sports Main Event
 https://zamlb.tgaadi.workers.dev/1771.ts
 #EXTINF:-1  tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports" radio="false",Sky Sports Mix
-#https://zamlb.tgaadi.workers.dev/1789.ts
-https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd?|drmScheme=clearkey&drmLicense=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
-
-
+http://178.33.239.54:8080/507a/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports" radio="false",Sky Sports News
 https://zamlb.tgaadi.workers.dev/1787.ts
