@@ -251,7 +251,7 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/3753.ts
-
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
@@ -579,12 +579,12 @@ https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/37074.ts
+http://163.61.227.29:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
+
 
 
 
@@ -596,10 +596,10 @@ http://webhop.live:8080/live/24652367/36732367/98908.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/172368.ts
+http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
-#http://93.184.10.248/MBCBollywood/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20512.ts
+http://93.184.10.248/MBCBollywood/index.m3u8
+
 
 
 
