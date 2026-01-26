@@ -347,11 +347,11 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
-
+http://103.99.249.139/sonysab/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
-https://livetvapp.vercel.app/tracks-v1a1/276921/mono.m3u8
+http://103.175.73.12:8080/live/11/11_0.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 http://103.175.242.10:8080/sonyaath/index.m3u8
@@ -366,7 +366,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 #EXTINF:-1,SONY MAX(TOFFEE)
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/204.ts
+http://103.175.73.12:8080/live/122/122_0.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://cdnd.sonyplex.com:8090/hls/sonymaxhd.m3u8
 http://103.175.242.10:8080/sonymax/index.m3u8
@@ -580,7 +580,7 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://webhop.live:8080/live/24652367/36732367/98855.ts
-
+http://103.175.73.12:8080/live/3/3_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
