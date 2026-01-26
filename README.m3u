@@ -258,7 +258,6 @@ https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/3753.ts
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
 
@@ -276,8 +275,7 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-#http://cdnd.sonyplex.com:8090/hls/ColorsHD.m3u8
-#https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
+#http://103.99.249.139/colors/index.m3u8
 #http://103.175.242.10:8080/colorshd/index.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 http://217.20.112.199:8888/ColorsHD/index.m3u8
@@ -371,7 +369,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://103.175.73.12:8080/live/122/122_0.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-#http://cdnd.sonyplex.com:8090/hls/sonymaxhd.m3u8
+#http://103.99.249.139/sonymax/index.m3u8
 http://103.175.242.10:8080/sonymax/index.m3u8
 
 
@@ -398,7 +396,7 @@ http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-http://cdnd.sonyplex.com:8090/hls/SonyTen3hd.m3u8
+http://103.99.249.139/sonyten3/index.m3u8
 
 
 
