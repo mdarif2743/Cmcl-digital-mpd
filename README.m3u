@@ -507,9 +507,9 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-#https://bongoflixbd.top/bk/58.m3u8?user=bongoflix&pass=eaminvai
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 http://cdnd.sonyplex.com:8090/hls/StarSports1HD.m3u8
@@ -611,8 +611,8 @@ http://163.61.227.29:8000/play/a04c/index.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 
-
-
+#EXTINF:-1, UTSAV GOLD
+http://45.148.145.57/IN_STU/index.m3u8
 
 
 
@@ -848,7 +848,7 @@ https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="Shoq",Ary News
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/143.ts
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 
 
 
@@ -869,7 +869,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/133.ts
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/dunya.png" group-title="Shoq",Dunya News
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/134.ts
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/express-news.png" group-title="Shoq",Express News
@@ -877,7 +877,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/58.ts
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-news.png" group-title="Shoq", Geo News
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/129.ts
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/hum-news.png" group-title="Shoq",Hum News
@@ -913,7 +913,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/123.ts
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/257229.ts
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary_muzik.png" group-title="Shoq", ARY Musik
@@ -933,7 +933,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/118.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/119.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Shoq",Geo Kahani
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/120.ts
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Geo-taiz.png" group-title="Shoq", Geo Taiz
@@ -941,8 +941,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/128.ts
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122.ts
-https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+http://45.148.145.57/PAK_HUMTVG/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/121.ts
