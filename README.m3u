@@ -268,7 +268,7 @@ http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/49615.ts
 
 
 #EXTINF:-1, ZEE CAFE HD
-
+http://webhop.live:8080/live/24652367/36732367/98848.ts
 #EXTINF:-1,&EXPLOR HD
 
 
@@ -285,7 +285,7 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
 #EXTINF:-1, COLORS INFINITY HD
-
+http://webhop.live:8080/live/24652367/36732367/98879.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -379,11 +379,11 @@ http://103.175.242.10:8080/sonymax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4077.ts
+
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98846.ts
+http://webhop.live:8080/live/24652367/36732367/98846.ts
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98871.ts
+http://webhop.live:8080/live/24652367/36732367/98871.ts
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 http://cdnd.sonyplex.com:8090/hls/SonyTen1hd.m3u8
@@ -578,7 +578,7 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+http://webhop.live:8080/live/24652367/36732367/98858.ts
 
 
 
@@ -587,11 +587,11 @@ http://webhop.live:8080/live/24652367/36732367/98855.ts
 http://103.175.73.12:8080/live/3/3_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
+http://webhop.live:8080/live/24652367/36732367/98842.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
+http://webhop.live:8080/live/24652367/36732367/98843.ts
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://163.61.227.29:8000/play/a04w/index.m3u8
