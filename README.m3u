@@ -364,8 +364,8 @@ http://103.175.242.10:8080/sonyaath/index.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 
 
-#EXTINF:-1,SONY MAX(TOFFEE)
-
+#EXTINF:-1,SONY MAX 2(TOFFEE)
+http://103.175.73.12:8080/live/39/39_0.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://103.175.73.12:8080/live/122/122_0.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
@@ -376,7 +376,7 @@ http://103.175.242.10:8080/sonymax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-
+http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://webhop.live:8080/live/24652367/36732367/98846.ts
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
@@ -524,7 +524,7 @@ http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
+http://103.175.73.12:8080/live/69/69_0.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
