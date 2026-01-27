@@ -371,8 +371,8 @@ http://103.175.73.12:8080/live/122/122_0.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://103.99.249.139/sonymax/index.m3u8
 http://103.175.242.10:8080/sonymax/index.m3u8
-
-
+#EXTINF:-1,MAX 1
+http://103.175.73.12:8080/live/164/164_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
