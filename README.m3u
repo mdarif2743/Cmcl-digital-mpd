@@ -579,6 +579,11 @@ http://webhop.live:8080/live/24652367/36732367/98858.ts
 
 
 
+#EXTINF:-1, STAR GOLD SD
+http://103.175.73.12:8080/live/31/31_0.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://webhop.live:8080/live/24652367/36732367/98855.ts
 http://103.175.73.12:8080/live/3/3_0.m3u8
