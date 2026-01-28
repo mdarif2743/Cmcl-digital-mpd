@@ -419,7 +419,7 @@ http://webhop.live:8080/live/24652367/36732367/98866.ts
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 http://cdnd.sonyplex.com:8090/hls/StarSportsHindi2HD.m3u8
-
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
 
 
@@ -524,7 +524,7 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 http://cdnd.sonyplex.com:8090/hls/StarSports1HD.m3u8
 http://103.99.249.139/starsport1/index.m3u8
-
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
@@ -585,7 +585,7 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 http://webhop.live:8080/live/24652367/36732367/98858.ts
-
+http://tvn1.chowdhury-shaheb.com/stargold/index.m3u8
 
 
 #EXTINF:-1, STAR GOLD SD
