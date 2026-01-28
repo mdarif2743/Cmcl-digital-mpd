@@ -1351,14 +1351,21 @@ http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky Sports" radio="false",Sky Sports Golf
 https://zamlb.tgaadi.workers.dev/1785.ts
 #EXTINF:-1  tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky Sports" radio="false",Sky Sports Main Event
-https://zamlb.tgaadi.workers.dev/1771.ts
+#https://zamlb.tgaadi.workers.dev/1771.ts
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
+
+
+
 #EXTINF:-1  tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky Sports" radio="false",Sky Sports Mix
 http://178.33.239.54:8080/507a/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky Sports" radio="false",Sky Sports News
 https://zamlb.tgaadi.workers.dev/1787.ts
 #EXTINF:-1  tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports" radio="false",Sky Sports Premier League
-https://zamlb.tgaadi.workers.dev/1773.ts
+#https://zamlb.tgaadi.workers.dev/1773.ts
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+
+
 #EXTINF:-1  tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sky Sports" radio="false",Sky Sports Racing
 https://zamlb.tgaadi.workers.dev/3102.ts
 #EXTINF:-1  tvg-name="Sky Sports Tennis FHD" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ZNUDU1r.png" group-title="Sky Sports" radio="false",Sky Sports Tennis
