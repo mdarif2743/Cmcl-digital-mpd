@@ -1,13 +1,6 @@
 
 
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="",Criclife Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
 #https://bongoflixbd.top/bk/102.m3u8?user=bongoflix&pass=eaminvai
@@ -529,12 +522,12 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
-http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-
+#http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+http://webhop.live:8080/live/24652367/36732367/98864.ts
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
-
+#http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
+http://webhop.live:8080/live/24652367/36732367/98865.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
