@@ -348,7 +348,9 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
-http://103.99.249.139/sonysab/index.m3u8
+#http://103.99.249.139/sonysab/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://103.175.73.12:8080/live/11/11_0.m3u8
