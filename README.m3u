@@ -443,11 +443,11 @@ http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/89.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
-#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
@@ -564,7 +564,7 @@ http://stvlive.net:8080/starselect2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="AynaOTT - Sports",Willow Sports
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/215.ts
+https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
 
 
 
