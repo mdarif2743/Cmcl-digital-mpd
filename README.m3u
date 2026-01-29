@@ -32,7 +32,7 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 
-#EXTINF:-1,SA 20 LIVE
+#EXTINF:-1,FOX SPORTS 501
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1,BBL LIVE
 https://7pal.short.gy/fox501au
@@ -1082,6 +1082,10 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 
+
+#EXTINF:-1,DAZAN 1
+http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19158/index.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
@@ -1385,6 +1389,9 @@ https://zamlb.tgaadi.workers.dev/96988.ts
 https://zamlb.tgaadi.workers.dev/15578.ts
 
 
+
+#EXTINF:-1,FOX SPORTS
+http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19138/index.m3u8
 #EXTINF:-1,Hub Sports 1
 https://zamlb.tgaadi.workers.dev/107194.ts 
 
@@ -1467,6 +1474,8 @@ https://sdmax111.provegooott.com/17_.m3u8
 
 
 
+#EXTINF:-1, SPORTS 1 
+http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19161/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ",Sky Sport1 NZ FHD
