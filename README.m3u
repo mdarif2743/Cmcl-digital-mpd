@@ -3,6 +3,9 @@ http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=25
 #EXTINF:-1, DD SPORTS 
 http://103.175.73.12:8080/live/280/280_0.m3u8
 
+
+#EXTINF:-1, EUROSPORT HD
+http://103.175.73.12:8080/live/283/283_0.m3u8
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
 
 
