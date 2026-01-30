@@ -329,8 +329,8 @@ http://103.175.73.12:8080/live/116/116_0.m3u8
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
-#https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/1623.ts
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
 http://103.175.73.12:8080/live/121/121_0.m3u8
 
@@ -521,18 +521,20 @@ http://103.175.73.12:8080/live/44/44_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://wp.logos-download.com/wp-content/uploads/2020/06/9XM_Logo-700x406.png" group-title="AynaOTT - Indian ENT",9XM
 #https://bongoflixbd.top/bk/48.m3u8?user=bongoflix&pass=eaminvai
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+http://103.175.73.12:8080/live/155/155_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2024/11/musicindia001.jpg" group-title="AynaOTT - Indian ENT",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-
+#https://cdn-2.pishow.tv/live/226/master.m3u8
+http://103.175.73.12:8080/live/158/158_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/a4e5fbf23a54106f0fb08d6950f35e332d4766923db80ed413049bd35a121bf8.jpg" group-title="AynaOTT - Indian ENT",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+http://103.175.73.12:8080/live/161/161_0.m3u8
 
 
-
+#EXTINF:-1,E24 MUSIC
+http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1,BALLE BALLE HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 
@@ -550,8 +552,8 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-
+#https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+http://103.175.73.12:8080/live/157/157_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
@@ -588,7 +590,7 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 
 #EXTINF:-1, STAR SPORTS KHEL
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
+http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1,STAR GOLD THRILLS
 http://103.175.73.12:8080/live/36/36_0.m3u8
 
