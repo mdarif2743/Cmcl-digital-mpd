@@ -414,19 +414,13 @@ http://103.175.73.12:8080/live/58/58_0.m3u8
 http://103.175.73.12:8080/live/131/131_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-http://cdnd.sonyplex.com:8090/hls/SonyTen1hd.m3u8
 #http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
 http://103.175.73.12:8080/live/74/74_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-#http://cdnd.sonyplex.com:8090/hls/SonyTen2hd.m3u8
-#http://103.175.73.12:8080/live/76/76_0.m3u8
-https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-
-
-#EXTINF:-1,SONY SPORTS 2 SD
-
+#https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
+http://103.175.73.12:8080/live/76/76_0.m3u8
 
 
 
