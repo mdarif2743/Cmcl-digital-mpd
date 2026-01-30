@@ -294,14 +294,14 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-
+http://103.175.73.12:8080/live/320/320_0.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 http://103.175.73.12:8080/live/126/126_0.m3u8
 
 #EXTINF:-1,POGO
-http://103.140.254.2:3500/live/559.m3u8
+http://103.175.73.12:8080/live/323/323_0.m3u8
 #EXTINF:-1,SONIC
 http://103.175.73.12:8080/live/124/124_0.m3u8
 #EXTINF:-1, CARTOON NETWORK
