@@ -290,8 +290,8 @@ http://103.175.73.12:8080/live/7/7_0.m3u8
 http://103.175.73.12:8080/live/28/28_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
+#https://cdn-4.pishow.tv/live/1143/master.m3u8
+http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
 http://103.175.73.12:8080/live/320/320_0.m3u8
