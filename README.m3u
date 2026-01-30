@@ -286,11 +286,11 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #http://103.99.249.139/colors/index.m3u8
 #http://103.175.242.10:8080/colorshd/index.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-http://217.20.112.199:8888/ColorsHD/index.m3u8
-
+#http://217.20.112.199:8888/ColorsHD/index.m3u8
+http://103.175.73.12:8080/live/7/7_0.m3u8
 
 #EXTINF:-1, COLORS INFINITY HD
-http://webhop.live:8080/live/24652367/36732367/98879.ts
+http://103.175.73.12:8080/live/28/28_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -411,17 +411,19 @@ http://103.175.73.12:8080/live/164/164_0.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
 http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://webhop.live:8080/live/24652367/36732367/98846.ts
+http://103.175.73.12:8080/live/58/58_0.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 http://webhop.live:8080/live/24652367/36732367/98871.ts
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 http://cdnd.sonyplex.com:8090/hls/SonyTen1hd.m3u8
-http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
+#http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
+http://103.175.73.12:8080/live/74/74_0.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen2hd.m3u8
-#http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+#http://103.175.73.12:8080/live/76/76_0.m3u8
 https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
 
 
@@ -431,21 +433,21 @@ https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-http://103.99.249.139/sonyten3/index.m3u8
+http://103.175.73.12:8080/live/78/78_0.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
-http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+#http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
+http://103.175.73.12:8080/live/80/80_0.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-http://webhop.live:8080/live/24652367/36732367/98866.ts
+http://103.175.73.12:8080/live/70/70_0.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 http://cdnd.sonyplex.com:8090/hls/StarSportsHindi2HD.m3u8
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+http://103.175.73.12:8080/live/83/83_0.m3u8
 
 
 
@@ -550,11 +552,11 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-http://webhop.live:8080/live/24652367/36732367/98864.ts
+http://103.175.73.12:8080/live/65/65_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
 #http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
-http://webhop.live:8080/live/24652367/36732367/98865.ts
+http://103.175.73.12:8080/live/67/67_0.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
@@ -584,7 +586,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/43444.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
 
-#EXTINF:-1,STAR JALSHA SD
+
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
@@ -619,35 +621,34 @@ http://103.175.73.12:8080/live/31/31_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://webhop.live:8080/live/24652367/36732367/98855.ts
 http://103.175.73.12:8080/live/3/3_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://webhop.live:8080/live/24652367/36732367/98842.ts
+http://103.175.73.12:8080/live/56/56_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://webhop.live:8080/live/24652367/36732367/98843.ts
+http://103.175.73.12:8080/live/60/60_0.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://103.175.73.12:8080/live/437/437_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-
+http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 http://103.175.73.12:8080/live/441/441_0.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-http://webhop.live:8080/live/24652367/36732367/98908.ts
+http://103.175.73.12:8080/live/37/37_0.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-http://163.61.227.29:8000/play/a04c/index.m3u8
+http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 
@@ -658,8 +659,8 @@ http://45.148.145.57/IN_STU/index.m3u8
 #EXTINF:-1,DD NATIONAL HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-
-
+#EXTINF:-1, DANGAL 2
+http://103.175.73.12:8080/live/18/18_0.m3u8
 
 
 
