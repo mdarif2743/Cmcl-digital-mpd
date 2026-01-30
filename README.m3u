@@ -321,6 +321,8 @@ http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
 
 
@@ -346,7 +348,8 @@ http://217.20.112.199/sethd/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
-http://217.20.112.199:8888/sabtvhd/index.m3u8
+#http://217.20.112.199:8888/sabtvhd/index.m3u8
+http://103.175.73.12:8080/live/5/5_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
@@ -373,6 +376,7 @@ http://103.175.73.12:8080/live/39/39_0.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 http://103.175.73.12:8080/live/122/122_0.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
+#http://103.175.73.12:8080/live/32/32_0.m3u8
 #http://103.99.249.139/sonymax/index.m3u8
 http://103.175.242.10:8080/sonymax/index.m3u8
 
@@ -396,8 +400,8 @@ http://ahostingportal.com:8000/62664054820/5271593547/3019
 http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
-
-
+#EXTINF:-1, STAR UTSAV
+http://103.175.73.12:8080/live/9/9_0.m3u8
 #EXTINF:-1,MAX 1
 http://103.175.73.12:8080/live/164/164_0.m3u8
 
@@ -482,7 +486,8 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-http://103.175.242.10:8080/starplus/index.m3u8
+#http://103.175.242.10:8080/starplus/index.m3u8
+http://103.175.73.12:8080/live/1/1_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
@@ -492,20 +497,32 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+http://103.175.73.12:8080/live/17/17_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#https://cdn-2.pishow.tv/live/1459/master.m3u8
+http://103.175.73.12:8080/live/53/53_0.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+#https://cdn-2.pishow.tv/live/1461/master.m3u8
+http://103.175.73.12:8080/live/51/51_0.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+#https://cdn-2.pishow.tv/live/1460/master.m3u8
+http://103.175.73.12:8080/live/46/46_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+http://103.175.73.12:8080/live/43/43_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
+#https://cdn-2.pishow.tv/live/227/master.m3u8
+http://103.175.73.12:8080/live/44/44_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wp.logos-download.com/wp-content/uploads/2020/06/9XM_Logo-700x406.png" group-title="AynaOTT - Indian ENT",9XM
@@ -578,8 +595,8 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1, STAR SPORTS KHEL
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
-
-
+#EXTINF:-1,STAR GOLD THRILLS
+http://103.175.73.12:8080/live/36/36_0.m3u8
 
 
 
@@ -595,17 +612,17 @@ https://stalker.tnm3us.workers.dev/66798.m3u8
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0df/index.m3u8
+http://103.175.73.12:8080/live/34/34_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
-http://103.175.242.10:8080/stargold/index.m3u8
+http://103.175.73.12:8080/live/40/40_0.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://webhop.live:8080/live/24652367/36732367/98858.ts
+http://103.175.73.12:8080/live/30/30_0.m3u8
 http://tvn1.chowdhury-shaheb.com/stargold/index.m3u8
 
 
