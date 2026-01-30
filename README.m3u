@@ -306,9 +306,9 @@ http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/19741.ts
 #EXTINF:-1,POGO
 http://103.140.254.2:3500/live/559.m3u8
 #EXTINF:-1,SONIC
-http://103.140.254.2:3500/live/815.m3u8
+http://103.175.73.12:8080/live/124/124_0.m3u8
 #EXTINF:-1, CARTOON NETWORK
-http://103.60.204.26:3255/CartoonNetwork/tracks-v1a1/mono.m3u8
+http://103.175.73.12:8080/live/127/127_0.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 http://103.175.73.12:8080/live/319/319_0.m3u8
 
@@ -328,7 +328,7 @@ http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/7342.ts
+
 
 
 
@@ -413,7 +413,7 @@ http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://103.175.73.12:8080/live/58/58_0.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://webhop.live:8080/live/24652367/36732367/98871.ts
+http://103.175.73.12:8080/live/131/131_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 http://cdnd.sonyplex.com:8090/hls/SonyTen1hd.m3u8
