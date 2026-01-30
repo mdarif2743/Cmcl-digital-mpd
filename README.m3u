@@ -336,7 +336,7 @@ http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/7342.ts
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/1623.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
-http://103.140.254.2:3500/live/545.m3u8
+http://103.175.73.12:8080/live/121/121_0.m3u8
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
 https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8
