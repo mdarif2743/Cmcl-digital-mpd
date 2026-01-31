@@ -306,8 +306,10 @@ http://103.175.73.12:8080/live/126/126_0.m3u8
 
 #EXTINF:-1,POGO
 http://103.175.73.12:8080/live/323/323_0.m3u8
-#EXTINF:-1,SONIC
-http://103.175.73.12:8080/live/124/124_0.m3u8
+#EXTINF:-1,SONIC বাংলা
+#http://103.175.73.12:8080/live/124/124_0.m3u8
+http://ziboflow.ott-king.top:8080/SONIC/BAN/index.m3u8
+
 #EXTINF:-1, CARTOON NETWORK
 http://103.175.73.12:8080/live/127/127_0.m3u8
 #EXTINF:-1,ETV BAL BHARAT
