@@ -16,8 +16,8 @@ http://103.175.73.12:8080/live/283/283_0.m3u8
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
 #https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-
+#https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
+http://ziboflow.ott-king.top:8080/T_SPORTS/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1,geo super
