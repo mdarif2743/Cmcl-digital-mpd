@@ -195,7 +195,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://ziboflow.ott-king.top:8080/gtv/index.m3u8
+http://ziboflow.ott-king.top:8080/gtv/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -231,8 +231,10 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png" group-title="BANGLADESH", নাগরিক টিভি
 #http://51.83.129.17/hls/Nagorik/index.m3u8
-#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/3802.ts
-http://116.204.149.16/nagorik/index.m3u8
+#http://116.204.149.16/nagorik/index.m3u8
+http://ziboflow.ott-king.top:8080/starplus/video.m3u8?token=NO_IP_CHECK
+
+
 #EXTINF:-1,BANGLA DRAMA
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1,HINDI DUBBING MOVIES
@@ -260,7 +262,7 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-http://ziboflow.ott-king.top:8080/zeebangla/index.m3u8
+http://ziboflow.ott-king.top:8080/zeebangla/video.m3u8?token=NO_IP_CHECK
 
 
 
@@ -309,7 +311,7 @@ http://103.175.73.12:8080/live/126/126_0.m3u8
 http://103.175.73.12:8080/live/323/323_0.m3u8
 #EXTINF:-1,SONIC বাংলা
 #http://103.175.73.12:8080/live/124/124_0.m3u8
-http://ziboflow.ott-king.top:8080/SONIC/BAN/index.m3u8
+http://ziboflow.ott-king.top:8080/SONIC/BAN/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1, CARTOON NETWORK
 http://103.175.73.12:8080/live/127/127_0.m3u8
@@ -344,7 +346,7 @@ http://webhop.live:8080/live/ramaiptv/sonuiptv/1623.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.175.73.12:8080/live/121/121_0.m3u8
-http://ziboflow.ott-king.top:8080/NICK/BAN/index.m3u8
+http://ziboflow.ott-king.top:8080/NICK/BAN/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
@@ -383,7 +385,7 @@ http://webhop.live:8080/live/ramaiptv/sonuiptv/4083.ts
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
 #http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-http://ziboflow.ott-king.top:8080/sony8/index.m3u8
+http://ziboflow.ott-king.top:8080/sony8/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
 http://103.175.73.12:8080/live/39/39_0.m3u8
@@ -393,7 +395,7 @@ http://103.175.73.12:8080/live/122/122_0.m3u8
 #http://103.175.73.12:8080/live/32/32_0.m3u8
 #http://103.99.249.139/sonymax/index.m3u8
 #http://103.175.242.10:8080/sonymax/index.m3u8
-http://ziboflow.ott-king.top:8080/MAX_HD/index.m3u8
+http://ziboflow.ott-king.top:8080/MAX_HD/video.m3u8?token=NO_IP_CHECK
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="STREAMING MEDIA",SONY SAB (USA)
@@ -418,7 +420,7 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 http://103.175.73.12:8080/live/9/9_0.m3u8
 #EXTINF:-1,MAX 1
 #http://103.175.73.12:8080/live/164/164_0.m3u8
-http://ziboflow.ott-king.top:8080/SONY_MAX_1/index.m3u8
+http://ziboflow.ott-king.top:8080/SONY_MAX_1/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
 http://103.175.73.12:8080/live/38/38_0.m3u8
@@ -478,7 +480,7 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
-http://ziboflow.ott-king.top:8080/starjalsha/index.m3u8
+http://ziboflow.ott-king.top:8080/starjalsha/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -578,6 +580,7 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #http://103.175.73.12:8080/live/65/65_0.m3u8
+#http://ziboflow.ott-king.top:8080/SONYSPORTS1/video.m3u8?token=NO_IP_CHECK
 http://webhop.live:8080/live/ramaiptv/sonuiptv/148.ts
 
 
@@ -635,8 +638,8 @@ http://103.175.73.12:8080/live/34/34_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
-http://103.175.73.12:8080/live/40/40_0.m3u8
-
+#http://103.175.73.12:8080/live/40/40_0.m3u8
+http://ziboflow.ott-king.top:8080/STARGOLDHD/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
@@ -718,8 +721,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-http://103.175.242.10:8080/zeetv/index.m3u8
-
+#http://103.175.242.10:8080/zeetv/index.m3u8
+http://ziboflow.ott-king.top:8080/ZEETVHD/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="watcho",Zee TV SD
@@ -728,8 +731,8 @@ http://103.175.242.10:8080/zeetv/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-http://103.175.242.10:8080/zeecinema/index.m3u8
-
+#http://103.175.242.10:8080/zeecinema/index.m3u8
+http://ziboflow.ott-king.top:8080/zeecinema/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
