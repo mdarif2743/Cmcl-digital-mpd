@@ -194,8 +194,8 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-
+#https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
+http://ziboflow.ott-king.top:8080/gtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -259,8 +259,8 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-
+#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+http://ziboflow.ott-king.top:8080/zeebangla/index.m3u8
 
 
 
@@ -381,8 +381,8 @@ http://webhop.live:8080/live/ramaiptv/sonuiptv/4083.ts
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-
+#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+http://ziboflow.ott-king.top:8080/sony8/index.m3u8
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
 http://103.175.73.12:8080/live/39/39_0.m3u8
@@ -470,13 +470,15 @@ https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/
 #EXTINF:-1, BONGO MOVIE
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream/a02e1e3c-eeba-4339-88e1-d6f7e99669e2/master.m3u8
 
-
-#EXTINF:-1, STAR JALSHA SD
-http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
+http://103.175.73.12:8080/live/195/195_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
-http://103.175.242.10:8080/starjalsha/index.m3u8
+#http://103.175.242.10:8080/starjalsha/index.m3u8
+http://ziboflow.ott-king.top:8080/starjalsha/index.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -496,8 +498,8 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
-http://103.175.73.12:8080/live/1/1_0.m3u8
-
+#http://103.175.73.12:8080/live/1/1_0.m3u8
+http://ziboflow.ott-king.top:8080/starplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
