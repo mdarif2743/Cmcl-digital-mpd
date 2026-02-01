@@ -19,7 +19,12 @@ http://103.175.73.12:8080/live/283/283_0.m3u8
 #https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 http://ziboflow.ott-king.top:8080/T_SPORTS/video.m3u8?token=NO_IP_CHECK
 
-
+#EXTINF:-1, MATCH LIVE
+https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
+#EXTINF:-1, MATCH LIVE
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
+#EXTINF:-1, MATCH LIVE
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1,geo super
 http://webhop.live:8080/live/ramaiptv/sonuiptv/101.ts
 
