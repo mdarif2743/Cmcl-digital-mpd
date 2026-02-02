@@ -30,7 +30,7 @@ http://webhop.live:8080/live/ramaiptv/sonuiptv/101.ts
 
 
 #EXTINF:-1, WpL 4k
-http://webhop.live:8080/live/ramaiptv/sonuiptv/333368.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
@@ -215,18 +215,16 @@ https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
 #http://stvlive.net:8080/jamuna/index.m3u8
 #http://103.175.242.10:8080/jamuna/index.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/421.ts
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://webhop.live:8080/live/ramaiptv/sonuiptv/397.ts
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
-#http://103.229.254.25:7001/play/a05m/index.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/411.ts
+http://103.229.254.25:7001/play/a05m/index.m3u8
+
 
 
 
@@ -277,15 +275,15 @@ http://ziboflow.ott-king.top:8080/zeebangla/video.m3u8?token=NO_IP_CHECK
 http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
-#http://ziboflow.ott-king.top:8080/sunbangla/video.m3u8?token=NO_IP_CHECK
-http://webhop.live:8080/live/ramaiptv/sonuiptv/3753.ts
+http://ziboflow.ott-king.top:8080/sunbangla/video.m3u8?token=NO_IP_CHECK
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://webhop.live:8080/live/ramaiptv/sonuiptv/49615.ts
+
 
 
 #EXTINF:-1, ZEE CAFE HD
-http://webhop.live:8080/live/ramaiptv/sonuiptv/98848.ts
+
 #EXTINF:-1,&EXPLOR HD
 
 
@@ -328,7 +326,9 @@ http://103.175.73.12:8080/live/319/319_0.m3u8
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-http://webhop.live:8080/live/ramaiptv/sonuiptv/98877.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
 #http://66.102.120.18:8000/play/a001/index.m3u8
 http://103.175.73.12:8080/live/328/328_0.m3u8
@@ -343,13 +343,13 @@ http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://103.175.73.12:8080/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://webhop.live:8080/live/ramaiptv/sonuiptv/98874.ts
+
 
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/1623.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.175.73.12:8080/live/121/121_0.m3u8
@@ -385,8 +385,8 @@ http://103.175.73.12:8080/live/11/11_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://103.175.73.12:8080/live/196/196_0.m3u8
-#http://103.175.242.10:8080/sonyaath/index.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/4083.ts
+http://103.175.242.10:8080/sonyaath/index.m3u8
+
 
 
 
@@ -443,8 +443,8 @@ http://webhop.live:8080/live/ramaiptv/sonuiptv/154.ts
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
 #https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-#http://103.175.73.12:8080/live/76/76_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/31314.ts
+http://103.175.73.12:8080/live/76/76_0.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
@@ -454,18 +454,18 @@ http://103.175.73.12:8080/live/78/78_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-#http://103.175.73.12:8080/live/80/80_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/176.ts
+http://103.175.73.12:8080/live/80/80_0.m3u8
+
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-#http://103.175.73.12:8080/live/70/70_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/98866.ts
+http://103.175.73.12:8080/live/70/70_0.m3u8
+
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 http://cdnd.sonyplex.com:8090/hls/StarSportsHindi2HD.m3u8
-#http://103.175.73.12:8080/live/83/83_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/213049.ts
+http://103.175.73.12:8080/live/83/83_0.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
@@ -592,13 +592,11 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #http://103.175.73.12:8080/live/65/65_0.m3u8
 #http://ziboflow.ott-king.top:8080/SONYSPORTS1/video.m3u8?token=NO_IP_CHECK
-http://webhop.live:8080/live/ramaiptv/sonuiptv/148.ts
 https://playztv-apps.pages.dev/star-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
 #http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
 #http://103.175.73.12:8080/live/67/67_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/239.ts
 https://playztv-apps.pages.dev/star-sports2/index.m3u8
 
 
@@ -609,17 +607,17 @@ http://103.175.73.12:8080/live/69/69_0.m3u8
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 #https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
-#http://stvlive.net:8080/starselect1/index.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/9400.ts
+http://stvlive.net:8080/starselect1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
 #https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
-#http://stvlive.net:8080/starselect2/index.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/9401.ts
+http://stvlive.net:8080/starselect2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="AynaOTT - Sports",Willow Sports
-http://webhop.live:8080/live/ramaiptv/sonuiptv/215.ts
+
 
 
 
