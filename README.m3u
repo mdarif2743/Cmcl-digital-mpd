@@ -21,7 +21,7 @@ http://103.175.73.12:8080/live/283/283_0.m3u8
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
 #https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
 #https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-http://ziboflow.ott-king.top:8080/T_SPORTS/video.m3u8?token=NO_IP_CHECK
+http://ziboflow.ott-king.top:8080/tsports/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1, MATCH LIVE
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
@@ -81,7 +81,7 @@ http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
 #http://stvlive.net:8080/banglavision/index.m3u8
 http://103.175.242.10:8080/banglavision/index.m3u8
-
+http://ziboflow.ott-king.top:8080/banglavision/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
@@ -116,12 +116,12 @@ http://103.175.242.10:8080/channeli/index.m3u8
 #http://stvlive.net:8080/ntv/index.m3u8
 #http://103.175.242.10:8080/ntv/index.m3u8
 https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
-
+http://ziboflow.ott-king.top:8080/ntv/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
 #http://stvlive.net:8080/deepto/index.m3u8
 http://103.175.242.10:8080/deepto/index.m3u8
-
+http://ziboflow.ott-king.top:8080/depto/video.m3u8?token=NO_IP_CHECK
 
 
 
@@ -134,7 +134,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 #http://stvlive.net:8080/somoy/index.m3u8
 http://103.175.242.10:8080/somoy/index.m3u8
-
+http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECK
 
 
 
@@ -165,9 +165,9 @@ http://103.175.242.10:8080/atnnews/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 http://103.175.242.10:8080/independent/index.m3u8
-
+http://ziboflow.ott-king.top:8080/independent/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
@@ -218,8 +218,8 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
 #http://stvlive.net:8080/jamuna/index.m3u8
-http://103.175.242.10:8080/jamuna/index.m3u8
-
+#http://103.175.242.10:8080/jamuna/index.m3u8
+http://ziboflow.ott-king.top:8080/jamuna/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
@@ -357,7 +357,7 @@ http://ziboflow.ott-king.top:8080/NAT_GEO/video.m3u8?token=NO_IP_CHECK
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.175.73.12:8080/live/121/121_0.m3u8
-http://ziboflow.ott-king.top:8080/NICK/BAN/video.m3u8?token=NO_IP_CHECK
+http://ziboflow.ott-king.top:8080/NICK/BAN1/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
@@ -517,7 +517,8 @@ https://playztv-apps.pages.dev/tsports/index.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
 #http://103.175.73.12:8080/live/1/1_0.m3u8
-http://ziboflow.ott-king.top:8080/starplus/index.m3u8
+http://ziboflow.ott-king.top:8080/star_plus/video.m3u8?token=NO_IP_CHECK
+
 
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
