@@ -201,12 +201,12 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
-#https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/bijoy-tv/mono.ts.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com
+
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
-#https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://ziboflow.ott-king.top:8080/gtv/video.m3u8?token=NO_IP_CHECK
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
+
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -270,16 +270,16 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-http://ziboflow.ott-king.top:8080/zeebangla/video.m3u8?token=NO_IP_CHECK
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
 
 
 
 #EXTINF:-1,SANANDA TV
 http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-#http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
-http://ziboflow.ott-king.top:8080/sunbangla/video.m3u8?token=NO_IP_CHECK
+http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
@@ -347,7 +347,7 @@ http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://103.175.73.12:8080/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://ziboflow.ott-king.top:8080/NAT_GEO/video.m3u8?token=NO_IP_CHECK
+
 
 
 
@@ -395,8 +395,8 @@ http://103.175.242.10:8080/sonyaath/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
-#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-http://ziboflow.ott-king.top:8080/sony8/video.m3u8?token=NO_IP_CHECK
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
 http://103.175.73.12:8080/live/39/39_0.m3u8
@@ -441,13 +441,13 @@ http://103.175.73.12:8080/live/58/58_0.m3u8
 http://103.175.73.12:8080/live/131/131_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-#http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
-#http://103.175.73.12:8080/live/74/74_0.m3u8
-http://webhop.live:8080/live/ramaiptv/sonuiptv/154.ts
+http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-#https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-http://103.175.73.12:8080/live/76/76_0.m3u8
+https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
+
 
 
 
@@ -473,7 +473,6 @@ http://103.175.73.12:8080/live/83/83_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-http://webhop.live:8080/live/ramaiptv/sonuiptv/89.ts
 https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
 
@@ -492,8 +491,8 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
-#http://103.175.242.10:8080/starjalsha/index.m3u8
-http://ziboflow.ott-king.top:8080/starjalsha/video.m3u8?token=NO_IP_CHECK
+http://103.175.242.10:8080/starjalsha/index.m3u8
+
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -510,14 +509,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 http://stvlive.net:8080/tsports1/index.m3u8
-https://playztv-apps.pages.dev/tsports/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-#http://103.175.242.10:8080/starplus/index.m3u8
-#http://103.175.73.12:8080/live/1/1_0.m3u8
-http://ziboflow.ott-king.top:8080/star_plus/video.m3u8?token=NO_IP_CHECK
+http://103.175.242.10:8080/starplus/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
@@ -595,8 +594,8 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#http://103.175.73.12:8080/live/65/65_0.m3u8
-http://ziboflow.ott-king.top:8080/SONYSPORTS1/video.m3u8?token=NO_IP_CHECK
+http://103.175.73.12:8080/live/65/65_0.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
@@ -642,7 +641,7 @@ http://103.175.73.12:8080/live/36/36_0.m3u8
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-http://ziboflow.ott-king.top:8080/JALSHA_sD/video.m3u8?token=NO_IP_CHECK
+
 
 
 
@@ -658,8 +657,8 @@ http://103.175.73.12:8080/live/34/34_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
-#http://103.175.73.12:8080/live/40/40_0.m3u8
-http://ziboflow.ott-king.top:8080/STARGOLDHD/video.m3u8?token=NO_IP_CHECK
+http://103.175.73.12:8080/live/40/40_0.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
