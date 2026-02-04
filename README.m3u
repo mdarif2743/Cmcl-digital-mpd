@@ -271,14 +271,19 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-
-
+#EXTINF:-1,R PLUS GOLD
+http://103.175.73.12:8080/live/198/198_0.m3u8
 
 
 #EXTINF:-1,SANANDA TV
 http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
+#EXTINF:-1,ABP ANONDO
+http://103.175.73.12:8080/live/200/200_0.m3u8
+#EXTINF:-1,TV9 BANGLA
+http://103.175.73.12:8080/live/201/201_0.m3u8
+
 
 
 
@@ -388,8 +393,9 @@ http://103.175.73.12:8080/live/11/11_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://103.175.73.12:8080/live/196/196_0.m3u8
-http://103.175.242.10:8080/sonyaath/index.m3u8
+#http://103.175.242.10:8080/sonyaath/index.m3u8
+http://103.175.73.12:8080/live/196/196_0.m3u8
+
 
 
 
@@ -478,7 +484,7 @@ https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-
+http://103.175.73.12:8080/live/193/193_0.m3u8
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
@@ -492,7 +498,7 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 http://103.175.242.10:8080/starjalsha/index.m3u8
-
+http://103.175.73.12:8080/live/194/194_0.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -824,9 +830,7 @@ http://103.175.73.12:8080/live/161/161_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="watcho",9X Tashan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/main.mpd
+http://103.175.73.12:8080/live/178/178_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="watcho",9X Jhakkas
