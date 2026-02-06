@@ -481,8 +481,10 @@ https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-http://103.175.73.12:8080/live/193/193_0.m3u8
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#http://103.175.73.12:8080/live/193/193_0.m3u8
+http://103.180.212.191:3500/live/756.m3u8
+
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
