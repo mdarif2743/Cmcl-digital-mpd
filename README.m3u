@@ -288,7 +288,7 @@ http://103.175.73.12:8080/live/377/377_0.m3u8
 http://103.175.73.12:8080/live/318/318_0.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
 
 #EXTINF:-1, ZEE CAFE HD
