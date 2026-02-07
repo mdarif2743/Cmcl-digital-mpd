@@ -629,15 +629,16 @@ http://103.175.73.12:8080/live/69/69_0.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-#https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
-http://stvlive.net:8080/starselect1/index.m3u8
+#http://stvlive.net:8080/starselect1/index.m3u8
+http://103.175.73.12:8080/live/72/72_0.m3u8
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 SD 
 http://103.175.73.12:8080/live/281/281_0.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
-http://stvlive.net:8080/starselect2/index.m3u8
+#http://stvlive.net:8080/starselect2/index.m3u8
+http://103.175.73.12:8080/live/73/73_0.m3u8
+
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
 http://103.175.73.12:8080/live/282/282_0.m3u8
 
