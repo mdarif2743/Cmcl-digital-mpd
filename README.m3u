@@ -38,6 +38,14 @@ http://starshare.online:80/live/duck11/duck11/675819.ts
 http://starshare.online:80/live/duck11/duck11/333368.ts
 
 
+#EXTINF:-1,LIVE SPORTS 5
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1,LIVE SPORTS 4
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1,LIVE SPORTS 3
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1,LIVE SPORTS 2
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1,LIVE SPORTS 
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
