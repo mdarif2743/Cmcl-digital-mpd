@@ -1,8 +1,10 @@
 
-
-
+#EXTINF:-1,TEN SPORTS
+https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TEN CRICKET 
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tencricket/mono.ts.m3u8
+
+
 #EXTINF:-1,HUB PREMIUM 4K
 http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
 #EXTINF:-1, DD SPORTS 
@@ -48,7 +50,7 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 501
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1,BBL LIVE
-https://7pal.short.gy/fox501au
+https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,BBL LIVE(criclife)
 
 
@@ -346,15 +348,14 @@ http://103.175.73.12:8080/live/328/328_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
-#http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/156.ts
-http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-
+#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+https://tigerhub-bd.vercel.app/Documentary/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,DW NEWS
 http://103.175.73.12:8080/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-
+https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -501,8 +502,8 @@ http://103.175.73.12:8080/live/83/83_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-https://playztv-apps.pages.dev/ptvsports/index.m3u8
-
+#https://playztv-apps.pages.dev/ptvsports/index.m3u8
+https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -1094,8 +1095,8 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humsitarey/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 https://a170aivottlinear-a.akamaihd.net:443/OTTB/bom-nitro/live/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-
+#EXTINF:-1,GEO SUPER PK
+https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
