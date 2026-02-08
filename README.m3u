@@ -377,13 +377,15 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
 #http://103.175.73.12:8080/live/250/250_0.m3u8
-http://217.20.112.199/sethd/index.m3u8
+#http://217.20.112.199/sethd/index.m3u8
+https://tigerhub-bd.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
 #http://217.20.112.199:8888/sabtvhd/index.m3u8
-http://103.175.73.12:8080/live/5/5_0.m3u8
-
+#http://103.175.73.12:8080/live/5/5_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Sab/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
 #http://103.99.249.139/sonysab/index.m3u8
@@ -391,13 +393,13 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-http://103.175.73.12:8080/live/11/11_0.m3u8
-
+#http://103.175.73.12:8080/live/11/11_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Pal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://103.175.242.10:8080/sonyaath/index.m3u8
-http://103.175.73.12:8080/live/196/196_0.m3u8
-
+#http://103.175.73.12:8080/live/196/196_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -407,25 +409,38 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
-http://103.175.73.12:8080/live/39/39_0.m3u8
+#http://103.175.73.12:8080/live/39/39_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://103.175.73.12:8080/live/122/122_0.m3u8
+#http://103.175.73.12:8080/live/122/122_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Yay/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://103.99.249.139/sonymax/index.m3u8
-http://103.175.242.10:8080/sonymax/index.m3u8
-http://103.175.73.12:8080/live/32/32_0.m3u8
+#http://103.175.242.10:8080/sonymax/index.m3u8
+#http://103.175.73.12:8080/live/32/32_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="STREAMING MEDIA",SONY SAB (USA)
-http://nocable.cc:8080/789588/114528/125809
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC6iEjdc_axBj-TUQ1mu9rA9R0bgI_Rrq9bMvwPv871porY7hJdumlYTU3zAEhZ719A8ep6-PQnhIunsM-SZsfoFv9bRtuwjl0QMnx9taTIFPU1478Ek4c-UD6P5eppXMXoDMm6i0Ujx48XknfFWrmqZVgUSDwvjfhNuEsXK1E-cz8kAKz0IpMyOWYY4/s320/Picsart_24-10-13_11-33-40-223.jpg" group-title="STREAMING MEDIA",SONY MAX (USA)
-http://nocable.cc:8080/789588/114528/125814
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="STREAMING MEDIA",SONY SAB (UK)
+#http://nocable.cc:8080/789588/114528/125809
+https://tigerhub-bd.vercel.app/SONY/Sab-UK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC6iEjdc_axBj-TUQ1mu9rA9R0bgI_Rrq9bMvwPv871porY7hJdumlYTU3zAEhZ719A8ep6-PQnhIunsM-SZsfoFv9bRtuwjl0QMnx9taTIFPU1478Ek4c-UD6P5eppXMXoDMm6i0Ujx48XknfFWrmqZVgUSDwvjfhNuEsXK1E-cz8kAKz0IpMyOWYY4/s320/Picsart_24-10-13_11-33-40-223.jpg" group-title="STREAMING MEDIA",SONY MAX (UK)
+#http://nocable.cc:8080/789588/114528/125814
+https://tigerhub-bd.vercel.app/SONY/Max-UK/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxg8VDJTpVLICnadRVxEXY3dbNO5Ip2aArysbh1VGx8eu1tag6k4mYgdPlyjHHxIxYXmv3InrqYiwGZ9v_fWaPgbR5O-IAHeFRQVyD_ISv_NdjFgV52oGaucdqRzjHzDPW0g3TCTlt21_MU1Erfeh0HjnPp17p44SmHywac8nC8bQ0swcpxasXKR53bN0/s320/Picsart_24-10-13_11-33-57-020.jpg" group-title="STREAMING MEDIA",SONY MAX 2 (USA)
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbC9kjz3Uqm1_ZVmkTTY7UXLXuhPSFYzJWOKe1_GGdjU-lkFII0GkA6UiBA4ZvjjKBRlRCbwpB4MtCwxmK4t2UMZhWVxxRi9iV0KbhGODUx2XOYxLHaZYUYYKj96tZOaZ-nTPAz_i946bIU0mZ6cm800_YzA7-lL2SA9ebNoEWnzczRPhhbb7PeH3jrM/s320/Picsart_24-10-13_11-31-47-687.jpg" group-title="STREAMING MEDIA",FOOD FOOD (USA)
 http://nocable.cc:8080/789588/114528/125807
 #EXTINF:-1 tvg-logo=" " group-title="STREAMING MEDIA",SONY (UK)
-http://ahostingportal.com:8000/62664054820/5271593547/3018
+#http://ahostingportal.com:8000/62664054820/5271593547/3018
+https://tigerhub-bd.vercel.app/SONY/Entertainment-uk/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="STREAMING MEDIA",USTAV GOLD (UK)
 http://ahostingportal.com:8000/62664054820/5271593547/3020
 #EXTINF:-1 tvg-logo=" " group-title="STREAMING MEDIA",USTAV BHARAT (UK)
@@ -441,32 +456,38 @@ http://103.175.73.12:8080/live/164/164_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-http://103.175.73.12:8080/live/38/38_0.m3u8
+#http://103.175.73.12:8080/live/38/38_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://103.175.73.12:8080/live/58/58_0.m3u8
+#http://103.175.73.12:8080/live/58/58_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://103.175.73.12:8080/live/131/131_0.m3u8
+#http://103.175.73.12:8080/live/131/131_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Bbc-Earth/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
-
+#http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
+https://tigerhub-bd.vercel.app/SONY/Sports1/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-
+#https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
+https://tigerhub-bd.vercel.app/SONY/Sports2/tracks-v1a1/mono.ts.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-http://103.175.73.12:8080/live/78/78_0.m3u8
-
+#http://103.175.73.12:8080/live/78/78_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Sports3/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-http://103.175.73.12:8080/live/80/80_0.m3u8
-
+#http://103.175.73.12:8080/live/80/80_0.m3u8
+https://tigerhub-bd.vercel.app/SONY/Sports5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #http://103.175.73.12:8080/live/70/70_0.m3u8
