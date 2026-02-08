@@ -1471,7 +1471,7 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 #EXTINF:-1, SPORTS 4
 https://pepsi4.abntv.live/hls/psp4.m3u8
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport1.png" group-title="PREMIUM SPORT",Canalsport1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
