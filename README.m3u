@@ -27,15 +27,15 @@ https://iptv.prisma.net.bd/hls/stream3/playlist.m3u8
 
 
 #EXTINF:-1, MATCH LIVE 4k (live world cup)
-http://starshare.online:80/live/duck11/duck11/675822.ts
+http://tv.starsharetv.com:8080/live/su/123456/581305.ts
 #EXTINF:-1, MATCH LIVE(world cup)
-http://starshare.online:80/live/duck11/duck11/675823.ts
+http://tv.starsharetv.com:8080/live/su/123456/213049.ts
 #EXTINF:-1, MATCH LIVE(ad free)
-http://starshare.online:80/live/duck11/duck11/675820.ts
+http://tv.starsharetv.com:8080/live/su/123456/23566.ts
 #EXTINF:-1, world 🌎 cup live star network
-http://starshare.online:80/live/duck11/duck11/675819.ts
+http://tv.starsharetv.com:8080/live/su/123456/196347.ts
 #EXTINF:-1,STAR 4K WORLD CUP
-http://starshare.online:80/live/duck11/duck11/333368.ts
+http://tv.starsharetv.com:8080/live/su/123456/5040.ts
 
 
 #EXTINF:-1, LIVE SPORTS 5
