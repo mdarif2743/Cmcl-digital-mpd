@@ -418,8 +418,8 @@ https://tigerhub-bd.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-
+#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
 #http://103.175.73.12:8080/live/39/39_0.m3u8
@@ -1063,7 +1063,7 @@ http://45.148.145.57/PAK_HUMTVG/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humtv/mono.ts.m3u8
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7c21a8ade135&e=.m3u8
 
 
 
@@ -1093,10 +1093,10 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 
 
 #EXTINF:-1,HUM MASALA
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/hummasala/mono.ts.m3u8
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=406435b761ad&e=.m3u8
 
 #EXTINF:-1,HUM SITERY
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humsitarey/mono.ts.m3u8
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=598a5e7df0bd&e=.m3u8
 
 
 ------------------------------------------------------------------
