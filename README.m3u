@@ -77,8 +77,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-
 
 
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels",BTV NATIONAL HD
-#http://103.175.242.10:8080/btv/index.m3u8
-https://iptv.prisma.net.bd/hls/stream3/playlist.m3u8
+http://103.175.242.10:8080/btv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
