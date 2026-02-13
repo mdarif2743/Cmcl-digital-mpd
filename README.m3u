@@ -1,79 +1,22 @@
 
-#EXTINF:-1,TEN SPORTS
-https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,TEN CRICKET 
-https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=f76c7eb00da0&e=.m3u8
-
-
-#EXTINF:-1,HUB PREMIUM 4K
-http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
-#EXTINF:-1, DD SPORTS 
-http://103.175.73.12:8080/live/280/280_0.m3u8
-#EXTINF:-1,LA LIGA LIVE(DAZAN)
-https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,M+ (LA LIGA LIVE)
-https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,DD SPORTS
-http://103.175.73.12:8080/live/64/64_0.m3u8
-#EXTINF:-1, EUROSPORT HD
-http://103.175.73.12:8080/live/283/283_0.m3u8
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
-
-
-
-#EXTINF:-1,tvg-logo="" group-title="Live Event",  ( WORLD CUP T SPORTS)
-#https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
-https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
-
-
-#EXTINF:-1, MATCH LIVE 4k (live world cup)
-http://tv.starsharetv.com:8080/live/su/123456/581305.ts
-#EXTINF:-1, MATCH LIVE(world cup)
-http://tv.starsharetv.com:8080/live/su/123456/213049.ts
-#EXTINF:-1, MATCH LIVE(ad free)
-http://tv.starsharetv.com:8080/live/su/123456/23566.ts
-#EXTINF:-1, world 🌎 cup live star network
-http://tv.starsharetv.com:8080/live/su/123456/196347.ts
-#EXTINF:-1,STAR 4K WORLD CUP
-http://tv.starsharetv.com:8080/live/su/123456/5040.ts
-#EXTINF:-1, world cup live sky
-https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/kA3M8GrqJDYUL1hq_Rc3Wg/1771594188/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8
-#EXTINF:-1, LIVE SPORTS 5
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-
-#EXTINF:-1, LIVE SPORTS 4
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-
-#EXTINF:-1, LIVE SPORTS 3
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-
-#EXTINF:-1, LIVE SPORTS 2
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
-
-#EXTINF:-1,LIVE SPORTS 
-https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
-
-
-#EXTINF:-1,FOX SPORTS 501
-http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
-#EXTINF:-1,BBL LIVE
-https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,BBL LIVE(criclife)
 
 
 
 
-#EXTINF:-1,Sohl sports
-https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
+
+
+#EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV বাংলা
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 
 
+#EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
+https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-name="SUNNAH" tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" group-title="Religious",SUNNAH
+#https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 
 
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels",BTV NATIONAL HD
@@ -379,11 +322,6 @@ http://tv.starsharetv.com:8080/live/su/123456/20622.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 http://103.180.212.191:3500/live/1345.m3u8
 
-#EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
-https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-name="SUNNAH" tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" group-title="Religious",SUNNAH
-#https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 ---------------------------------------------------------------------
 -------------------------------SONY----------------------------------
 
@@ -563,8 +501,7 @@ http://103.175.73.12:8080/live/1/1_0.m3u8
 #EXTINF:-1, STAR PLUS SD
 http://103.175.73.12:8080/live/2/2_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
@@ -1527,3 +1464,80 @@ http://u.goldeniptv.com:2052/live/rashad1/rashad1/222930.ts
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/223018.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9
 http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1880.m3u8
+
+
+#EXTINF:-1,TEN SPORTS
+https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TEN CRICKET 
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=f76c7eb00da0&e=.m3u8
+
+
+#EXTINF:-1,HUB PREMIUM 4K
+http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
+#EXTINF:-1, DD SPORTS 
+http://103.175.73.12:8080/live/280/280_0.m3u8
+#EXTINF:-1,LA LIGA LIVE(DAZAN)
+https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,M+ (LA LIGA LIVE)
+https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,DD SPORTS
+http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1, EUROSPORT HD
+http://103.175.73.12:8080/live/283/283_0.m3u8
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
+
+
+
+#EXTINF:-1,tvg-logo="" group-title="Live Event",  ( WORLD CUP T SPORTS)
+#https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
+https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
+
+
+#EXTINF:-1, MATCH LIVE 4k (live world cup)
+http://tv.starsharetv.com:8080/live/su/123456/581305.ts
+#EXTINF:-1, MATCH LIVE(world cup)
+http://tv.starsharetv.com:8080/live/su/123456/213049.ts
+#EXTINF:-1, MATCH LIVE(ad free)
+http://tv.starsharetv.com:8080/live/su/123456/23566.ts
+#EXTINF:-1, world 🌎 cup live star network
+http://tv.starsharetv.com:8080/live/su/123456/196347.ts
+#EXTINF:-1,STAR 4K WORLD CUP
+http://tv.starsharetv.com:8080/live/su/123456/5040.ts
+#EXTINF:-1, world cup live sky
+https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/kA3M8GrqJDYUL1hq_Rc3Wg/1771594188/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8
+#EXTINF:-1, LIVE SPORTS 5
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+
+#EXTINF:-1, LIVE SPORTS 4
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+
+#EXTINF:-1, LIVE SPORTS 3
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+
+#EXTINF:-1, LIVE SPORTS 2
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+
+#EXTINF:-1,LIVE SPORTS 
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+
+
+#EXTINF:-1,FOX SPORTS 501
+https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
