@@ -36,8 +36,8 @@ http://tv.starsharetv.com:8080/live/su/123456/23566.ts
 http://tv.starsharetv.com:8080/live/su/123456/196347.ts
 #EXTINF:-1,STAR 4K WORLD CUP
 http://tv.starsharetv.com:8080/live/su/123456/5040.ts
-#EXTINF:-1,HINDI COMMENTRY
-https://emaxtv.exmax.workers.dev/emax.m3u8
+#EXTINF:-1, world cup live sky
+https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/kA3M8GrqJDYUL1hq_Rc3Wg/1771594188/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8
 #EXTINF:-1, LIVE SPORTS 5
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 
