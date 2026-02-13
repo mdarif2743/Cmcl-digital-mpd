@@ -196,8 +196,6 @@ http://116.204.149.16/nagorik/index.m3u8
 
 
 
-#EXTINF:-1,BANGLA DRAMA
-https://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1,HINDI DUBBING MOVIES
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1,ALL TIME BD SONG
@@ -218,8 +216,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1,PADMACABLE VISION
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -246,7 +244,7 @@ http://103.175.73.12:8080/live/377/377_0.m3u8
 http://103.175.73.12:8080/live/318/318_0.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/410.ts
 
 
 #EXTINF:-1, ZEE CAFE HD
@@ -255,7 +253,7 @@ http://103.175.73.12:8080/live/261/261_0.m3u8
 http://103.175.73.12:8080/live/268/268_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",TARA BANGLA CINEMA
-http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
@@ -283,7 +281,7 @@ http://103.175.73.12:8080/live/126/126_0.m3u8
 http://103.175.73.12:8080/live/323/323_0.m3u8
 #EXTINF:-1,SONIC বাংলা
 #http://103.175.73.12:8080/live/124/124_0.m3u8
-http://banglaboxtv.top:8080/SONIC/BAN/video.m3u8?token=_8r-gg_l29Pt70
+http://103.180.212.191:3500/live/1368.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
 http://103.175.73.12:8080/live/127/127_0.m3u8
@@ -295,7 +293,7 @@ http://tv.starsharetv.com:8080/live/su/123456/355286.ts
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-
+http://tv.starsharetv.com:8080/live/su/123456/9392.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
@@ -311,8 +309,8 @@ https://tigerhub-bd.vercel.app/Documentary/Discovery-Bangla/tracks-v1a1/mono.ts.
 http://103.175.73.12:8080/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
-
+#https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/7342.ts
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
@@ -503,7 +501,7 @@ http://103.175.73.12:8080/live/2/2_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
