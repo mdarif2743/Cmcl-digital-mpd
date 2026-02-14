@@ -1523,8 +1523,8 @@ https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
-
+#https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16-criclive/master.m3u8?hdnea=exp=1771072203~acl=/*~id=38044656340212017813471516745305~hmac=64a22160d64048168214ed5ed83972dbccadccccede4812884ccf49606737806
 
 #EXTINF:-1,FOX SPORTS 501
 https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
