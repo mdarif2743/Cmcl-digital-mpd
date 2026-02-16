@@ -20,16 +20,16 @@ https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
 
 
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels",BTV NATIONAL HD
-#http://103.175.242.10:8080/btv/index.m3u8
-https://playztv-apps.pages.dev/btv-world/index.m3u8
+http://103.175.242.10:8080/btv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/250px-BTV_News_Logo.png" group-title="BANGLADESH", বিটিভি নিউজ
-#https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
-https://playztv-apps.pages.dev/btv/index.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
@@ -71,9 +71,8 @@ http://tv.starsharetv.com:8080/live/su/123456/392.ts
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
-#http://stvlive.net:8080/ntv/index.m3u8
-http://103.175.242.10:8080/ntv/index.m3u8
-
+#http://103.175.242.10:8080/ntv/index.m3u8
+http://stvlive.net:8080/ntv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
@@ -104,8 +103,8 @@ http://tv.starsharetv.com:8080/live/su/123456/434.ts
 
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
-http://103.175.242.10:8080/channel24/index.m3u8
-
+#http://103.175.242.10:8080/channel24/index.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/391.ts
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
