@@ -1,4 +1,4 @@
-
+p
 
 
 
@@ -715,6 +715,10 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 ======================================================== Watcho ==========================================================================================================================
 
 
+
+
+#EXTINF:-1, & PRIVE HD
+https://new.banglaboxtv.top/AHIL/index.m3u8
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
