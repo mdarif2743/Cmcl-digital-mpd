@@ -673,7 +673,9 @@ http://103.175.73.12:8080/live/31/31_0.m3u8
 http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://103.175.73.12:8080/live/3/3_0.m3u8
+#http://103.175.73.12:8080/live/3/3_0.m3u8
+https://new.banglaboxtv.top/AHIL3/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 http://103.175.73.12:8080/live/56/56_0.m3u8
@@ -693,7 +695,9 @@ http://103.175.73.12:8080/live/441/441_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-http://103.175.73.12:8080/live/37/37_0.m3u8
+#http://103.175.73.12:8080/live/37/37_0.m3u8
+https://new.banglaboxtv.top/AHIL2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, COLORS CINEPLEX SD
 http://103.175.73.12:8080/live/273/273_0.m3u8
 
