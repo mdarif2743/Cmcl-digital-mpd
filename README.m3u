@@ -231,7 +231,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-http://103.175.242.10:8080/zeebangla/index.m3u8
+http://103.175.73.12:8080/live/373/373_0.m3u8
 
 
 #EXTINF:-1,R PLUS GOLD
