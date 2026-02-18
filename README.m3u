@@ -75,6 +75,8 @@ http://tv.starsharetv.com:8080/live/su/123456/392.ts
 #http://103.175.242.10:8080/ntv/index.m3u8
 #http://stvlive.net:8080/ntv/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/424.ts
+https://tvisp.banglaboxtv.top/AHIL12/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
 #http://103.175.242.10:8080/deepto/index.m3u8
@@ -105,7 +107,10 @@ http://tv.starsharetv.com:8080/live/su/123456/434.ts
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 #http://103.175.242.10:8080/channel24/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/391.ts
+#http://tv.starsharetv.com:8080/live/su/123456/391.ts
+https://tvisp.banglaboxtv.top/AHIL8/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
@@ -122,7 +127,7 @@ http://tv.starsharetv.com:8080/live/su/123456/427.ts
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://103.175.242.10:8080/independent/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/423.ts
-
+https://tvisp.banglaboxtv.top/AHIL10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
 #http://116.204.149.16/satv/index.m3u8
@@ -142,7 +147,7 @@ http://116.204.149.16/banglatv/index.m3u8
 #http://103.175.242.10:8080/ekattor/index.m3u8
 #http://stvlive.net:8080/ekattor/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/428.ts
-
+https://tvisp.banglaboxtv.top/AHIL9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="All-In-One~ENT🧩",DBC News
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -175,6 +180,8 @@ http://tv.starsharetv.com:8080/live/su/123456/390.ts
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
 #http://stvlive.net:8080/jamuna/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/421.ts
+https://tvisp.banglaboxtv.top/AHIL11/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -322,7 +329,9 @@ http://tv.starsharetv.com:8080/live/su/123456/7342.ts
 http://tv.starsharetv.com:8080/live/su/123456/20622.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://103.180.212.191:3500/live/1341.m3u8
+#http://103.180.212.191:3500/live/1341.m3u8
+https://tvisp.banglaboxtv.top/AHIL15/tracks-v1a1/mono.m3u8
+
 
 ---------------------------------------------------------------------
 -------------------------------SONY----------------------------------
@@ -358,7 +367,9 @@ https://tigerhub-bd.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
 #http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
+#https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
+https://tvisp.banglaboxtv.top/AHIL33/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
 #http://103.175.73.12:8080/live/39/39_0.m3u8
@@ -475,9 +486,9 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
-https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
-http://103.175.73.12:8080/live/194/194_0.m3u8
-
+#https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
+#http://103.175.73.12:8080/live/194/194_0.m3u8
+https://tvisp.banglaboxtv.top/AHIL13/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -494,9 +505,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 #http://stvlive.net:8080/tsports1/index.m3u8
 #https://sonamul3535.vercel.app/T-sport.m3u8
-http://103.96.235.18:9090/sports1/index.m3u8
-http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
-
+#http://103.96.235.18:9090/sports1/index.m3u8
+#http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
+https://tvisp.banglaboxtv.top/AHIL16/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
@@ -762,6 +773,8 @@ http://103.175.73.12:8080/live/254/254_0.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 http://103.175.73.12:8080/live/264/264_0.m3u8
+https://tvisp.banglaboxtv.top/AHIL18/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
