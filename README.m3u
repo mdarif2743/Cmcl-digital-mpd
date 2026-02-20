@@ -62,8 +62,8 @@ http://tv.starsharetv.com:8080/live/su/123456/431.ts
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
 #https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
-http://116.204.149.16/maasranga/index.m3u8
-
+#http://116.204.149.16/maasranga/index.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
 #http://stvlive.net:8080/channeli/index.m3u8
@@ -75,7 +75,7 @@ http://tv.starsharetv.com:8080/live/su/123456/392.ts
 #http://103.175.242.10:8080/ntv/index.m3u8
 #http://stvlive.net:8080/ntv/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/424.ts
-https://tvisp.banglaboxtv.top/AHIL12/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
@@ -156,7 +156,7 @@ http://tv.starsharetv.com:8080/live/su/123456/420.ts
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="All-In-One~ENT🧩",Ekhon Tv
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|referer=https://www.jagobd.com
-https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=60a689916e60&e=.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvZWtob24tdHY%3D&name=ekhon&format=.m3u8
 
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
@@ -201,7 +201,7 @@ http://116.204.149.16/globaltv/index.m3u8
 
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png" group-title="BANGLADESH", নাগরিক টিভি
-http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTkFHT1JJSy5UVi5IRC9pbmRleC5tM3U4P3Rva2VuPWJhNjZhODUyNDEyYTg2NWYyYmM0YzMyM2M2OWUxMDhlNjcwYTE1NzAtNGNjYTliZTA0Y2I4OWZjNTFmYTlkMTNlNTFhNTE0OTAtMTc3MTQ5NDAzMS0xNzcxNDgzMjMxJnJlbW90ZT1ub19jaGVja19pcA%3D%3D
+
 
 
 
@@ -473,8 +473,8 @@ https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-http://103.175.73.12:8080/live/193/193_0.m3u8
-
+#http://103.175.73.12:8080/live/193/193_0.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ%3D%3D&name=Colors+Bangla&format=.m3u8
 
 
 #EXTINF:-1, BONGO DRAMA
