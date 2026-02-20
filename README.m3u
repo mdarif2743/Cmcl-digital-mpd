@@ -1384,11 +1384,11 @@ http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19161/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ",Sky Sport1 NZ FHD
-
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/150854.ts
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ",Sky Sport2 NZ FHD
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ",Sky Sport3 NZ FHD
-
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/24018.ts
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ",Sky Sport4 NZ FHD
 
 
@@ -1486,19 +1486,18 @@ http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1880.m
 
 
 #EXTINF:-1,TEN SPORTS
-
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
 #EXTINF:-1,TEN CRICKET 
-https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=f76c7eb00da0&e=.m3u8
-
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
 
 #EXTINF:-1,HUB PREMIUM 4K
 http://de.mitalive.com:2095/stream/starhub/hubpremier24k/master.m3u8?u=test&p=252e9d2963cd2ce281c30dadd2c53c1ba4a547602f835a33a98739d6e23c78cb
 #EXTINF:-1, DD SPORTS 
 http://103.175.73.12:8080/live/280/280_0.m3u8
 #EXTINF:-1,LA LIGA LIVE(DAZAN)
-https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/581352.ts
 #EXTINF:-1,M+ (LA LIGA LIVE)
-https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/581353.ts
 #EXTINF:-1,DD SPORTS
 http://103.175.73.12:8080/live/64/64_0.m3u8
 #EXTINF:-1, EUROSPORT HD
