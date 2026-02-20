@@ -318,7 +318,7 @@ http://103.175.73.12:8080/live/328/328_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-https://tigerhub-bd.vercel.app/Documentary/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+http://103.180.212.191:3500/live/3436.m3u8
 
 #EXTINF:-1,DW NEWS
 http://103.175.73.12:8080/live/116/116_0.m3u8
