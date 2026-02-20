@@ -137,7 +137,7 @@ http://tv.starsharetv.com:8080/live/su/123456/3814.ts
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="Channels",News 24 BD
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
 http://tv.starsharetv.com:8080/live/su/123456/3810.ts
-
+http://103.96.235.18:9090/sports2/index.m3u8
 
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
 #https://aynaott.unosottor.workers.dev/bpk-tv/banglatv.m3u8
@@ -147,7 +147,7 @@ http://116.204.149.16/banglatv/index.m3u8
 #http://103.175.242.10:8080/ekattor/index.m3u8
 #http://stvlive.net:8080/ekattor/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/428.ts
-
+http://103.96.235.18:9090/sports3/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="All-In-One~ENT🧩",DBC News
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -507,8 +507,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 #http://stvlive.net:8080/tsports1/index.m3u8
 #https://sonamul3535.vercel.app/T-sport.m3u8
-#http://103.96.235.18:9090/sports1/index.m3u8
-http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
+http://103.96.235.18:9090/sports1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
