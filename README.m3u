@@ -166,11 +166,10 @@ http://tv.starsharetv.com:8080/live/su/123456/408.ts
 
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-
+#https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
-https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 http://tv.starsharetv.com:8080/live/su/123456/399.ts
 
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
@@ -195,7 +194,7 @@ http://tv.starsharetv.com:8080/live/su/123456/411.ts
 
 
 #EXTINF:-1, STAR NEWS BD
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8|referer=https://www.jagobd.com
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Channels",Global TV
 http://116.204.149.16/globaltv/index.m3u8
@@ -1127,21 +1126,11 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
 #EXTINF:-1,DAZAN 1
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19158/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/122979.ts
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/11/20250511042549408522_81.png", Cricbuzz 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://neacdnpop3-edge02.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158897.ts
 
 
 
@@ -1369,7 +1358,7 @@ https://zamlb.tgaadi.workers.dev/120929.ts
 https://zamlb.tgaadi.workers.dev/1777.ts
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
-
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
 
