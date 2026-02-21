@@ -636,7 +636,6 @@ http://103.175.73.12:8080/live/73/73_0.m3u8
 http://103.175.73.12:8080/live/282/282_0.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="AynaOTT - Sports",Willow Sports
 
 
 
@@ -1060,7 +1059,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLXNpdGFyYXk%3D&na
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
-
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1,GEO SUPER PK
 
 
