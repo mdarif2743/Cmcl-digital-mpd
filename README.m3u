@@ -1065,7 +1065,7 @@ https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
-
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
@@ -1094,10 +1094,10 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158897.ts
 
 
 #EXTINF:-1,PREMIER SPORTS 1
-
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 
 #EXTINF:-1 tvg-id="219104" tvg-logo="https://iili.io/KWnCF1I.png" group-title="HD SPORTS",Premier Sports 2
-
+http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="Sports",CBS Sports
@@ -1161,11 +1161,11 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158897.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
-
+http://23.88.66.93/Eurosport1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s" group-title="Sports", EUROSPORT 2 
-
+http://23.88.66.93/Eurosport2/index.m3u8
 
 
 
@@ -1257,6 +1257,11 @@ https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=Kg
 #EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky Sports" radio="false",Sky Sports+
 
 
+
+#EXTINF:-1,SKY SPORTS BUNDESLIGA
+http://104.194.8.54:9090/281188_.m3u8
+
+
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 
@@ -1271,36 +1276,44 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
 
 
 #EXTINF:-1,ESPN1
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8
+#EXTINF:-1,ESPN 2
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8
+#EXTINF:-1,ESPN 3
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8
+#EXTINF:-1,ESPN4
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8
 
-#EXTINF:-1,ESPN
+
+#EXTINF:-1,HUM SPORTS 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
 
 
 
 
-
-
-#EXTINF:-1, SPORTS 1 
-
+#EXTINF:-1, SPORTS tv
+https://02.arlivre.online/sportv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ",Sky Sport1 NZ FHD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/150854.ts
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport1_nz.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ",Sky Sport2 NZ FHD
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ",Sky Sport3 NZ FHD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/24018.ts
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ",Sky Sport4 NZ FHD
-
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport4_nz.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ",Sky Sport5 NZ FHD
-
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport5_nz.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ",Sky Sport6 NZ FHD
 
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ",Sky Sport7 NZ FHD
 
 #EXTINF:-1,SKY SPORT NZ 8
-
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport8_nz.m3u8
 #EXTINF:-1,SKY SPORT NZ 9
 
 #EXTINF:-1, ALKAS 1
@@ -1312,6 +1325,11 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/24018.ts
 #EXTINF:-1, ALKAS 4
 
 
+
+#EXTINF:-1, SUPER SPORTS FOOTBALL
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportfootball.m3u8
+#EXTINF:-1, SUPER SPORTS LALIGA
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportlaliga.m3u8
 
 
 #EXTINF:-1,ONE
