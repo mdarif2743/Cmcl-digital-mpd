@@ -661,7 +661,7 @@ http://103.175.73.12:8080/live/35/35_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
-http://103.175.242.10:8080/jalshamovies/index.m3u8
+https://sonamul3535.vercel.app/Jalsha-movie-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
