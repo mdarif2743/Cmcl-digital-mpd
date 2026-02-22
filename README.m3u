@@ -1273,8 +1273,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/675820.ts
 #EXTINF:-1,FOX SPORTS
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1856.ts
 
-
-
+#EXTINF:-1,ESPN
+http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
 #EXTINF:-1,ESPN1
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8
 #EXTINF:-1,ESPN 2
