@@ -55,8 +55,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
 #http://stvlive.net:8080/atnbangla/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
-
+http://203.18.159.115/ATNBANGLA/tracks-v1a1/mono.m3u8
 
 
 
@@ -64,11 +63,13 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 #https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
 #http://116.204.149.16/maasranga/index.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
+http://203.18.159.115/MAASRANGAHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
 #http://stvlive.net:8080/channeli/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
-
+http://203.18.159.115/CHANNELI/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
@@ -91,8 +92,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 #http://103.175.242.10:8080/somoy/index.m3u8
-http://stvlive.net:8080/somoy/index.m3u8
-
+#http://stvlive.net:8080/somoy/index.m3u8
+http://203.18.159.115/SOMOYTV/tracks-v1a1/mono.m3u8
 
 
 
@@ -107,8 +108,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 #http://103.175.242.10:8080/channel24/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
+http://203.18.159.115/CHANNEL24/tracks-v1a1/mono.m3u8
 
 
 
@@ -119,15 +120,15 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
 #http://103.175.242.10:8080/atnnews/index.m3u8
-http://stvlive.net:8080/atnnews/index.m3u8
-
+#http://stvlive.net:8080/atnnews/index.m3u8
+http://203.18.159.115/ATNNEWS/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://103.175.242.10:8080/independent/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
-
+http://203.18.159.115/INDEPENDENTTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
 #http://116.204.149.16/satv/index.m3u8
@@ -166,8 +167,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-
+#http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+http://203.18.159.115/GTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/399.ts
@@ -177,7 +178,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/399.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/429.ts
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
-http://stvlive.net:8080/jamuna/index.m3u8
+http://203.18.159.115/JAMUNATV/tracks-v1a1/mono.m3u8
 
 
 
@@ -231,7 +232,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 http://103.175.73.12:8080/live/373/373_0.m3u8
-
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,R PLUS GOLD
 http://103.175.73.12:8080/live/198/198_0.m3u8
@@ -242,6 +243,8 @@ http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
+http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,ABP ANONDO
 http://103.175.73.12:8080/live/200/200_0.m3u8
@@ -257,11 +260,12 @@ http://103.175.73.12:8080/live/318/318_0.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
-
+http://203.18.159.115/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ZEE CAFE HD
 #http://103.175.73.12:8080/live/261/261_0.m3u8
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1,&EXPLOR HD
@@ -277,6 +281,8 @@ http://103.175.73.12:8080/live/268/268_0.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 #http://217.20.112.199:8888/ColorsHD/index.m3u8
 http://103.175.73.12:8080/live/7/7_0.m3u8
+http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, COLORS INFINITY HD
 http://103.175.73.12:8080/live/28/28_0.m3u8
@@ -301,19 +307,25 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://103.175.73.12:8080/live/127/127_0.m3u8
 #EXTINF:-1,ETV BAL BHARAT
-http://103.175.73.12:8080/live/319/319_0.m3u8
-
+#http://103.175.73.12:8080/live/319/319_0.m3u8
+http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-
+http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
 #http://66.102.120.18:8000/play/a001/index.m3u8
 http://103.175.73.12:8080/live/328/328_0.m3u8
+http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,TLC HD
+http://203.18.159.115/TLCHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
@@ -328,15 +340,17 @@ http://103.175.73.12:8080/live/116/116_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
 #https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
-
+http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
+http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://103.180.212.191:3500/live/1341.m3u8
-
+#http://103.180.212.191:3500/live/1341.m3u8
+http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
 
 
 ---------------------------------------------------------------------
@@ -345,7 +359,7 @@ http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
 #http://217.20.112.199/sethd/index.m3u8
 http://103.175.73.12:8080/live/250/250_0.m3u8
-
+http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
@@ -373,7 +387,7 @@ http://103.175.73.12:8080/live/196/196_0.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
 #http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 #https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
-http://publlicip.tvhunter.top:8080/Sony8/index.m3u8
+http://203.18.159.115/SONYAAT/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
@@ -389,7 +403,7 @@ http://103.175.73.12:8080/live/122/122_0.m3u8
 #http://103.99.249.139/sonymax/index.m3u8
 #http://103.175.242.10:8080/sonymax/index.m3u8
 http://103.175.73.12:8080/live/32/32_0.m3u8
-
+http://203.18.159.115/SONYMAXHD/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
@@ -431,11 +445,11 @@ http://103.175.73.12:8080/live/38/38_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://103.175.73.12:8080/live/58/58_0.m3u8
-
+http://203.18.159.115/SONYPIXHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 http://103.175.73.12:8080/live/131/131_0.m3u8
-
+http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
@@ -477,7 +491,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://103.175.73.12:8080/live/193/193_0.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ%3D%3D&name=Colors+Bangla&format=.m3u8
-
+http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
@@ -492,7 +506,7 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
 http://103.175.73.12:8080/live/194/194_0.m3u8
-
+http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -518,6 +532,9 @@ http://publlicip.tvhunter.top:8080/Tsports/index.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
 http://103.175.73.12:8080/live/1/1_0.m3u8
+http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, STAR PLUS SD
 http://103.175.73.12:8080/live/2/2_0.m3u8
 
@@ -663,7 +680,7 @@ http://103.175.73.12:8080/live/35/35_0.m3u8
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
 https://sonamul3535.vercel.app/Jalsha-movie-HD.m3u8
-
+http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 http://103.175.73.12:8080/live/34/34_0.m3u8
@@ -673,14 +690,14 @@ http://103.175.73.12:8080/live/433/433_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
 http://103.175.73.12:8080/live/40/40_0.m3u8
-
+http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://103.175.73.12:8080/live/30/30_0.m3u8
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 http://103.175.73.12:8080/live/30/30_0.m3u8
-
+http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, STAR GOLD SD
 http://103.175.73.12:8080/live/31/31_0.m3u8
@@ -689,15 +706,17 @@ http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://103.175.73.12:8080/live/3/3_0.m3u8
-
+http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
 http://103.175.73.12:8080/live/56/56_0.m3u8
-
+http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://103.175.73.12:8080/live/60/60_0.m3u8
+http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://103.175.73.12:8080/live/437/437_0.m3u8
@@ -706,12 +725,12 @@ http://103.175.73.12:8080/live/437/437_0.m3u8
 http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 http://103.175.73.12:8080/live/441/441_0.m3u8
-
+http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 http://103.175.73.12:8080/live/37/37_0.m3u8
-
+http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, COLORS CINEPLEX SD
 http://103.175.73.12:8080/live/273/273_0.m3u8
@@ -735,11 +754,13 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 
 ======================================================== Watcho ==========================================================================================================================
-
-
-
-
+#EXTINF:-1,& XPLORE HD
+http://203.18.159.115/ANDXPLORE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,& FLIX HD
+http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, & PRIVE HD
+http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -759,7 +780,7 @@ http://103.175.73.12:8080/live/253/253_0.m3u8
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 http://103.175.73.12:8080/live/266/266_0.m3u8
-
+http://203.18.159.115/ANDPICTURSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -770,12 +791,12 @@ http://103.175.73.12:8080/live/267/267_0.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
 #http://103.175.242.10:8080/zeetv/index.m3u8
 http://103.175.73.12:8080/live/254/254_0.m3u8
-
+http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 http://103.175.73.12:8080/live/264/264_0.m3u8
-
+http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
@@ -866,11 +887,11 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="watcho",Zing
 http://103.175.73.12:8080/live/154/154_0.m3u8
-
+http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="watcho",Zoom
 http://103.175.73.12:8080/live/153/153_0.m3u8
-
+http://203.18.159.115/ZOOM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho",Korean Drama Active
 
@@ -1050,6 +1071,8 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 
 #EXTINF:-1,HUM MASALA
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLW1hc2FsYQ%3D%3D&name=Hum+Masala&format=.m3u8
+http://203.18.159.115/HUMTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,HUM SITERY
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLXNpdGFyYXk%3D&name=Hum+Sitarey&format=.m3u8
