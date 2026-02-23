@@ -484,8 +484,8 @@ http://103.175.73.12:8080/live/83/83_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&name=PTV+spotrs&format=.m3u8
-
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&name=PTV+spotrs&format=.m3u8
+http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -660,8 +660,8 @@ http://103.175.73.12:8080/live/282/282_0.m3u8
 
 
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYS1zcG9ydHM%3D&name=ASPORTS&format=.m3u8
-
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYS1zcG9ydHM%3D&name=ASPORTS&format=.m3u8
+http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, STAR SPORTS KHEL
