@@ -24,8 +24,8 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SA/355ba051
 
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",BTV CTG
-#https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/3818.ts
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/250px-BTV_News_Logo.png" group-title="BANGLADESH", বিটিভি নিউজ
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -35,27 +35,27 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png" group-title="BANGLADESH",মাই টিভি
 #http://116.204.149.16/mytv/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/398.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/398.ts
 
 
 #EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
 #http://stvlive.net:8080/banglavision/index.m3u8
 #http://103.175.242.10:8080/banglavision/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/426.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/426.ts
 
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
 #http://103.99.249.139/rtv/index.m3u8
 #http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 #http://116.204.149.16/rtvhd/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/401.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
 
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
 #http://stvlive.net:8080/atnbangla/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/431.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 
 
 
@@ -67,7 +67,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=M
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
 #http://stvlive.net:8080/channeli/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/392.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
 
 
 
@@ -80,8 +80,8 @@ http://stvlive.net:8080/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
 #http://103.175.242.10:8080/deepto/index.m3u8
-#http://stvlive.net:8080/deepto/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/1331.ts
+http://stvlive.net:8080/deepto/index.m3u8
+
 
 
 
@@ -91,23 +91,23 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 #http://103.175.242.10:8080/somoy/index.m3u8
-#http://stvlive.net:8080/somoy/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/422.ts
+http://stvlive.net:8080/somoy/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/394.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/394.ts
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/434.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 #http://103.175.242.10:8080/channel24/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/391.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
 
 
 
@@ -119,24 +119,23 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
 #http://103.175.242.10:8080/atnnews/index.m3u8
-#http://stvlive.net:8080/atnnews/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/427.ts
+http://stvlive.net:8080/atnnews/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://103.175.242.10:8080/independent/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/423.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
 #http://116.204.149.16/satv/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/3814.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3814.ts
 
 
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="Channels",News 24 BD
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/3810.ts
 http://103.96.235.18:9090/sports2/index.m3u8
 
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
@@ -146,12 +145,11 @@ http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="Channels",Ekattor TV
 #http://103.175.242.10:8080/ekattor/index.m3u8
 #http://stvlive.net:8080/ekattor/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/428.ts
 http://103.96.235.18:9090/sports3/index.m3u8
 
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="All-In-One~ENT🧩",DBC News
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/420.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/420.ts
 
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="All-In-One~ENT🧩",Ekhon Tv
@@ -160,7 +158,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvZWtob24tdHY%3D&name=e
 
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
-http://tv.starsharetv.com:8080/live/su/123456/408.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
 
 
 
@@ -170,25 +168,25 @@ http://tv.starsharetv.com:8080/live/su/123456/408.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
-http://tv.starsharetv.com:8080/live/su/123456/399.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/399.ts
 
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/390.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/429.ts
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
-#http://stvlive.net:8080/jamuna/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/421.ts
+http://stvlive.net:8080/jamuna/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-http://tv.starsharetv.com:8080/live/su/123456/397.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/397.ts
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
 #http://103.229.254.25:7001/play/a05m/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/411.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/411.ts
 
 
 
@@ -201,7 +199,7 @@ http://116.204.149.16/globaltv/index.m3u8
 
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=54
+
 
 
 
@@ -241,7 +239,7 @@ http://103.175.73.12:8080/live/375/375_0.m3u8
 http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/3753.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 #EXTINF:-1,ABP ANONDO
 http://103.175.73.12:8080/live/200/200_0.m3u8
@@ -256,7 +254,7 @@ http://103.175.73.12:8080/live/377/377_0.m3u8
 http://103.175.73.12:8080/live/318/318_0.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://tv.starsharetv.com:8080/live/su/123456/410.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
 #EXTINF:-1, ZEE CAFE HD
@@ -301,14 +299,14 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://103.175.73.12:8080/live/127/127_0.m3u8
 #EXTINF:-1,ETV BAL BHARAT
-#http://103.175.73.12:8080/live/319/319_0.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/355286.ts
+http://103.175.73.12:8080/live/319/319_0.m3u8
+
 
 
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-http://tv.starsharetv.com:8080/live/su/123456/9392.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
@@ -325,12 +323,12 @@ http://103.175.73.12:8080/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
 #https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/7342.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-http://tv.starsharetv.com:8080/live/su/123456/20622.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 http://103.180.212.191:3500/live/1341.m3u8
@@ -1421,18 +1419,6 @@ http://103.175.73.12:8080/live/283/283_0.m3u8
 https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
 
-#EXTINF:-1, MATCH LIVE 4k (live world cup)
-http://tv.starsharetv.com:8080/live/su/123456/581305.ts
-#EXTINF:-1, MATCH LIVE(world cup)
-http://tv.starsharetv.com:8080/live/su/123456/213049.ts
-#EXTINF:-1, MATCH LIVE(ad free)
-http://tv.starsharetv.com:8080/live/su/123456/23566.ts
-#EXTINF:-1, world 🌎 cup live star network
-http://tv.starsharetv.com:8080/live/su/123456/196347.ts
-#EXTINF:-1,STAR 4K WORLD CUP
-http://tv.starsharetv.com:8080/live/su/123456/5040.ts
-#EXTINF:-1, world cup live sky
-https://river-3-369.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/kA3M8GrqJDYUL1hq_Rc3Wg/1771594188/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8
 #EXTINF:-1, LIVE SPORTS 5
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 
