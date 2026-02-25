@@ -315,7 +315,7 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
-#http://66.102.120.18:8000/play/a001/index.m3u8
+http://217.20.112.199:8888/animalplanet/index.m3u8
 
 
 
@@ -358,7 +358,7 @@ http://217.20.112.199/sethd/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
-https://publlicip.tvhunter.top/SABTV/tracks-v1a1/mono.m3u8
+http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 
 
@@ -372,8 +372,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://103.175.242.10:8080/sonyaath/index.m3u8
-http://203.18.159.115/SONYAAT/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/sonyaath/index.m3u8
+
 
 
 
@@ -381,8 +381,8 @@ http://203.18.159.115/SONYAAT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
 #http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-#https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
-http://203.18.159.115/SONYAAT/tracks-v1a1/mono.m3u8
+https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
+
 
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
@@ -396,8 +396,8 @@ http://203.18.159.115/SONYYAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://103.99.249.139/sonymax/index.m3u8
-#http://103.175.242.10:8080/sonymax/index.m3u8
-http://203.18.159.115/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/sonymax/index.m3u8
+
 
 
 #EXTM3U
@@ -438,10 +438,10 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://203.18.159.115/SONYPIXHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
@@ -610,13 +610,13 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
 #http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
-http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
 
 
 
@@ -690,7 +690,7 @@ http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
+http://217.20.112.199:8888/lifeokhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
