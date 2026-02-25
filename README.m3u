@@ -782,8 +782,8 @@ http://103.175.242.10:8080/zeecinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho",Zee Business
-
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho",Zee news
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
 
@@ -797,19 +797,19 @@ http://103.175.242.10:8080/zeecinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" group-title="watcho",9XM
-https://publlicip.tvhunter.top/9xm/tracks-v1a1/mono.m3u8
-
+#https://publlicip.tvhunter.top/9xm/tracks-v1a1/mono.m3u8
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="watcho",9X Jalwa
-
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="watcho",9X Tashan
-
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="watcho",9X Jhakkas
-
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="watcho",MTV Beats
 
@@ -851,11 +851,11 @@ http://203.18.159.115/ZOOM/tracks-v1a1/mono.m3u8
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
 
 #EXTINF:-1,AJ TAK NEWS
-
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
 #EXTINF:-1,CNN NEWS
 
 #EXTINF:-1,DD NEWS
-
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
 
 
@@ -1374,13 +1374,13 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
 #EXTINF:-1,HUB PREMIUM 4K
 
 #EXTINF:-1, DD SPORTS 
-http://103.175.73.12:8080/live/280/280_0.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1,LA LIGA LIVE(DAZAN)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/581352.ts
 #EXTINF:-1,M+ (LA LIGA LIVE)
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/581353.ts
 #EXTINF:-1,DD SPORTS
-http://103.175.73.12:8080/live/64/64_0.m3u8
+
 #EXTINF:-1, EUROSPORT HD
 http://103.175.73.12:8080/live/283/283_0.m3u8
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
