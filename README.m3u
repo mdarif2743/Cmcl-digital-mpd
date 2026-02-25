@@ -231,8 +231,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
-#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 
 #EXTINF:-1,R PLUS GOLD
 
@@ -243,7 +243,7 @@ http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
-http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1,ABP ANONDO
@@ -260,11 +260,10 @@ http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
-http://203.18.159.115/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, ZEE CAFE HD
-#http://103.175.73.12:8080/live/261/261_0.m3u8
-http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -279,8 +278,8 @@ http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 #http://103.99.249.139/colors/index.m3u8
 #http://103.175.242.10:8080/colorshd/index.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#http://217.20.112.199:8888/ColorsHD/index.m3u8
-http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+http://217.20.112.199:8888/ColorsHD/index.m3u8
+
 
 
 #EXTINF:-1, COLORS INFINITY HD
@@ -306,30 +305,29 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1, CARTOON NETWORK
 
 #EXTINF:-1,ETV BAL BHARAT
-#http://103.175.73.12:8080/live/319/319_0.m3u8
 http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
 #http://66.102.120.18:8000/play/a001/index.m3u8
-http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
+
 
 
 
 #EXTINF:-1,TLC HD
-http://203.18.159.115/TLCHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-#http://103.180.212.191:3500/live/3428.m3u8
-http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
+http://103.180.212.191:3500/live/3428.m3u8
+
 
 
 #EXTINF:-1,DW NEWS
@@ -338,29 +336,29 @@ http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
 #https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
-http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
-http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-#http://103.180.212.191:3500/live/1341.m3u8
-http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
+http://103.180.212.191:3500/live/1341.m3u8
+
 
 
 ---------------------------------------------------------------------
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-#http://217.20.112.199/sethd/index.m3u8
-http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
+http://217.20.112.199/sethd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
-http://217.20.112.199:8888/sabtvhd/index.m3u8
+https://publlicip.tvhunter.top/SABTV/tracks-v1a1/mono.m3u8
 
 
 
