@@ -258,7 +258,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 
 #EXTINF:-1,AL JAZEERA ENGLISH
-
+http://103.180.212.191:3500/live/494.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
@@ -285,7 +285,7 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
 #EXTINF:-1, COLORS INFINITY HD
-
+http://103.180.212.191:3500/live/1158.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -432,7 +432,7 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 #EXTINF:-1, STAR UTSAV
 
 #EXTINF:-1,MAX 1
-
+http://103.180.212.191:3500/live/3424.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
@@ -443,7 +443,7 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-
+http://103.180.212.191:3500/live/821.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
@@ -483,9 +483,8 @@ http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#http://103.175.73.12:8080/live/193/193_0.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ%3D%3D&name=Colors+Bangla&format=.m3u8
-http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
+http://103.180.212.191:3500/live/1369.m3u8
+
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
@@ -531,7 +530,7 @@ http://stvlive.net:8080/starplus/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
-
+http://103.180.212.191:3500/live/1264.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
@@ -587,7 +586,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,SHOW BOX
 
 #EXTINF:-1,E24 MUSIC
-
+http://103.180.212.191:3500/live/591.m3u8
 #EXTINF:-1,BALLE BALLE HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 
@@ -655,7 +654,7 @@ http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, STAR SPORTS KHEL
-
+http://103.180.212.191:3500/live/1998.m3u8
 #EXTINF:-1,STAR GOLD THRILLS
 
 
@@ -702,10 +701,10 @@ http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-
+http://103.180.212.191:3500/live/1763.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-
+http://103.180.212.191:3500/live/279.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
@@ -719,7 +718,7 @@ http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-
+http://103.180.212.191:3500/live/1450.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 
@@ -822,7 +821,7 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="watcho",Music India
-
+http://103.180.212.191:3500/live/250.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Ddbh.png" group-title="watcho",DD Bharti
