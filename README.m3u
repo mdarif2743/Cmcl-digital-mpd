@@ -232,7 +232,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
+http://103.175.242.10:8080/zeebangla/index.m3u8
+
 
 #EXTINF:-1,R PLUS GOLD
 
@@ -372,8 +374,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-http://103.175.242.10:8080/sonyaath/index.m3u8
-
+#http://103.175.242.10:8080/sonyaath/index.m3u8
+http://stvlive.net:8080/sonyaath/index.m3u8
 
 
 
@@ -445,12 +447,12 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-http://203.18.159.115/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/sonyten1/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/sonyten2/index.m3u8
 
 
 
@@ -462,7 +464,7 @@ http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-http://203.18.159.115/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/sonyten5/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
@@ -497,7 +499,7 @@ https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
-http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starjalsha/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -521,7 +523,7 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
-http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starplus/index.m3u8
 
 
 #EXTINF:-1, STAR PLUS SD
@@ -616,8 +618,8 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
 #http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
-
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
+http://stvlive.net:8080/starsports2/index.m3u8
 
 
 
@@ -627,7 +629,7 @@ http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 #http://stvlive.net:8080/starselect1/index.m3u8
-http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starselect1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 SD 
@@ -636,7 +638,7 @@ http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
 #http://stvlive.net:8080/starselect2/index.m3u8
-http://203.18.159.115/STARSPORTSSELECT2HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starselect2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
@@ -667,7 +669,7 @@ http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
-http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/jalshamovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 https://publlicip.tvhunter.top/STAR_GOLD_2/tracks-v1a1/mono.m3u8
@@ -680,9 +682,8 @@ http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-#http://103.175.73.12:8080/live/30/30_0.m3u8
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
-http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/stargold/index.m3u8
 
 #EXTINF:-1, STAR GOLD SD
 
@@ -694,7 +695,7 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
@@ -748,7 +749,7 @@ https://publlicip.tvhunter.top/ANSTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
-http://203.18.159.115/ANDPICTURSHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/zeecinema/index.m3u8
 
 
 
@@ -758,11 +759,11 @@ http://203.18.159.115/ANDPICTURSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
 #http://103.175.242.10:8080/zeetv/index.m3u8
-http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/zeetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-#http://103.175.242.10:8080/zeecinema/index.m3u8
-http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/zeecinema/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
