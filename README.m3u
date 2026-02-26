@@ -538,7 +538,7 @@ http://103.180.212.191:3500/live/1264.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
-
+http://103.175.73.12:8080/live/18/18_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -658,7 +658,7 @@ http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, STAR SPORTS KHEL
-http://103.180.212.191:3500/live/1998.m3u8
+http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1,STAR GOLD THRILLS
 
 
@@ -691,7 +691,7 @@ http://stvlive.net:8080/stargold/index.m3u8
 #EXTINF:-1, STAR GOLD SD
 
 #EXTINF:-1,STAR UTSAV MOVIES
-
+http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://217.20.112.199:8888/lifeokhd/index.m3u8
@@ -705,10 +705,10 @@ http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://103.180.212.191:3500/live/1763.m3u8
+http://103.175.73.12:8080/live/437/437_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-http://103.180.212.191:3500/live/279.m3u8
+http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
@@ -722,7 +722,7 @@ http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-http://103.180.212.191:3500/live/1450.m3u8
+http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 
@@ -730,10 +730,10 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 
 #EXTINF:-1,DD NATIONAL HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+http://103.175.73.12:8080/live/15/15_0.m3u8
 
 #EXTINF:-1, DANGAL 2
-
+http://103.175.73.12:8080/live/18/18_0.m3u8
 
 
 
@@ -800,7 +800,7 @@ http://starhub.pro:8080/live/Abdul/Abdul123/7720.ts
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" group-title="watcho",9XM
 #https://publlicip.tvhunter.top/9xm/tracks-v1a1/mono.m3u8
-https://wiselp.wiseplayout.com/9XM/master.m3u8
+http://103.175.73.12:8080/live/155/155_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="watcho",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
@@ -823,7 +823,7 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="watcho",Music India
-http://103.180.212.191:3500/live/250.m3u8
+http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Ddbh.png" group-title="watcho",DD Bharti
