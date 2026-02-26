@@ -372,7 +372,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-
+http://starhub.pro:8080/live/Abdul/Abdul123/6627.ts
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -390,12 +390,12 @@ https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
 
 
 #EXTINF:-1,SONY MAX 2(TOFFEE)
-
+http://starhub.pro:8080/live/Abdul/Abdul123/973.ts
 
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://203.18.159.115/SONYYAY/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
@@ -675,7 +675,7 @@ http://stvlive.net:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 https://publlicip.tvhunter.top/STAR_GOLD_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-
+http://starhub.pro:8080/live/Abdul/Abdul123/157081.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
@@ -772,16 +772,16 @@ http://103.175.242.10:8080/zeecinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Action
-
+http://starhub.pro:8080/live/Abdul/Abdul123/967.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
-
+http://starhub.pro:8080/live/Abdul/Abdul123/966.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="watcho",Zee Anmol
-
+http://starhub.pro:8080/live/Abdul/Abdul123/203.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
-
+http://starhub.pro:8080/live/Abdul/Abdul123/7065.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho",Zee news
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
@@ -790,10 +790,9 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="watcho",Zee Hindustan
+http://starhub.pro:8080/live/Abdul/Abdul123/7720.ts
 
 
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="watcho",Zee Bihar Jharkhand
 
 
 
@@ -817,7 +816,6 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="watcho",Sangeet Bhojpuri
 
 
 
@@ -827,7 +825,7 @@ http://103.180.212.191:3500/live/250.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Ddbh.png" group-title="watcho",DD Bharti
-
+http://starhub.pro:8080/live/Abdul/Abdul123/4040.ts
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
@@ -841,11 +839,11 @@ http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
 http://203.18.159.115/ZOOM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho",Korean Drama Active
-
+http://starhub.pro:8080/live/Abdul/Abdul123/638097.ts
 
 
 #EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
-
+http://starhub.pro:8080/live/Abdul/Abdul123/52495.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eVnttMcFT7g7AMgSM65EJPgrm5G7o4jVIvTxqQQI6A" group-title="watcho", NDTV India
