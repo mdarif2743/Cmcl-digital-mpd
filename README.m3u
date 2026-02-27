@@ -333,10 +333,14 @@ http://217.20.112.199:8888/animalplanet/index.m3u8
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://103.180.212.191:3500/live/3428.m3u8
-
-
+#EXTINF:-1,NET GEO WILD
+http://217.20.112.199:8888/natgeowild/index.m3u8
 
 #EXTINF:-1,DW NEWS
+
+#EXTINF:-1,CGTN
+http://217.20.112.199:8888/cgtn/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
