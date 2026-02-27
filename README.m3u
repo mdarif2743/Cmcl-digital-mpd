@@ -778,7 +778,7 @@ http://103.175.242.10:8080/zeecinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Action
-http://starhub.pro:8080/live/Abdul/Abdul123/967.ts
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
 http://starhub.pro:8080/live/Abdul/Abdul123/966.ts
@@ -788,6 +788,10 @@ http://starhub.pro:8080/live/Abdul/Abdul123/203.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
 http://starhub.pro:8080/live/Abdul/Abdul123/7065.ts
+
+
+#EXTINF:-1,ZEE ANIMAL CINEMA 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho",Zee news
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
