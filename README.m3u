@@ -363,9 +363,8 @@ http://103.180.212.191:3500/live/1341.m3u8
 http://starhub.pro:8080/live/Abdul/Abdul123/9885.ts
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-#http://103.99.249.139/sonysab/index.m3u8
-http://217.20.112.199:8888/sabtvhd/index.m3u8
-
+#http://217.20.112.199:8888/sabtvhd/index.m3u8
+http://103.99.249.139/sonysab/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
@@ -401,9 +400,8 @@ http://starhub.pro:8080/live/Abdul/Abdul123/973.ts
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-#http://103.99.249.139/sonymax/index.m3u8
-http://103.175.242.10:8080/sonymax/index.m3u8
-
+#http://103.175.242.10:8080/sonymax/index.m3u8
+http://103.99.249.139/sonymax/index.m3u8
 
 
 #EXTM3U
@@ -688,8 +686,8 @@ http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
-http://starhub.pro:8080/live/Abdul/Abdul123/98858.ts
-
+#http://starhub.pro:8080/live/Abdul/Abdul123/98858.ts
+http://103.99.249.139/stargold/index.m3u8
 
 #EXTINF:-1, STAR GOLD SD
 
