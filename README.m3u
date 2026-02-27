@@ -234,8 +234,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
-http://103.175.242.10:8080/zeebangla/index.m3u8
-
+#http://103.175.242.10:8080/zeebangla/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98881.ts
 
 #EXTINF:-1,R PLUS GOLD
 
@@ -293,9 +293,9 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-
+http://starhub.pro:8080/live/Abdul/Abdul123/638050.ts
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
-
+http://starhub.pro:8080/live/Abdul/Abdul123/66162.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 https://publlicip.tvhunter.top/dd4/index.m3u8
 
@@ -305,10 +305,10 @@ https://publlicip.tvhunter.top/dd4/index.m3u8
 #http://103.175.73.12:8080/live/124/124_0.m3u8
 http://103.180.212.191:3500/live/1345.m3u8
 
-#EXTINF:-1, CARTOON NETWORK
-
+#EXTINF:-1, CARTOON NETWORK hd
+http://starhub.pro:8080/live/Abdul/Abdul123/8.ts
 #EXTINF:-1,ETV BAL BHARAT
-http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/355286.ts
 
 
 #EXTINF:-1,DURONTO TV
@@ -341,7 +341,6 @@ http://217.20.112.199:8888/cgtn/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-#https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 
 
@@ -360,8 +359,8 @@ http://103.180.212.191:3500/live/1341.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-http://217.20.112.199/sethd/index.m3u8
-
+#http://217.20.112.199/sethd/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/9885.ts
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
@@ -387,8 +386,8 @@ http://stvlive.net:8080/sonyaath/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath(liv FEED)
-#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-https://toffee.sm-monirulislam-exp.workers.dev/live.php?id=7e00fee81848&e=.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+
 
 
 
@@ -434,18 +433,17 @@ http://ahostingportal.com:8000/62664054820/5271593547/3019
 http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
-#EXTINF:-1, STAR UTSAV
 
 #EXTINF:-1,MAX 1
 http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-
+http://starhub.pro:8080/live/Abdul/Abdul123/4077.ts
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-
+http://starhub.pro:8080/live/Abdul/Abdul123/9381.ts
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 http://103.180.212.191:3500/live/821.m3u8
@@ -463,14 +461,14 @@ http://stvlive.net:8080/sonyten2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/9404.ts
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-http://stvlive.net:8080/sonyten5/index.m3u8
-
+#http://stvlive.net:8080/sonyten5/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98870.ts
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 http://starhub.pro:8080/live/Abdul/Abdul123/211.ts
@@ -478,13 +476,13 @@ http://starhub.pro:8080/live/Abdul/Abdul123/211.ts
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-http://starhub.pro:8080/live/Abdul/Abdul123/9398.ts
+
 
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&name=PTV+spotrs&format=.m3u8
-http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&name=PTV+spotrs&format=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -503,7 +501,9 @@ https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
-http://stvlive.net:8080/starjalsha/index.m3u8
+#http://stvlive.net:8080/starjalsha/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/198.ts
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -527,8 +527,8 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
-http://stvlive.net:8080/starplus/index.m3u8
-
+#http://stvlive.net:8080/starplus/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98849.ts
 
 #EXTINF:-1, STAR PLUS SD
 
@@ -628,13 +628,12 @@ http://stvlive.net:8080/starsports2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/1080.ts
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
 #http://stvlive.net:8080/starselect1/index.m3u8
-http://stvlive.net:8080/starselect1/index.m3u8
-
+http://starhub.pro:8080/live/Abdul/Abdul123/9400.ts
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 SD 
 
@@ -642,8 +641,7 @@ http://stvlive.net:8080/starselect1/index.m3u8
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
 #http://stvlive.net:8080/starselect2/index.m3u8
-http://stvlive.net:8080/starselect2/index.m3u8
-
+http://starhub.pro:8080/live/Abdul/Abdul123/9401.ts
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
 
@@ -654,8 +652,8 @@ http://stvlive.net:8080/starselect2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYS1zcG9ydHM%3D&name=ASPORTS&format=.m3u8
-http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYS1zcG9ydHM%3D&name=ASPORTS&format=.m3u8
+
 
 
 #EXTINF:-1, STAR SPORTS KHEL
@@ -673,21 +671,25 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
-http://stvlive.net:8080/jalshamovies/index.m3u8
+#http://stvlive.net:8080/jalshamovies/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/425.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-https://publlicip.tvhunter.top/STAR_GOLD_2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 http://starhub.pro:8080/live/Abdul/Abdul123/157081.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-#http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
-http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
+http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
-http://stvlive.net:8080/stargold/index.m3u8
+#http://stvlive.net:8080/stargold/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98858.ts
+
 
 #EXTINF:-1, STAR GOLD SD
 
@@ -699,10 +701,12 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://stvlive.net:8080/starmovies/index.m3u8
+#http://stvlive.net:8080/starmovies/index.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98842.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
+http://starhub.pro:8080/live/Abdul/Abdul123/98843.ts
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
@@ -711,7 +715,7 @@ http://103.175.73.12:8080/live/437/437_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
