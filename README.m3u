@@ -281,8 +281,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 #http://103.99.249.139/colors/index.m3u8
 #http://103.175.242.10:8080/colorshd/index.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-http://217.20.112.199:8888/ColorsHD/index.m3u8
-
+#http://217.20.112.199:8888/ColorsHD/index.m3u8
+http://103.180.212.191:3500/live/144.m3u8
 
 
 #EXTINF:-1, COLORS INFINITY HD
@@ -486,8 +486,8 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-http://103.180.212.191:3500/live/1369.m3u8
-
+#http://103.180.212.191:3500/live/1369.m3u8
+http://103.180.212.191:3500/live/756.m3u8
 
 #EXTINF:-1, BONGO DRAMA
 https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
@@ -715,7 +715,7 @@ http://103.175.73.12:8080/live/437/437_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-
+http://103.180.212.191:3500/live/1657.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
