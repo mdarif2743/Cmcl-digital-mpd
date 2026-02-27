@@ -255,14 +255,14 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 #EXTINF:-1,ABP ANONDO
 
 #EXTINF:-1,TV9 BANGLA
-
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1, NEWS 18 BANGLA 
 
 
-
-
+#EXTINF:-1,TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,AL JAZEERA ENGLISH
-http://103.180.212.191:3500/live/494.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
@@ -337,7 +337,7 @@ http://103.180.212.191:3500/live/3428.m3u8
 http://217.20.112.199:8888/natgeowild/index.m3u8
 
 #EXTINF:-1,DW NEWS
-
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1,CGTN
 http://217.20.112.199:8888/cgtn/index.m3u8
 
