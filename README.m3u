@@ -1432,9 +1432,10 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 
-
-
-
+#EXTINF:-1,RADIO FORTI
+https://node-11.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1,Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv
 
 
 
