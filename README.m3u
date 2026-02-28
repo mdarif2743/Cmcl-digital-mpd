@@ -213,14 +213,63 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 #EXTINF:-1,PROBASHI TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TBN 24
-http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:-1,BANGLA PLUS
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jangle%20Book.jpg?raw=true" group-title="All-In-One~ENT🧩",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoo%20music.jpg?raw=true" tvg-name="Zoo Music 🎵" group-title="All-In-One~ENT🧩",Zoo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla+%20plus.jpg?raw=true" group-title="All-In-One~ENT🧩",Bangla+ plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1,ZILLAR BARTA CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EnterTen%20Bangla%202.jpg?raw=true" group-title="All-In-One~ENT🧩",Enter10Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" tvg-name="Hindi movies" group-title="All-In-One~ENT🧩",Hindi movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" tvg-name="Bangla Movies" group-title="All-In-One~ENT🧩",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" tvg-name="Dubbed movies" group-title="All-In-One~ENT🧩",Dubbed movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" tvg-name="Gopal Bhar" group-title="All-In-One~ENT🧩",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" tvg-name="Motu Patlu" group-title="All-In-One~ENT🧩",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" tvg-name="Bangla Songs" group-title="All-In-One~ENT🧩",Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyFix.jpg?raw=true" tvg-name="NH Bolly Fix" group-title="All-In-One~ENT🧩",NH Bolly Fix
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyGold.jpg?raw=true" tvg-name="NH Bollygold" group-title="All-In-One~ENT🧩",NH Bollygold
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollygoldottplay.m3u8
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyRaja.jpg?raw=true" tvg-name="NH BollyRaja" group-title="All-In-One~ENT🧩",NH BollyRaja
+https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Chana%20Jor.jpg?raw=true" tvg-name="Chana Jor" group-title="All-In-One~ENT🧩",Chana Jor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bongo%20Dramas.jpg?raw=true" tvg-name="Bongo Dramas" group-title="All-In-One~ENT🧩",Bongo Dramas
+https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bongo%20Movies.jpg?raw=true" tvg-name="Bongo Movies" group-title="All-In-One~ENT🧩",Bongo Movies
+https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream/a02e1e3c-eeba-4339-88e1-d6f7e99669e2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" tvg-name="ZB Cartoon" group-title="All-In-One~ENT🧩",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Cinema.jpg?raw=true" tvg-name="ZB Cinema" group-title="All-In-One~ENT🧩",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1,ZILLAR BARTA MUSIC
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Music.jpg?raw=true" tvg-name="ZB Music" group-title="All-In-One~ENT🧩",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
 
 
 
@@ -229,27 +278,27 @@ http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
 #EXTINF:-1, চ্যানেল সিক্সটিন
 https://euc12.playlist.ttvnw.net/v1/playlist/CrIGOhs7_rjGr4NX5WgrDx7iGge81xz4qlTw3rJvek2Y5TiEOd5RkZLMnguZpHXjsafEkBQ0edc9XjpDzEx3PCeWxAmQaZvriMbIJwF9FmiDJJFFQIMyxTVximPbmJlAxWz4inz59TAwmgA4yguecsNDzqBohqYPIXg2BodiAgE__g6XU5bLV-xTaz6-SovgwZhyxPLHXoSwQNhRzG73bb7M_t1htZwhOqP8Om2J7Y8taNgcgPQgXQWy8OZ-Cn4IbhuzNCfCs_dd2-h5YZyfmTqDDg72vaEfCb0Uzo3gMhm5fbJQnCbh5AHIGevunluSEb7PbWu9DPfPlls2DX3g3Bz7I0GAWO5sSg8fH8tDiXibkpLKg0h18-qpBwodcIcFSBmlKT39UlUatvfNRO--qHc4ryWy90P3Nh4yVHJwZ_H6hcqjOXYkA8k9Z_SooS-VWQb127PrtFBkQRDLaKlMQGayFOOMB6tKfGGXI5bP_Y87tjvv9lS5-GoTkBQgZXN0ZBjsq0-HDgpSPrEpO2mbLBXmxR02z_WCdoW5btDV9xW9t_VBfJctzxECAPhGx4uaZTEdoYkgd0ReNatAuXj1DRcAECN7VrSOc54JYVp90Uyi7qrCQu-gipd4mevuwHx82wf5CsUmvUrke-0RVz1qyUR4GIMjkWDqzisVJrDoNECYU3bneRK59FiW6GzcE9lighUstpdE3DKFtw_GIRsxX6p_ZtJOSeAqatRfTPdax9v9RYydE7svcGDJZAgMnOPJDCgVELr3TgBMpVwd_2pb-YFZ_nwaaN3fQobJ5PY5m_ZRvZ4nUd4grQeHWYZbAya1CjedzhilMy8Le8Nh1GLrAQU-uhsqODoL04UL42dSHY7p53E4Wyd4khCLqDE3FQbcgmQL-weVcuOs28BtabEE30kUUHZiyaoQQY_HxlFOClmvg6YjD1f-zFcLDYIMh-TnmL-0YKZfb1tHm5quHnVb2onayiQMmxfeUO9Npkyls80jp2yNvuXA1NsCJUa-zpJbd0KfgY7Ifd55DcdN2RFiz0W9rp2pUyIOrEOblgbTzNFAdPVW3V-nJ1i_2Wuh7nqFz9qI5cwaDHxS5E6pYsrz2G2iTiABKglldS13ZXN0LTIwxQ4.m3u8
 
-#EXTINF:-1,HINDI DUBBING MOVIES
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1,ALL TIME BD SONG
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1,GOPAL BAR
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1,DEWANA HD
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ALL TIME MOVIES
-https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1,ALL TIME BANGLA MOVIES
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1,MOTO PALTU
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1z&name=Channel+S&format=.m3u8
+
+
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Show%20Box.jpg?raw=true" tvg-name="Show box music🎵" group-title="All-In-One~ENT🧩",Show box music
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="All-In-One~ENT🧩",T Series
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
@@ -337,8 +386,7 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
-http://217.20.112.199:8888/animalplanet/index.m3u8
+
 
 
 
@@ -507,10 +555,6 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&
 #http://103.180.212.191:3500/live/1369.m3u8
 http://103.180.212.191:3500/live/756.m3u8
 
-#EXTINF:-1, BONGO DRAMA
-https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
-#EXTINF:-1, BONGO MOVIE
-https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream/a02e1e3c-eeba-4339-88e1-d6f7e99669e2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
@@ -606,7 +650,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/a4e5fbf23a54106f0fb08d6950f35e332d4766923db80ed413049bd35a121bf8.jpg" group-title="AynaOTT - Indian ENT",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 
-#EXTINF:-1,SHOW BOX
+
 
 #EXTINF:-1,E24 MUSIC
 http://103.180.212.191:3500/live/591.m3u8
