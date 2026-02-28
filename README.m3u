@@ -63,9 +63,8 @@ http://stvlive.net:8080/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
 #https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8
-#http://116.204.149.16/maasranga/index.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
-
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
+http://116.204.149.16/maasranga/index.m3u8
 
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
