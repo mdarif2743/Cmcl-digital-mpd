@@ -215,6 +215,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBN 24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1,BANGLA PLUS
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1,ZILLAR BARTA CINEMA
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1,ZILLAR BARTA MUSIC
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
@@ -226,8 +233,8 @@ https://euc12.playlist.ttvnw.net/v1/playlist/CrIGOhs7_rjGr4NX5WgrDx7iGge81xz4qlT
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1,ALL TIME BD SONG
 https://tplay.live/originals/bengali-beats/index.m3u8
-
-
+#EXTINF:-1,GOPAL BAR
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1,DEWANA HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ALL TIME MOVIES
