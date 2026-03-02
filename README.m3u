@@ -526,7 +526,7 @@ http://ahostingportal.com:8000/62664054820/5271593547/2818
 
 
 
-#EXTINF:-1,MAX 1
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="MOVIES",MAX 1
 http://103.180.212.191:3500/live/3418.m3u8
 
 
