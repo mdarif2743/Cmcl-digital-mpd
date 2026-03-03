@@ -362,8 +362,10 @@ https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" tvg-name="Shemaroo Bollywood" group-title="India🇮🇳",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1, ZEE CAFE HD
 
+
+#EXTINF:-1, ZEE CAFE HD
+http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -390,9 +392,9 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-
+http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
-
+http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 
 
@@ -405,7 +407,7 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1, CARTOON NETWORK hd
 
 #EXTINF:-1,ETV BAL BHARAT
-
+http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,DURONTO TV
@@ -447,8 +449,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://103.180.212.191:3500/live/1341.m3u8
-
+#http://103.180.212.191:3500/live/1341.m3u8
+http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
 
 
 ---------------------------------------------------------------------
@@ -591,8 +593,8 @@ http://103.180.212.191:3500/live/756.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
-http://stvlive.net:8080/starjalsha/index.m3u8
-
+#http://stvlive.net:8080/starjalsha/index.m3u8
+http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -792,12 +794,12 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://stvlive.net:8080/starmovies/index.m3u8
-
+#http://stvlive.net:8080/starmovies/index.m3u8
+http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-
+http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
