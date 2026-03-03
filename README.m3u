@@ -1340,18 +1340,17 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/675820.ts
 
 
 #EXTINF:-1,FOX SPORTS
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1856.ts
-
-#EXTINF:-1,ESPN
-http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
-#EXTINF:-1,ESPN1
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8
-#EXTINF:-1,ESPN 2
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8
+http://dottv.xyz:80/live/Jude100/13R8ANM/83174.ts
 #EXTINF:-1,ESPN 3
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8
+http://dottv.xyz:80/live/Jude100/13R8ANM/1052170.ts
+#EXTINF:-1,ESPN1
+http://dottv.xyz:80/live/Jude100/13R8ANM/1034931.ts
+#EXTINF:-1,ESPN 2
+http://dottv.xyz:80/live/Jude100/13R8ANM/30736.ts
+#EXTINF:-1,ESPN 3
+http://dottv.xyz:80/live/Jude100/13R8ANM/325587.ts
 #EXTINF:-1,ESPN4
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8
+http://dottv.xyz:80/live/Jude100/13R8ANM/325566.ts
 
 
 #EXTINF:-1,HUM SPORTS 1
