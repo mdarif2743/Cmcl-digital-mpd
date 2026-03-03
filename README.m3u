@@ -325,8 +325,9 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-http://starhub.pro:8080/live/Abdul/Abdul123/98881.ts
 http://217.20.112.199:8888/maamovies/index.m3u8
+
+
 #EXTINF:-1,R PLUS GOLD
 
 
@@ -554,7 +555,7 @@ http://stvlive.net:8080/sonyten2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
-
+http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
 
 
 
@@ -718,7 +719,7 @@ http://stvlive.net:8080/starsports2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-
+http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
