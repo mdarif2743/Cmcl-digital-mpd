@@ -45,11 +45,11 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/398.ts
 #http://stvlive.net:8080/banglavision/index.m3u8
 #http://103.175.242.10:8080/banglavision/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/426.ts
-
+http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
 #http://103.99.249.139/rtv/index.m3u8
-#http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
+#http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
 #http://116.204.149.16/rtvhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
@@ -95,7 +95,7 @@ http://starhub.pro:8080/live/Abdul/Abdul123/3813.ts
 
 
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
-#http://103.175.242.10:8080/somoy/index.m3u8
+#http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
 http://stvlive.net:8080/somoy/index.m3u8
 
 
