@@ -204,6 +204,10 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 #http://116.204.149.16/globaltv/index.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvZ2xvYmFsLXR2&name=Global+TV&format=.m3u8
 
+
+#EXTINF:-1, NEWS 21 TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
 #EXTINF:-1,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,NRB TV
