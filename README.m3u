@@ -569,7 +569,7 @@ http://stvlive.net:8080/sonyten5/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
 
 
 
@@ -626,7 +626,7 @@ http://stvlive.net:8080/starplus/index.m3u8
 http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, STAR PLUS SD
-
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
@@ -711,8 +711,8 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
-
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
@@ -784,7 +784,9 @@ http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
 #http://starhub.pro:8080/live/Abdul/Abdul123/98858.ts
-http://103.99.249.139/stargold/index.m3u8
+#http://103.99.249.139/stargold/index.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
+
 
 #EXTINF:-1, STAR GOLD SD
 
@@ -792,7 +794,7 @@ http://103.99.249.139/stargold/index.m3u8
 http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://217.20.112.199:8888/lifeokhd/index.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
