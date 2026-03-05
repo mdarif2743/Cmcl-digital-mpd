@@ -327,8 +327,7 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-http://103.175.242.10:8080/zeebangla/index.m3u8
-
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,R PLUS GOLD
 
@@ -383,8 +382,8 @@ http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 #http://103.175.242.10:8080/colorshd/index.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 #http://217.20.112.199:8888/ColorsHD/index.m3u8
-http://stvlive.net:8080/colorshd/index.m3u8
-
+#http://stvlive.net:8080/colorshd/index.m3u8
+http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, COLORS INFINITY HD
 http://103.175.73.12:8080/live/29/29_0.m3u8
@@ -585,8 +584,8 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://103.180.212.191:3500/live/1369.m3u8
-http://103.180.212.191:3500/live/756.m3u8
-
+#http://103.180.212.191:3500/live/756.m3u8
+http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
@@ -622,7 +621,7 @@ https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #http://103.175.242.10:8080/starplus/index.m3u8
-http://stvlive.net:8080/starplus/index.m3u8
+#http://stvlive.net:8080/starplus/index.m3u8
 http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, STAR PLUS SD
