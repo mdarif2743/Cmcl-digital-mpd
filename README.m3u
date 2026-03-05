@@ -1057,7 +1057,7 @@ https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
 
 
 
-#EXTINF:-2,SET ENTERTAINMENT PK
+#EXTINF:-2, tvg-logo="https://zongmobiletv.com/storage/live.webp" group-titel="shoq",  SET ENTERTAINMENT PK
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Shoq",Ary Zindagi
