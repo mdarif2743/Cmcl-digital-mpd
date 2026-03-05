@@ -12,15 +12,17 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-
+#https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+https://s1.ideationtec.live/Madani_TV/Madani_TV.m3u8
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
-https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8
+#https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8
+https://s1.ideationtec.live/Saudi_Quran_HD/Saudi_Quran_HD.m3u8
+
 #EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-name="SUNNAH" tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" group-title="Religious",SUNNAH
 #https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
-
+#https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels",BTV NATIONAL HD
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SA/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
@@ -979,15 +981,15 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/24-news.png" group-title="Shoq",24 News HD
-
+https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png" group-title="Shoq", Aaj News
 https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.ts.m3u8
-
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Shoq", Aan TV
-
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png" group-title="Shoq",Abb Tak News
 https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/tracks-v1a1/mono.ts.m3u8
@@ -999,19 +1001,19 @@ https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png" group-title="Shoq",Bol News
-
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/City-21.png" group-title="Shoq",City 21
-
+https://s2.ideationtec.live/City_41/City_41.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/city-42.png" group-title="Shoq",City 42
-
+https://s2.ideationtec.live/City_42/City_42.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Dawn-news.png" group-title="Shoq",Dawn News
-
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/dunya.png" group-title="Shoq",Dunya News
@@ -1033,30 +1035,39 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Lahore-News.png" group-title="Shoq",Lahore News HD
 
 
-
-
+#EXTINF:-1,LTN FAMILY HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-news.png" group-title="Shoq", PTV News
 
-
-
+#EXTINF:-1,GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ptv-national.png" group-title="Shoq", PTV National
 
 
 
-
-
+#EXTINF:-1, PUBLIC NEWS HD
+https://s4.ideationtec.live/Public_News_HD/Public_News_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png" group-title="Shoq",A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
 
 
+
+
+#EXTINF:-2,SET ENTERTAINMENT PK
+https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Shoq",Ary Zindagi
 
-
-
+#EXTINF:-1,SAB ENTERTAINMENT
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
+#EXTINF:-1, DISCOVERY PAKISTAN
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+#EXTINF:-1,AJJ ENTERTAINMENT HD
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
@@ -1067,7 +1078,7 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-entertainment.png" group-title="Shoq",Bol Entertainment
-
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Shoq",Express Entertainment
@@ -1095,20 +1106,25 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVt&name=Hum+TV&form
 
 
 
-
+#EXTINF:-1,PNN
+https://s2.ideationtec.live/Pnn/Pnn.m3u8
+#EXTINF:-1,NEO NEWS
+https://s5.ideationtec.live/Neo_News/Neo_News.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 
-
-
+#EXTINF:-1,GTV NEWS
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
 
 #EXTINF:-1,AURLIFE HD
-http://124.109.47.101/hls/stream1.m3u8
+#http://124.109.47.101/hls/stream1.m3u8
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 
-
-
-
+#EXTINF:-1,ROHI TV
+https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
+#EXTINF:-1,ROZE NEWS
+https://s5.ideationtec.live/Roze_News/Roze_News.m3u8
 
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
