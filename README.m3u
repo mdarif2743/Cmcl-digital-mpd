@@ -352,13 +352,13 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,AL JAZEERA ENGLISH
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+http://103.175.73.12:8080/live/318/318_0.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="India🇮🇳",Shemaroo TV
-#https://cdn-3.pishow.tv/live/230/master.m3u8
+http://103.175.73.12:8080/live/274/274_0.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="India🇮🇳",Shemaroo Umang
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20Zosh.jpg?raw=true" tvg-name="Shemaroo Zosh (chumbak)" group-title="India🇮🇳",Shemaroo Zosh & (ChumbakTV)
@@ -886,7 +886,7 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
-
+http://103.175.73.12:8080/live/271/271_0.m3u8
 
 
 #EXTINF:-1,ZEE ANIMAL CINEMA 2
