@@ -6,6 +6,10 @@
 #EXTINF:-1, LA LIGA LIVE
 https://cdn-content-cf2-us.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
+
+
+#EXTINF:-1,AZAN TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1,AL QURAN LIVE
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV বাংলা
