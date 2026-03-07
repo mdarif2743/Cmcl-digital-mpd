@@ -325,7 +325,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Show%20Box.jpg?raw=true" tvg-name="Show box music🎵" group-title="All-In-One~ENT🧩",Show box music
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
+http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="All-In-One~ENT🧩",T Series
@@ -371,9 +371,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20TV.jpg?raw=true" group-title="India🇮🇳",Shemaroo TV
 http://103.175.73.12:8080/live/274/274_0.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20umang.jpg?raw=true" tvg-name="Shemaroo Umang" group-title="India🇮🇳",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+http://103.175.73.12:8080/live/258/258_0.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Shemaroo%20Zosh.jpg?raw=true" tvg-name="Shemaroo Zosh (chumbak)" group-title="India🇮🇳",Shemaroo Zosh & (ChumbakTV)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+http://103.175.73.12:8080/live/21/21_0.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" tvg-name="Shemaroo Bollywood" group-title="India🇮🇳",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
