@@ -4,7 +4,7 @@
 #EXTINF:-1, STAR 4K
 
 #EXTINF:-1, LA LIGA LIVE
-https://cdn-content-cf2-us.latamlive.net/DS1_ENC_LIVE/index.m3u8
+
 
 #EXTINF:-1,SKY LIFE BD AL QURAN
 http://103.175.73.12:8080/live/636/636_0.m3u8
@@ -187,7 +187,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/429.ts
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
-http://starhub.pro:8080/live/Abdul/Abdul123/421.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/421.ts
 
 
 
@@ -340,7 +340,7 @@ http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,SANANDA TV
-http://sananda.bengaldigital.live/Sananda/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
