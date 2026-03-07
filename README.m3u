@@ -355,6 +355,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1, NEWS 18 BANGLA 
 
 
+
+
+
+
+#EXTINF:-1,CNN NEWS
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,AL JAZEERA ENGLISH
