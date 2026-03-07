@@ -880,8 +880,8 @@ http://stvlive.net:8080/zeecinema/index.m3u8
 http://103.175.242.10:8080/zeetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-http://103.175.242.10:8080/zeecinema/index.m3u8
-
+#http://103.175.242.10:8080/zeecinema/index.m3u8
+http://119.152.240.15:8000/play/a0bf/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
