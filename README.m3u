@@ -575,14 +575,14 @@ http://stvlive.net:8080/sonyten2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
-http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA==&e=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
 #http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-#http://stvlive.net:8080/sonyten5/index.m3u8
-http://103.99.249.139/sonyten3/index.m3u8
+http://stvlive.net:8080/sonyten5/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
