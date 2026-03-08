@@ -419,7 +419,9 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
+
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
 http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
@@ -431,7 +433,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 #EXTINF:-1,SONIC বাংলা
 #http://103.175.73.12:8080/live/124/124_0.m3u8
-http://103.180.212.191:3500/live/1345.m3u8
+#http://103.180.212.191:3500/live/1345.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8
+
 
 #EXTINF:-1, CARTOON NETWORK hd
 
@@ -442,7 +446,7 @@ http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
 
 
 
@@ -458,7 +462,7 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1,NET GEO WILD
-http://217.20.112.199:8888/natgeowild/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
 
 #EXTINF:-1,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
@@ -468,8 +472,8 @@ http://217.20.112.199:8888/cgtn/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
+http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -479,7 +483,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.180.212.191:3500/live/1341.m3u8
-http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0405/master.m3u8
 
 
 ---------------------------------------------------------------------
@@ -493,8 +497,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://217.20.112.199:8888/sabtvhd/index.m3u8
-http://103.99.249.139/sonysab/index.m3u8
-
+#http://103.99.249.139/sonysab/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
@@ -567,8 +571,8 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://103.180.212.191:3500/live/821.m3u8
-
+#http://103.180.212.191:3500/live/821.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 http://stvlive.net:8080/sonyten1/index.m3u8
@@ -693,7 +697,7 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
 #EXTINF:-1,MTV HD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
 
