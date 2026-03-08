@@ -404,12 +404,15 @@ http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
 
 
 #EXTINF:-1, COLORS INFINITY HD
-http://103.175.73.12:8080/live/29/29_0.m3u8
+#http://103.175.73.12:8080/live/29/29_0.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
@@ -420,7 +423,9 @@ http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
 http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+
 
 #EXTINF:-1,POGO
 
@@ -604,7 +609,9 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvcHR2LXNwb3J0cw%3D%3D&
 http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
 #http://103.180.212.191:3500/live/1369.m3u8
 #http://103.180.212.191:3500/live/756.m3u8
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
+#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
@@ -818,14 +825,14 @@ http://103.175.73.12:8080/live/437/437_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://103.180.212.191:3500/live/1657.m3u8
-
+#http://103.180.212.191:3500/live/1657.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
 
 #EXTINF:-1, COLORS CINEPLEX SD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8
 
 
 
