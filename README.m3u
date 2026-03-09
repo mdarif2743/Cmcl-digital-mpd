@@ -736,7 +736,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0326/master.m3u8
 
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+http://103.175.73.12:8080/live/157/157_0.m3u8
 
 
 
