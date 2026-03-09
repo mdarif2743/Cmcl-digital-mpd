@@ -788,10 +788,10 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 SD
+http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0434/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 
@@ -801,8 +801,9 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
-#http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
+#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8
+
 
 #EXTINF:-1, STAR GOLD SD
 http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
