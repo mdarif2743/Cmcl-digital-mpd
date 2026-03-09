@@ -423,7 +423,11 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
 http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
+http://iptvcasomsapi.jprdigital.in/x-media/C0406/master.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
 http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
