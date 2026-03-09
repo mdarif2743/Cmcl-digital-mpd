@@ -308,7 +308,9 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1, চ্যানেল সিক্সটিন
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
@@ -318,7 +320,8 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/cbn-tv.png",CBN TV USA
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/CB24.png?raw=true",CB24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1,বিশ্ব বাংলা ২৪
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
@@ -346,7 +349,7 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0524/master.m3u8
 
 #EXTINF:-1,R PLUS GOLD
 
