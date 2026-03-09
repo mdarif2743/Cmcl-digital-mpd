@@ -3,8 +3,8 @@
 #EXTINF:-1, STAR 4K
 
 #EXTINF:-1, LA LIGA LIVE
-
-
+#EXTINF:-1, FGN INDIA DAWATEISLAMI
+http://iptvcasomsapi.jprdigital.in/x-media/C0160/master.m3u8
 #EXTINF:-1,SKY LIFE BD AL QURAN
 http://103.175.73.12:8080/live/636/636_0.m3u8
 #EXTINF:-1,AZAN TV
@@ -395,7 +395,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1, ZEE CAFE HD
 #http://202.70.146.135:8000/play/a04n/index.m3u8
-http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0539/master.m3u8
 
 #EXTINF:-1,&EXPLOR HD
 
@@ -424,7 +424,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
-http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
@@ -445,11 +445,13 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8
 #EXTINF:-1, CARTOON NETWORK hd
 
 #EXTINF:-1,ETV BAL BHARAT
-http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 
 
 #EXTINF:-1,DURONTO TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
 http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
 
@@ -460,19 +462,23 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
 
 
 #EXTINF:-1,TLC HD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0067/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://103.180.212.191:3500/live/3428.m3u8
+
+
 #EXTINF:-1,NET GEO WILD
 http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
 
 #EXTINF:-1,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+
 #EXTINF:-1,CGTN
-http://217.20.112.199:8888/cgtn/index.m3u8
+
 
 
 
@@ -534,7 +540,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
@@ -710,17 +716,19 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
 #EXTINF:-1,E24 MUSIC
+http://iptvcasomsapi.jprdigital.in/x-media/C0063/master.m3u8
+
 
 #EXTINF:-1,BALLE BALLE HD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0342/master.m3u8
 
 #EXTINF:-1,SAGA MUSIC
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC
 
-
-
+#EXTINF:-1,MIX MUSIC 🎵
+http://iptvcasomsapi.jprdigital.in/x-media/C0326/master.m3u8
 
 
 
@@ -815,7 +823,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
 http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
+http://iptvcasomsapi.jprdigital.in/x-media/C0430/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
@@ -861,15 +869,15 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 ======================================================== Watcho ==========================================================================================================================
 #EXTINF:-1,& XPLORE HD
-http://203.18.159.115/ANDXPLORE/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
 #EXTINF:-1,& FLIX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 #EXTINF:-1, & PRIVE HD
-http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0546/master.m3u8
 
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0542/master.m3u8
 
 
 
@@ -884,12 +892,12 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
 #http://103.175.242.10:8080/zeetv/index.m3u8
-http://103.175.242.10:8080/zeetv/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
-https://restream-bay.vercel.app/?id=109958&e=.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 
@@ -899,10 +907,10 @@ https://restream-bay.vercel.app/?id=109958&e=.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0527/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="watcho",Zee Anmol
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0520/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
@@ -961,10 +969,10 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="watcho",Zing
-http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="watcho",Zoom
-http://203.18.159.115/ZOOM/tracks-v1a1/mono.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0074/master.m3u8
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho",Korean Drama Active
 
@@ -1536,7 +1544,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1,DD SPORTS
 
 #EXTINF:-1, EUROSPORT HD
-http://103.175.73.12:8080/live/283/283_0.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0115/master.m3u8
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10" group-title="Live Event",  (Bangladesh Premier League- FINAL)
 
