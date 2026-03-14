@@ -61,8 +61,7 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYmFuZ2xhdmlzaW9u&e=.m3u8
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
 #http://103.99.249.139/rtv/index.m3u8
 #http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
 
@@ -73,8 +72,8 @@ http://sm-monirul.top/RoarZone/play.php?id=YmsvMg==&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
-http://203.18.159.115/MAASRANGAHD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvbWFzaHJhZ2E%3D&name=Maasranga&format=.m3u8
+
 
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
@@ -85,9 +84,9 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
 #http://103.175.242.10:8080/ntv/index.m3u8
-#http://stvlive.net:8080/ntv/index.m3u8
-#http://tvn1.chowdhury-shaheb.com/ntv/index.m3u8
-http://103.161.153.165:8000/play/a02l/index.m3u8
+http://stvlive.net:8080/ntv/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
