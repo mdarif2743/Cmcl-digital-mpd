@@ -362,9 +362,9 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-#http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
-http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
+
 
 
 #EXTINF:-1,ABP ANONDO
@@ -410,7 +410,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1, ZEE CAFE HD
 #http://202.70.146.135:8000/play/a04n/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0539/master.m3u8
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWNhZmU=&e=.m3u8
 
 #EXTINF:-1,&EXPLOR HD
 
@@ -421,11 +421,14 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0539/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
-http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3Jz&e=.m3u8
+
+
 
 #EXTINF:-1, COLORS INFINITY HD
-#http://103.175.73.12:8080/live/29/29_0.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+http://103.175.73.12:8080/live/29/29_0.m3u8
+
 
 
 
@@ -435,7 +438,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
 #http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
-http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
@@ -444,8 +447,10 @@ http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 http://iptvcasomsapi.jprdigital.in/x-media/C0406/master.m3u8
+
+
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
 http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 
@@ -481,9 +486,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0067/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
-#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-#http://103.180.212.191:3500/live/3428.m3u8
-http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1,NET GEO WILD
 http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
