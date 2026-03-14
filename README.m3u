@@ -455,12 +455,14 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 
 #EXTINF:-1,POGO
+https://sm-monirul.top/Toffee/live.php?id=38060f0d4077&e=.m3u8
+
 
 #EXTINF:-1,SONIC বাংলা
-#http://103.175.73.12:8080/live/124/124_0.m3u8
-#http://103.180.212.191:3500/live/1345.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8
-http://203.18.159.115/SONIC/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/SONIC/tracks-v1a1/mono.m3u8
+http://103.180.212.191:3500/live/1345.m3u8
+
 
 #EXTINF:-1, CARTOON NETWORK hd
 
@@ -482,7 +484,7 @@ http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,TLC HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0067/master.m3u8
+https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
@@ -764,24 +766,22 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
-http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-#http://stvlive.net:8080/starselect1/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0444/master.m3u8
-http://203.18.159.115/STARSPORTSSELECT2HD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starselect1/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 SD 
@@ -789,8 +789,8 @@ http://203.18.159.115/STARSPORTSSELECT2HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#http://stvlive.net:8080/starselect2/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0445/master.m3u8
+http://stvlive.net:8080/starselect2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
 
@@ -867,10 +867,9 @@ http://103.175.73.12:8080/live/12/12_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-#http://103.180.212.191:3500/live/1657.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8
-http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+http://103.180.212.191:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
@@ -878,7 +877,7 @@ http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, COLORS CINEPLEX SD
-http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8
+
 
 
 
@@ -912,27 +911,26 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0542/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0542/master.m3u8
+https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
-#http://stvlive.net:8080/zeecinema/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
-
+https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-#http://103.175.242.10:8080/zeetv/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0507/master.m3u8
+http://103.175.242.10:8080/zeetv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
+http://stvlive.net:8080/zeecinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 
