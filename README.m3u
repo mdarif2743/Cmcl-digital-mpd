@@ -355,8 +355,8 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0524/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0524/master.m3u8
+http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,R PLUS GOLD
 
 
@@ -658,7 +658,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0462/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1qYWxzaGE=&e=.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0457/master.m3u8
-http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+#http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starjalsha/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
@@ -812,7 +813,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0391/master.m3u8
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8
+
 
 
 
