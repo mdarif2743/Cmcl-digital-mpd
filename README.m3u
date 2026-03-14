@@ -446,12 +446,12 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-http://iptvcasomsapi.jprdigital.in/x-media/C0406/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0406/master.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+
 
 
 #EXTINF:-1,POGO
@@ -467,8 +467,8 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1, CARTOON NETWORK hd
 
 #EXTINF:-1,ETV BAL BHARAT
-http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/355286.ts
 
 #EXTINF:-1,DURONTO TV
 
@@ -476,8 +476,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
 #http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
-http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 
 
@@ -488,12 +488,14 @@ https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
-http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
-
+#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98872.ts
 
 
 #EXTINF:-1,NET GEO WILD
-http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7344.ts
+
 
 #EXTINF:-1,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
@@ -505,16 +507,14 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 #http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
-http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
 #https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
-http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
-
+#http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1623.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.180.212.191:3500/live/1341.m3u8
