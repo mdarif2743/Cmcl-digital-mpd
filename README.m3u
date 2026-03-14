@@ -618,8 +618,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://103.180.212.191:3500/live/821.m3u8
-
+#http://103.180.212.191:3500/live/821.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 #http://stvlive.net:8080/sonyten1/index.m3u8
