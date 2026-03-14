@@ -533,9 +533,8 @@ http://103.180.212.191:3500/live/551.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-#http://217.20.112.199:8888/sabtvhd/index.m3u8
-#http://103.99.249.139/sonysab/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
@@ -543,8 +542,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://103.175.242.10:8080/sonyaath/index.m3u8
@@ -556,24 +555,24 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1hYXRo&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8
 
 
 
 #EXTINF:-1,SONY MAX 2
-http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/973.ts
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://103.175.242.10:8080/sonymax/index.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
-http://103.99.249.139/sonymax/index.m3u8
-
+#http://103.99.249.139/sonymax/index.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98857.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="STREAMING MEDIA",SONY SAB (UK)
@@ -598,19 +597,21 @@ http://ahostingportal.com:8000/62664054820/5271593547/3018
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="MOVIES",MAX 1
-#http://103.180.212.191:3500/live/3418.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
+http://103.180.212.191:3500/live/3418.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-http://iptvcasomsapi.jprdigital.in/x-media/C0374/master.m3u8
-
+#http://iptvcasomsapi.jprdigital.in/x-media/C0374/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4077.ts
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
+#http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
+
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-#http://103.180.212.191:3500/live/821.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8
+http://103.180.212.191:3500/live/821.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 #http://stvlive.net:8080/sonyten1/index.m3u8
