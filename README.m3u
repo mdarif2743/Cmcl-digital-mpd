@@ -5,7 +5,7 @@ https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
-KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
 
