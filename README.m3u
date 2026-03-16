@@ -110,8 +110,8 @@ http://stvlive.net:8080/deepto/index.m3u8
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
-http://103.161.153.165:8000/play/a02j/index.m3u8
-
+#http://103.161.153.165:8000/play/a02j/index.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=YmsvNjU%3D&name=Ekushy+TV&format=.m3u8
 
 
 
