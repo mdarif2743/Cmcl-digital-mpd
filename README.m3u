@@ -283,8 +283,9 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" tvg-name="Bangla Songs" group-title="All-In-One~ENT🧩",Bangla Songs
@@ -514,6 +515,9 @@ http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
+#https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+http://103.161.153.165:8000/play/cn/index.m3u8
 
 
 #EXTINF:-1,POGO
