@@ -59,8 +59,8 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
-
+#https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+http://103.161.153.165:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png" group-title="BANGLADESH",মাই টিভি
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/398.ts
@@ -372,10 +372,9 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0524/master.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
-
+#http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
@@ -386,8 +385,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
 #EXTINF:-1,SANANDA TV
-https://live.sanandatelevision.in/sananda/index.m3u8
-
+#https://live.sanandatelevision.in/sananda/index.m3u8
+http://103.161.153.165:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
