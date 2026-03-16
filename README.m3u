@@ -325,7 +325,9 @@ https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 #https://sonamul3535.vercel.app/T-sport.m3u8
 #http://103.96.235.18:9090/sports1/index.m3u8
 #http://stvlive.net:8080/tsports1/index.m3u8
-https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
+#https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
+http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
+
 
 #EXTINF:-1, চ্যানেল সিক্সটিন
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
@@ -366,11 +368,14 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0524/master.m3u8
-http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
+#http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
+http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
+
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
+http://sm-monirul.top/AyNa/play.php?id=ff14d64f-0fcb-45af-8313-9ae3ff788052&e=.m3u8
 
 #EXTINF:-1,R PLUS GOLD
 
