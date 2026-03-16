@@ -230,8 +230,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/411.ts
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189845719.png",Star News
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
-https://go.iptvpulse.top/857s.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
+
 
 
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Channels",Global TV
@@ -378,8 +378,8 @@ http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
-http://sm-monirul.top/AyNa/play.php?id=ff14d64f-0fcb-45af-8313-9ae3ff788052&e=.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
+
 
 #EXTINF:-1,R PLUS GOLD
 
