@@ -80,9 +80,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
-#http://stvlive.net:8080/atnbangla/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=YmsvMg==&e=.m3u8
-https://playztv-apps.pages.dev/atn-bangla/index.m3u8
+http://stvlive.net:8080/atnbangla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
