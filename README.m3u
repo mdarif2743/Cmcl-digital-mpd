@@ -281,8 +281,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
-https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true" group-title="All-In-One~ENT🧩",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
@@ -541,7 +541,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/355286.ts
 #http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
-
+#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
+#https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+http://103.161.153.165:8000/play/a04g/index.m3u8
 
 
 
@@ -969,7 +971,7 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 #EXTINF:-1,& FLIX HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
-
+http://103.161.153.165:8000/play/a01z/index.m3u8
 
 #EXTINF:-1, & PRIVE HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0546/master.m3u8
@@ -977,7 +979,9 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0542/master.m3u8
-https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
+#https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
+http://103.161.153.165:8000/play/a05c/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
