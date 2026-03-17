@@ -1037,7 +1037,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/966.ts
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="watcho",Zee Anmol
-#http://iptvcasomsapi.jprdigital.in/x-media/C0520/master.m3u8
+http://103.175.73.12:8080/live/256/256_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
