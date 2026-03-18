@@ -569,7 +569,9 @@ http://103.161.153.165:8000/play/a04g/index.m3u8
 
 
 #EXTINF:-1,TLC HD
-https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
+#https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
+http://103.161.153.165:8000/play/a04l/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
@@ -1019,15 +1021,15 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-http://103.175.242.10:8080/zeetv/index.m3u8
-
+#http://103.175.242.10:8080/zeetv/index.m3u8
+http://103.161.153.165:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
 #http://stvlive.net:8080/zeecinema/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98860.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98860.ts
+http://103.161.153.165:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 
