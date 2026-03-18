@@ -101,8 +101,8 @@ http://103.175.242.10:8080/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
 #http://stvlive.net:8080/channeli/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
-
+#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
+http://103.175.242.10:8080/channeli/index.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
 #http://103.175.242.10:8080/ntv/index.m3u8
@@ -495,8 +495,8 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWNhZmU=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3Jz&e=.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
+http://103.175.242.10:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
@@ -1522,8 +1522,8 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
 
 
 
-
-
+#EXTINF:-1,TNT SPORTS
+http://46.225.94.157/hls/tnt/index.m3u8
 
 
 
@@ -1543,8 +1543,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/675820.ts
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 
-#EXTINF:-1,ESPN 3
-
+#EXTINF:-1,ESPN premium
+http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1,ESPN1
 
 #EXTINF:-1,ESPN 2
