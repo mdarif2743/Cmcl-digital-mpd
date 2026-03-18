@@ -160,11 +160,10 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYXRuLW5ld3M%3D&name=A
 
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
-#http://103.175.242.10:8080/independent/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 #https://sm-monirul.top/Toffee/live.php?id=53c73d1268c3&e=.m3u8
-http://sm-monirul.top/AyNa/play.php?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43&e=.m3u8
-
+#http://sm-monirul.top/AyNa/play.php?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43&e=.m3u8
+http://103.175.242.10:8080/independent/index.m3u8
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
 #http://116.204.149.16/satv/index.m3u8
