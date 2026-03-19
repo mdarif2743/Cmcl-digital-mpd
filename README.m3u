@@ -749,7 +749,9 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyono
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #http://41.205.93.154/STARSPORTS1/index.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/211.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/211.ts
+https://go.iptvpulse.top/3yvg.m3u8
+
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #http://103.180.212.191:3500/live/1984.m3u8
