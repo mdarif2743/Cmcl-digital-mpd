@@ -921,7 +921,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/972.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 SD
-http://iptvcasomsapi.jprdigital.in/x-media/C0390/master.m3u8
+http://116.90.120.151:8000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
 
