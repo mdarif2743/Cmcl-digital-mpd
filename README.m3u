@@ -962,8 +962,7 @@ http://103.175.73.12:8080/live/12/12_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-#http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8
-#http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+http://116.90.120.151:8000/play/a0jh/index.m3u8
 http://103.180.212.191:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
