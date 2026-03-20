@@ -388,8 +388,9 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 #http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
-#http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+#https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
@@ -420,8 +421,8 @@ http://103.161.153.165:8000/play/starjal/index.m3u8
 #http://103.180.212.191:3500/live/1369.m3u8
 #http://103.180.212.191:3500/live/756.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
-https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+#https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
 
 
 
