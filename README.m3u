@@ -76,10 +76,14 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/398.ts
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/426.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/426.ts
 #http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYmFuZ2xhdmlzaW9u&e=.m3u8
 #http://stvlive.net:8080/banglavision/index.m3u8
+http://103.175.242.10:8080/banglavision/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
 #http://103.99.249.139/rtv/index.m3u8
