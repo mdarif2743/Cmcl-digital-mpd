@@ -617,9 +617,7 @@ http://103.180.212.191:3500/live/1341.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-#http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
-#http://103.180.212.191:3500/live/551.m3u8
+http://103.180.212.191:3500/live/551.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 
@@ -628,13 +626,12 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-#http://103.99.249.139/sonysab/index.m3u8
+http://103.99.249.139/sonysab/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-#http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -646,30 +643,25 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1hYXRo&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
-
+#https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
 
 #EXTINF:-1,SONY MAX 2
-#http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+#https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
 
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-#http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
+#https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-#http://103.175.242.10:8080/sonymax/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 #http://103.99.249.139/sonymax/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98857.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
-
+#https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+http://103.175.242.10:8080/sonymax/index.m3u8
 
 
 #EXTM3U
@@ -699,52 +691,40 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-#http://iptvcasomsapi.jprdigital.in/x-media/C0374/master.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4077.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4077.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-#http://103.180.212.191:3500/live/821.m3u8
+http://103.180.212.191:3500/live/821.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 #http://stvlive.net:8080/sonyten1/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8
-#http://203.18.159.115/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
 #http://stvlive.net:8080/sonyten2/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8
-#http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA==&e=.m3u8
-http://iptvcasomsapi.jprdigital.in/x-media/C0366/master.m3u8
-#http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
-#http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8
-#http://203.18.159.115/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 
 
@@ -770,9 +750,7 @@ http://103.161.153.165:8000/play/a04m/index.m3u8
 http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-#http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
-#http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
 http://103.161.153.165:8000/play/stp2h/index.m3u8
 
 
@@ -781,7 +759,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-#http://stvlive.net:8080/starselect1/index.m3u8
+http://stvlive.net:8080/starselect1/index.m3u8
 http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
 
 
@@ -791,7 +769,7 @@ http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-#http://stvlive.net:8080/starselect2/index.m3u8
+http://stvlive.net:8080/starselect2/index.m3u8
 http://103.161.153.165:8000/play/starspsel2/index.m3u8
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
@@ -930,12 +908,12 @@ http://116.90.120.151:8000/play/a0gz/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-http://103.161.153.165:8000/play/a05b/index.m3u8
+#http://103.161.153.165:8000/play/a05b/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://103.161.153.165:8000/play/a00s/index.m3u8
+#http://103.161.153.165:8000/play/a00s/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/194.ts
@@ -948,7 +926,7 @@ http://103.175.242.10:8080/stargold/index.m3u8
 http://103.175.73.12:8080/live/42/42_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://103.161.153.165:8000/play/a00r/index.m3u8
+#http://103.161.153.165:8000/play/a00r/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
@@ -958,8 +936,6 @@ http://103.175.242.10:8080/starmovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
-#http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
@@ -975,7 +951,7 @@ http://116.90.120.151:8000/play/a0jh/index.m3u8
 http://103.180.212.191:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98908.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98908.ts
 http://103.161.153.165:8000/play/a05e/index.m3u8
 
 
@@ -1002,26 +978,22 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 ======================================================== Watcho ==========================================================================================================================
 #EXTINF:-1,& XPLORE HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
 #http://203.18.159.115/ANDXPLORE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,& FLIX HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
-http://103.161.153.165:8000/play/a01z/index.m3u8
+#http://103.161.153.165:8000/play/a01z/index.m3u8
 
 #EXTINF:-1, & PRIVE HD
 #http://iptvcasomsapi.jprdigital.in/x-media/C0546/master.m3u8
 #http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0542/master.m3u8
-#https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
+https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 http://103.161.153.165:8000/play/a05c/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98856.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
@@ -1029,14 +1001,14 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-#http://103.175.242.10:8080/zeetv/index.m3u8
+http://103.175.242.10:8080/zeetv/index.m3u8
 http://103.161.153.165:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
 #http://stvlive.net:8080/zeecinema/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98860.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98860.ts
 http://103.161.153.165:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
@@ -1047,7 +1019,6 @@ http://103.161.153.165:8000/play/a00q/index.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
-#http://iptvcasomsapi.jprdigital.in/x-media/C0527/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/966.ts
 
 
