@@ -384,11 +384,9 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvemVlLWJhbmdsYQ%3D%3D&name=Zee+Bangla&format=.m3u8
-#http://103.175.242.10:8080/zeebangla/index.m3u8
-#http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-#http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
-#https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+http://103.175.242.10:8080/zeebangla/index.m3u8
+http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
+#http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
@@ -403,15 +401,13 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://103.161.153.165:8000/play/a03k/index.m3u8
+#http://103.161.153.165:8000/play/a03k/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1qYWxzaGE=&e=.m3u8
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1qYWxzaGE%3D&name=Star+Jalsha&format=.m3u8
 #http://stvlive.net:8080/starjalsha/index.m3u8
 http://103.161.153.165:8000/play/starjal/index.m3u8
 
@@ -431,7 +427,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 http://103.161.153.165:8000/play/a01e/index.m3u8
 
 #EXTINF:-1,ETV BANGLA CINEMA
@@ -507,7 +503,7 @@ http://103.175.242.10:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
-#http://103.175.242.10:8080/starplus/index.m3u8
+http://103.175.242.10:8080/starplus/index.m3u8
 #http://stvlive.net:8080/starplus/index.m3u8
 #https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 http://103.161.153.165:8000/play/strpl/index.m3u8
