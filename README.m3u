@@ -1563,13 +1563,29 @@ https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
 
 
 
-#EXTINF:-1, ALKAS 1
+#EXTINF:-1,tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Live Event", ALKAS 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
-#EXTINF:-1, ALKAS 2
 
-#EXTINF:-1, ALKAS 3
+#EXTINF:-1,tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Live Event",ALKAS 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
-#EXTINF:-1, ALKAS 4
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Live Event", ALKAS 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Live Event",ALKAS 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Live Event",  ALKAS 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Live Event", ALKAS 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="Live Event", ALKAS 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
 
 
