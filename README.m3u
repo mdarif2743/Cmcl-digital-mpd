@@ -619,7 +619,7 @@ http://116.90.120.151:8000/play/a0hj/index.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-http://103.180.212.191:3500/live/551.m3u8
+#http://103.180.212.191:3500/live/551.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 
@@ -628,12 +628,12 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-http://103.99.249.139/sonysab/index.m3u8
+#http://103.99.249.139/sonysab/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -645,24 +645,23 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29ueS1hYXRo&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8
-#https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
+
 
 #EXTINF:-1,SONY MAX 2
-#https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
 http://116.90.120.151:8000/play/a0h0/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-#https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
+https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 http://116.90.120.151:8000/play/a0hf/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 #http://103.99.249.139/sonymax/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98857.ts
-#https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 http://103.175.242.10:8080/sonymax/index.m3u8
 
 
@@ -693,40 +692,40 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4077.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4077.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://103.180.212.191:3500/live/821.m3u8
+#http://103.180.212.191:3500/live/821.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 #http://stvlive.net:8080/sonyten1/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
 #http://stvlive.net:8080/sonyten2/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA==&e=.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 
 
