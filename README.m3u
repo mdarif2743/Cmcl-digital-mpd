@@ -126,11 +126,13 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
-#http://sm-monirul.top/AyNa/play.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
+https://mflixott.com/tv/plusbox/live/EkusheyTv/index.m3u8
 http://sm-monirul.top/RoarZone/play.php?id=YmsvNjU=&e=.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
 
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
 #http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
@@ -762,6 +764,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 http://202.70.146.135:8000/play/a03c/index.m3u8
 http://stvlive.net:8080/starselect1/index.m3u8
 http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
@@ -773,6 +776,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/238.ts
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 http://202.70.146.135:8000/play/a03e/index.m3u8
 http://stvlive.net:8080/starselect2/index.m3u8
 http://103.161.153.165:8000/play/starspsel2/index.m3u8
@@ -918,6 +922,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+https://mflixott.com/tv/plusbox/live/StarGoldHD/index.m3u8
 #http://103.161.153.165:8000/play/a00s/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
@@ -1020,6 +1025,7 @@ http://103.175.242.10:8080/zeetv/index.m3u8
 http://103.161.153.165:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+https://mflixott.com/tv/plusbox/live/ZeeCinemaHD/index.m3u8
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
 #http://stvlive.net:8080/zeecinema/index.m3u8
