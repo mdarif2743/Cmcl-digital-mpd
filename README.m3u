@@ -81,8 +81,8 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYmFuZ2xhdmlzaW9u&e=.m3u8
 #http://stvlive.net:8080/banglavision/index.m3u8
-http://103.175.242.10:8080/banglavision/index.m3u8
-
+#http://103.175.242.10:8080/banglavision/index.m3u8
+https://mflixott.com/tv/plusbox/live/BanglaVision/index.m3u8
 
 
 
@@ -108,8 +108,8 @@ http://103.175.242.10:8080/atnbangla/index.m3u8
 #http://stvlive.net:8080/channeli/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
-http://103.175.242.10:8080/channeli/index.m3u8
-
+#http://103.175.242.10:8080/channeli/index.m3u8
+https://mflixott.com/tv/plusbox/live/ChannelI/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
@@ -121,8 +121,8 @@ http://103.175.242.10:8080/ntv/index.m3u8
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
 #http://103.175.242.10:8080/deepto/index.m3u8
 #http://stvlive.net:8080/deepto/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
+https://mflixott.com/tv/plusbox/live/DeeptoTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
@@ -153,7 +153,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
-http://103.175.242.10:8080/channel24/index.m3u8
+#http://103.175.242.10:8080/channel24/index.m3u8
+https://mflixott.com/tv/plusbox/live/Channel24/index.m3u8
+
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
@@ -213,8 +215,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-
+#http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
@@ -574,7 +576,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
 #https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-http://103.161.153.165:8000/play/a04g/index.m3u8
+https://mflixott.com/tv/plusbox/live/AnimalPlanet/index.m3u8
 
 
 
