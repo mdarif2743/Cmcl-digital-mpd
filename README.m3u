@@ -142,9 +142,6 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/422.ts
 
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/394.ts
-#https://sm-monirul.top/Toffee/live.php?id=09958247947d&e=.m3u8
-#http://sm-monirul.top/AyNa/play.php?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad&e=.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/394.ts
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
@@ -202,8 +199,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/420.ts
 
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="All-In-One~ENT🧩",Ekhon Tv
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvZWtob24tdHY%3D&name=ekhon&format=.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvZWtob24tdHY%3D&name=ekhon&format=.m3u8
+
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
