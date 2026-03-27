@@ -1280,7 +1280,7 @@ https://s2.ideationtec.live/Pnn/Pnn.m3u8
 https://s5.ideationtec.live/Neo_News/Neo_News.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,GTV NEWS
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
