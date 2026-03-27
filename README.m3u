@@ -345,7 +345,7 @@ https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
-https://sm-monirul.top/Bdix/nagorik.m3u8
+http://103.144.89.251:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=0010d1f7b85f96397c3943ca324c104d66736934-2fd74f5b554513cc272887e65b57ba0f-1774612823-1774602023&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 #http://103.96.235.18:9090/sports1/index.m3u8
