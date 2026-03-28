@@ -508,10 +508,10 @@ https://sm-monirul.top/Bdix/zee_cafe_hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3Jz&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
-#https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-http://103.175.242.10:8080/colorshd/index.m3u8
+#http://103.175.242.10:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
@@ -827,7 +827,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 
 #EXTINF:-1, STAR PLUS SD
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
@@ -942,9 +942,10 @@ http://103.175.242.10:8080/stargold/index.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
 
 #EXTINF:-1,STAR UTSAV MOVIES
-http://116.90.120.151:8000/play/a0ka/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
+http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 #http://103.161.153.165:8000/play/a00r/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 http://stvlive.net:8080/colorshd/index.m3u8
@@ -1013,6 +1014,7 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 #http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
 https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 http://103.161.153.165:8000/play/a05c/index.m3u8
 
@@ -1026,11 +1028,13 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
+http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/161.ts
 http://103.175.242.10:8080/zeetv/index.m3u8
-http://103.161.153.165:8000/play/a01j/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
 https://mflixott.com/tv/plusbox/live/ZeeCinemaHD/index.m3u8
 #http://103.175.242.10:8080/zeecinema/index.m3u8
 #http://119.152.240.15:8000/play/a0bf/index.m3u8
@@ -1230,6 +1234,8 @@ https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Shoq",Ary Zindagi
+http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
+
 
 #EXTINF:-1,SAB ENTERTAINMENT
 https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
