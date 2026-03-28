@@ -24,8 +24,13 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 
 #EXTINF:-1, আইপিএল বাংলা কমেন্ট্রি
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
+
+
 #EXTINF:-1,IPL LIVE
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=b80fd47fb5d2ca1a9b6bea069de248d2&exp=1774711083
+
+
 #EXTINF:-1,AD FREE IPL LIVE
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
