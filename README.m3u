@@ -553,6 +553,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
 #EXTINF:-1,POGO
+http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
 https://sm-monirul.top/Toffee/live.php?id=38060f0d4077&e=.m3u8
 
 
@@ -563,9 +564,9 @@ http://103.180.212.191:3500/live/1345.m3u8
 
 
 #EXTINF:-1, CARTOON NETWORK hd
-
+http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
 #EXTINF:-1,ETV BAL BHARAT
-https://sm-monirul.top/Bdix/bal_bharat.m3u8
+
 
 #EXTINF:-1,DURONTO TV
 
@@ -620,7 +621,7 @@ http://116.90.120.151:8000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 #http://103.180.212.191:3500/live/1341.m3u8
-http://116.90.120.151:8000/play/a0hj/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 
 
 ---------------------------------------------------------------------
@@ -744,10 +745,9 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyono
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #http://41.205.93.154/STARSPORTS1/index.m3u8
-#http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/211.ts
-https://go.iptvpulse.top/3yvg.m3u8
-http://116.90.120.151:8000/play/a0je/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #http://103.180.212.191:3500/live/1984.m3u8
@@ -756,6 +756,7 @@ http://103.161.153.165:8000/play/a04m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ%3D%3D&name=Star+Sports+1&format=.m3u8
@@ -763,8 +764,9 @@ http://103.161.153.165:8000/play/a04m/index.m3u8
 http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
-http://116.90.120.151:8000/play/a0jb/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
@@ -928,8 +930,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 https://mflixott.com/tv/plusbox/live/StarGoldHD/index.m3u8
-#http://103.161.153.165:8000/play/a00s/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/194.ts
@@ -1024,6 +1026,7 @@ http://103.161.153.165:8000/play/a05c/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98856.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
+http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
 https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
@@ -1495,6 +1498,7 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u
 
 
 #EXTINF:-1 tvg-name="Sky Sports Cricket FHD" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS CRICKET
+http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
 
 
@@ -1568,13 +1572,13 @@ https://a1xs.vip/700001
 #EXTINF:-1,ESPN premium
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1,ESPN1
-
+http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1,ESPN 2
-
+http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
 #EXTINF:-1,ESPN 3
 
 #EXTINF:-1,ESPN4
-
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
