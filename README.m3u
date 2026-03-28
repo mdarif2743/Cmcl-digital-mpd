@@ -20,8 +20,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/113069.ts
 #https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
-
-
+#EXTINF:-1,IPL LIVE
+https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=b80fd47fb5d2ca1a9b6bea069de248d2&exp=1774711083
 #EXTINF:-1,AD FREE IPL LIVE
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
