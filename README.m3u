@@ -591,8 +591,7 @@ http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
-#http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
-#http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
