@@ -655,11 +655,12 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyono
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
 #http://103.99.249.139/sonysab/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/6627.ts
+http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -675,8 +676,9 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyono
 
 
 #EXTINF:-1,SONY MAX 2
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
-http://116.90.120.151:8000/play/a0h0/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
@@ -725,34 +727,37 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98846.ts
+http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 #http://103.180.212.191:3500/live/821.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
-#http://stvlive.net:8080/sonyten1/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMi1oZA%3D%3D&name=Sony+Ten+2&format=.m3u8
 #http://stvlive.net:8080/sonyten2/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA%3D%3D&name=Sony+Ten+3&format=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 https://go.iptvpulse.top/rypp.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
