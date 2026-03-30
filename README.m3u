@@ -97,6 +97,7 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png" group-title="BANGLADESH",মাই টিভি
+http://103.161.153.165:8000/play/a02o/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/398.ts
 
 
@@ -126,6 +127,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
 #http://sm-monirul.top/RoarZone/play.php?id=YmsvMg==&e=.m3u8
 #http://stvlive.net:8080/atnbangla/index.m3u8
+http://103.161.153.165:8000/play/atnbd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
@@ -157,7 +159,6 @@ http://103.175.242.10:8080/deepto/index.m3u8
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
 #https://mflixott.com/tv/plusbox/live/EkusheyTv/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=YmsvNjU=&e=.m3u8
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -429,7 +430,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
 #EXTINF:-1,SANANDA TV
-#https://live.sanandatelevision.in/sananda/index.m3u8
+http://103.161.153.165:8000/play/a029/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
