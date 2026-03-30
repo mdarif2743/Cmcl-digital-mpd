@@ -279,7 +279,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/411.ts
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189845719.png",Star News
-#http://103.161.153.165:8000/play/a033/index.m3u8
+http://103.161.153.165:8000/play/a033/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Channels",Global TV
@@ -371,8 +371,7 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
-http://103.144.89.251:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=0010d1f7b85f96397c3943ca324c104d66736934-2fd74f5b554513cc272887e65b57ba0f-1774612823-1774602023&remote=no_check_ip
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 #http://103.96.235.18:9090/sports1/index.m3u8
