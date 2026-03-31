@@ -417,6 +417,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -442,7 +443,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #http://stvlive.net:8080/starjalsha/index.m3u8
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+http://103.161.153.165:8000/play/starjal/index.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1qYWxzaGE%3D&name=Star+Jalsha&format=.m3u8
 http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
@@ -481,7 +482,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1, ZEE 24 GONTHA
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1, AKASH AATH
-http://103.175.73.12:8080/live/660/660_0.m3u8
+
 
 
 
@@ -492,8 +493,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 #EXTINF:-1,BBC WORLD NEWS
-#http://45.148.145.57/IN_BN/index.m3u8
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+http://103.161.153.165:8000/play/a03p/index.m3u8
+
 
 
 
@@ -565,7 +566,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/638050.ts
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-http://116.90.120.151:8000/play/a0jg/index.m3u8
+
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
@@ -598,6 +599,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
 #https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+http://103.161.153.165:8000/play/a04g/index.m3u8
 https://mflixott.com/tv/plusbox/live/AnimalPlanet/index.m3u8
 
 
