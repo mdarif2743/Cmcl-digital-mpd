@@ -4,7 +4,7 @@ http://59.152.99.22:9999/live/channel1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports (AKASH DTH)
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvdHNwb3J0cw%3D%3D&name=T+Sports&format=.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/TSPORTS/index.mpd
 #EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
@@ -81,7 +81,9 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Channels", বিটিভি
 #https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SA/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
-https://mflixott.com/tv/plusbox/live/BTVWorld/index.m3u8
+#https://mflixott.com/tv/plusbox/live/BTVWorld/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/BTV/index.mpd
+
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
 http://103.161.153.165:8000/play/a02a/index.m3u8
@@ -127,7 +129,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
-#http://sm-monirul.top/RoarZone/play.php?id=YmsvMg==&e=.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/ATNBANGLA/index.mpd
 #http://stvlive.net:8080/atnbangla/index.m3u8
 http://103.161.153.165:8000/play/atnbd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
@@ -139,7 +141,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 http://103.175.242.10:8080/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1p&name=Channel+I&format=.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/CHANNELI/index.mpd
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
 #http://103.175.242.10:8080/channeli/index.m3u8
@@ -172,7 +174,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvc29tb3ktdHY=&e=.m3u8
 #https://sm-monirul.top/Toffee/live.php?id=b8cc9e2596b2&e=.m3u8
 #http://sm-monirul.top/AyNa/play.php?id=27ec4394-7640-4dab-abf8-6a48893dfdfe&e=.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/422.ts
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/422.ts
+http://manikholokhangkirchele.noobmaster.xyz/SOMOYTV/index.mpd
+
 
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/394.ts
@@ -184,28 +188,28 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
 #http://103.175.242.10:8080/channel24/index.m3u8
-https://mflixott.com/tv/plusbox/live/Channel24/index.m3u8
-
+#https://mflixott.com/tv/plusbox/live/Channel24/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/CHANNEL24/index.mpd
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvYXNpYW4tdHY%3D&name=Asian+TV&format=.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-
+#https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/ASIAN/index.mpd
 
 
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
 #http://103.175.242.10:8080/atnnews/index.m3u8
 #http://stvlive.net:8080/atnnews/index.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYXRuLW5ld3M%3D&name=ATN+NEWS&format=.m3u8
-https://mflixott.com/tv/plusbox/live/ATNNews/index.m3u8
-
+#https://mflixott.com/tv/plusbox/live/ATNNews/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/ATNNEWS/index.mpd
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 #https://sm-monirul.top/Toffee/live.php?id=53c73d1268c3&e=.m3u8
-http://103.175.242.10:8080/independent/index.m3u8
-
+#http://103.175.242.10:8080/independent/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/INDEPENDENTTV/index.mpd
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
@@ -250,7 +254,10 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvZ2F6aQ%3D%3D&name=Gazi+TV&format=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
 #http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
+#https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/GTV/index.mpd
+
+
 
 #EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvYW5hbmRhLXR2&name=Ananda+TV&format=.m3u8
@@ -264,8 +271,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/390.ts
 
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/421.ts
-
+#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/421.ts
+http://manikholokhangkirchele.noobmaster.xyz/JAMUNATV/index.mpd
 
 
 
@@ -377,6 +384,7 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
 #EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
+http://manikholokhangkirchele.noobmaster.xyz/NAGORIK/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
@@ -422,6 +430,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+http://manikholokhangkirchele.noobmaster.xyz/ZEEBANGLAHD/index.mpd
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
 #http://103.175.242.10:8080/zeebangla/index.m3u8
@@ -429,6 +438,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
 
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+http://manikholokhangkirchele.noobmaster.xyz/ZEEBANGLACINEMA/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
@@ -447,13 +457,14 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
+http://manikholokhangkirchele.noobmaster.xyz/STARJALSHAHD/index.mpd
 #http://stvlive.net:8080/starjalsha/index.m3u8
 http://103.161.153.165:8000/play/starjal/index.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1qYWxzaGE%3D&name=Star+Jalsha&format=.m3u8
 http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
+http://manikholokhangkirchele.noobmaster.xyz/COLORSBANGLAHD/index.mpd
 #http://103.180.212.191:3500/live/1369.m3u8
 #http://103.180.212.191:3500/live/756.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
@@ -468,6 +479,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
+http://manikholokhangkirchele.noobmaster.xyz/JALSHAMOVIESHD/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 http://103.161.153.165:8000/play/a01e/index.m3u8
 
@@ -586,6 +598,7 @@ https://sm-monirul.top/Toffee/live.php?id=38060f0d4077&e=.m3u8
 
 
 #EXTINF:-1,SONIC বাংলা
+http://manikholokhangkirchele.noobmaster.xyz/SONIC/index.mpd
 http://103.180.212.191:3500/live/1345.m3u8
 
 
@@ -615,12 +628,13 @@ http://103.161.153.165:8000/play/a04l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+http://manikholokhangkirchele.noobmaster.xyz/DISCOVERYHD/index.mpd
 #http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98872.ts
 
 
 #EXTINF:-1,NET GEO WILD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/NATGEOWILDHD/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7344.ts
 
 
@@ -646,6 +660,7 @@ http://103.161.153.165:8000/play/a05d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
+http://manikholokhangkirchele.noobmaster.xyz/NICK/index.mpd
 #http://103.180.212.191:3500/live/1341.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 
@@ -654,6 +669,7 @@ http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
+http://manikholokhangkirchele.noobmaster.xyz/SONYENTHD/index.mpd
 https://mflixott.com/tv/plusbox/live/SonyTVHD/index.m3u8
 #http://103.180.212.191:3500/live/551.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
@@ -674,6 +690,7 @@ http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
+http://manikholokhangkirchele.noobmaster.xyz/SONYAAT/index.mpd
 #http://103.175.242.10:8080/sonyaath/index.m3u8
 #http://stvlive.net:8080/sonyaath/index.m3u8
 https://mflixott.com/tv/plusbox/live/SonyAath/index.m3u8
@@ -748,12 +765,14 @@ http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
+http://manikholokhangkirchele.noobmaster.xyz/SONYSPORTS1HD/index.mpd
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
+http://manikholokhangkirchele.noobmaster.xyz/SONYSPORTS2HD/index.mpd
 http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMi1oZA%3D%3D&name=Sony+Ten+2&format=.m3u8
 #http://stvlive.net:8080/sonyten2/index.m3u8
@@ -768,6 +787,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
+http://manikholokhangkirchele.noobmaster.xyz/SONYSPORTS5HD/index.mpd
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 https://go.iptvpulse.top/rypp.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
@@ -806,6 +826,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
+http://manikholokhangkirchele.noobmaster.xyz/STARSELECT1HD/index.mpd
 https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 #http://202.70.146.135:8000/play/a03c/index.m3u8
 #http://stvlive.net:8080/starselect1/index.m3u8
@@ -817,6 +838,7 @@ https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
+http://manikholokhangkirchele.noobmaster.xyz/STARSPORTSSELECT2HD/index.mpd
 https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #http://202.70.146.135:8000/play/a03e/index.m3u8
 #http://stvlive.net:8080/starselect2/index.m3u8
@@ -962,6 +984,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+http://manikholokhangkirchele.noobmaster.xyz/STARGOLDHD/index.mpd
 http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 https://mflixott.com/tv/plusbox/live/StarGoldHD/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
@@ -986,6 +1009,7 @@ http://stvlive.net:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+http://manikholokhangkirchele.noobmaster.xyz/STARMOVIESHD/index.mpd
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98842.ts
 http://103.175.242.10:8080/starmovies/index.m3u8
 
@@ -1003,9 +1027,11 @@ http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 http://116.90.120.151:8000/play/a0ku/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
+http://manikholokhangkirchele.noobmaster.xyz/COLORSBANGLACINEMA/index.mpd
 http://103.180.212.191:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
+http://manikholokhangkirchele.noobmaster.xyz/COLORSCINEPLEXHD/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98908.ts
 
 
@@ -1345,12 +1371,12 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 
 
 #EXTINF:-1,HUM MASALA
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLW1hc2FsYQ%3D%3D&name=Hum+Masala&format=.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/HUMTV/index.mpd
 http://203.18.159.115/HUMTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,HUM SITERY
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLXNpdGFyYXk%3D&name=Hum+Sitarey&format=.m3u8
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVtLXNpdGFyYXk%3D&name=Hum+Sitarey&format=.m3u8
 
 
 ------------------------------------------------------------------
@@ -1765,7 +1791,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1,DD SPORTS
 
 #EXTINF:-1, EUROSPORT HD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0115/master.m3u8
+http://manikholokhangkirchele.noobmaster.xyz/EUROSPORTSHD/index.mpd
 http://103.161.153.165:8000/play/a01b/index.m3u8
 
 
