@@ -6,18 +6,22 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Southamp0404/ENG/master.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://103.161.153.165:8000/play/willowcrichd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports (AKASH DTH)
-http://manikholokhangkirchele.noobmaster.xyz/TSPORTS/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+
 #EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
-#EXTINF:-1,PSL ENGLISH
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 ENGLISH
 https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
-#EXTINF:-1,PSL URDU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 URDU
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+
+
 #EXTINF:-1, (BANG VS PAK) 3 MATCH ODI SERIES MPD LINK
-https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
+
 
 #EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
@@ -27,22 +31,21 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
 #EXTINF:-1,PSL LIVE(1080p) T SPORTS
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/113069.ts
 #https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-https://go.iptvpulse.top/8smt.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 
-#EXTINF:-1, IPL LIVE HUB SPORTS 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 HUB SPORTS 
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/196347.ts
-#EXTINF:-1,IPL 4K LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 4k live
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/333368.ts
-#EXTINF:-1, আইপিএল বাংলা কমেন্ট্রি
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
-#EXTINF:-1,IPL LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026
 https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=b80fd47fb5d2ca1a9b6bea069de248d2&exp=1774711083
 
 
-#EXTINF:-1,AD FREE IPL LIVE HINDI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/703300.ts
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
