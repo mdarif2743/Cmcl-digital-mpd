@@ -1,7 +1,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live sports
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Southamp0404/ENG/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Southamp0404/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c930a9cf7d114c1e30d6c788d7d59b9-1775331000223
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
