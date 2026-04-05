@@ -32,15 +32,15 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
 
 #EXTINF:-1,PSL LIVE(1080p) T SPORTS
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/113069.ts
-#https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-http://103.175.242.10:8080/tsports1/index.m3u8
+https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 HUB SPORTS 
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/196347.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 4k live
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/333368.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 বাংলা কমেন্ট্রি
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
+https://tv.ottking.top/webottking/linkchor/12.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026
@@ -478,7 +478,7 @@ http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://manikholokhangkirchele.noobmaster.xyz/COLORSBANGLAHD/index.mpd
+https://tv.ottking.top/webottking/linkchor/27.m3u8
 #http://103.180.212.191:3500/live/1369.m3u8
 #http://103.180.212.191:3500/live/756.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
@@ -488,12 +488,12 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
+#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-http://manikholokhangkirchele.noobmaster.xyz/JALSHAMOVIESHD/index.mpd
+https://tv.ottking.top/webottking/linkchor/12.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 http://103.161.153.165:8000/play/a01e/index.m3u8
 
