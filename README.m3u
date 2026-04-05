@@ -443,6 +443,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+https://genz.zibobdixserver.top/zeeban/index.m3u8
 https://tv.ottking.top/webottking/linkchor/1.m3u8
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
@@ -596,7 +597,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/638050.ts
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-
+http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/19741.ts
@@ -621,7 +622,7 @@ http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
 
 
 #EXTINF:-1,DURONTO TV
-
+https://tv.ottking.top/webottking/linkchor/30.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
@@ -641,13 +642,11 @@ http://103.161.153.165:8000/play/a04l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
-http://manikholokhangkirchele.noobmaster.xyz/DISCOVERYHD/index.mpd
-#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98872.ts
+#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,NET GEO WILD
-http://manikholokhangkirchele.noobmaster.xyz/NATGEOWILDHD/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7344.ts
 
 
@@ -673,7 +672,7 @@ http://103.161.153.165:8000/play/a05d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://manikholokhangkirchele.noobmaster.xyz/NICK/index.mpd
+https://tv.ottking.top/webottking/linkchor/18.m3u8
 #http://103.180.212.191:3500/live/1341.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 
@@ -682,7 +681,6 @@ http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-http://manikholokhangkirchele.noobmaster.xyz/SONYENTHD/index.mpd
 https://mflixott.com/tv/plusbox/live/SonyTVHD/index.m3u8
 #http://103.180.212.191:3500/live/551.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
@@ -703,7 +701,7 @@ http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-http://manikholokhangkirchele.noobmaster.xyz/SONYAAT/index.mpd
+https://genz.zibobdixserver.top/8/index.m3u8
 #http://103.175.242.10:8080/sonyaath/index.m3u8
 #http://stvlive.net:8080/sonyaath/index.m3u8
 https://mflixott.com/tv/plusbox/live/SonyAath/index.m3u8
