@@ -44,7 +44,6 @@ https://tv.ottking.top/webottking/linkchor/12.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026
-https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=b80fd47fb5d2ca1a9b6bea069de248d2&exp=1774711083
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI
@@ -133,7 +132,6 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
-http://manikholokhangkirchele.noobmaster.xyz/ATNBANGLA/index.mpd
 #http://stvlive.net:8080/atnbangla/index.m3u8
 http://103.161.153.165:8000/play/atnbd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
@@ -145,7 +143,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 http://103.175.242.10:8080/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
-http://manikholokhangkirchele.noobmaster.xyz/CHANNELI/index.mpd
+https://tv.ottking.top/webottking/linkchor/120.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
 #http://103.175.242.10:8080/channeli/index.m3u8
@@ -190,7 +188,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/391.ts
 #http://103.175.242.10:8080/channel24/index.m3u8
 #https://mflixott.com/tv/plusbox/live/Channel24/index.m3u8
-http://manikholokhangkirchele.noobmaster.xyz/CHANNEL24/index.mpd
+https://tv.ottking.top/webottking/linkchor/55.m3u8
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvYXNpYW4tdHY%3D&name=Asian+TV&format=.m3u8
@@ -204,13 +202,13 @@ https://tv.ottking.top/webottking/linkchor/44.m3u8
 #http://stvlive.net:8080/atnnews/index.m3u8
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvYXRuLW5ld3M%3D&name=ATN+NEWS&format=.m3u8
 #https://mflixott.com/tv/plusbox/live/ATNNews/index.m3u8
-http://manikholokhangkirchele.noobmaster.xyz/ATNNEWS/index.mpd
+https://tv.ottking.top/webottking/linkchor/100.m3u8
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 #https://sm-monirul.top/Toffee/live.php?id=53c73d1268c3&e=.m3u8
 #http://103.175.242.10:8080/independent/index.m3u8
-http://manikholokhangkirchele.noobmaster.xyz/INDEPENDENTTV/index.mpd
+https://tv.ottking.top/webottking/linkchor/49.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
@@ -228,6 +226,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3810.ts
 http://103.161.153.165:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="Channels",Ekattor TV
+https://tv.ottking.top/webottking/linkchor/32.m3u8
 http://103.161.153.165:8000/play/a02s/index.m3u8
 #http://103.175.242.10:8080/ekattor/index.m3u8
 #http://stvlive.net:8080/ekattor/index.m3u8
@@ -256,7 +255,7 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvZ2F6aQ%3D%3D&name=Gaz
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
 #http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
-http://manikholokhangkirchele.noobmaster.xyz/GTV/index.mpd
+
 
 
 
