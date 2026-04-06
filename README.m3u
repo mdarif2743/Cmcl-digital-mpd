@@ -1322,6 +1322,7 @@ https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
 https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital HD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6719/index.m3u8
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
 
@@ -1350,6 +1351,7 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6730/index.m3u8
 https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
@@ -1412,6 +1414,7 @@ http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
 
 
@@ -1477,16 +1480,16 @@ https://a1xs.vip/6000005
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="☆SPORT+☆", ZIGGO SPORT 1
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2560/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png" group-title="☆SPORT+☆", ZIGGO SPORT 2
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2561/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="☆SPORT+☆", ZIGGO SPORT 3
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2559/index.m3u8
 
 
 
@@ -1501,18 +1504,18 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 2
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u8
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 3
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 4
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 5
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2535/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
