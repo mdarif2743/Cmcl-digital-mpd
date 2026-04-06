@@ -9,7 +9,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Southamp0404/ENG/master.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-https://Genz2.zibobdixserver.top/102/index.m3u8
+https://tv.ottking.top/webottking/linkchor/14.m3u8
 #EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
@@ -47,8 +47,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI
-https://game.denver69.fun/Series/willow_hin.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/703300.ts
+
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1 MPD LINK
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
 
@@ -443,7 +444,6 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
-https://genz.zibobdixserver.top/zeeban/index.m3u8
 https://tv.ottking.top/webottking/linkchor/1.m3u8
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
@@ -471,7 +471,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-https://Genz2.zibobdixserver.top/302/index.m3u8
+https://tv.ottking.top/webottking/linkchor/2.m3u8
 #http://stvlive.net:8080/starjalsha/index.m3u8
 http://103.161.153.165:8000/play/starjal/index.m3u8
 http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
@@ -777,7 +777,6 @@ http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
-https://Genz2.zibobdixserver.top/119/index.m3u8
 https://tv.ottking.top/webottking/linkchor/145.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
@@ -785,14 +784,12 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
-https://Genz2.zibobdixserver.top/120/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
 #http://stvlive.net:8080/sonyten2/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
-https://Genz2.zibobdixserver.top/121/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA%3D%3D&name=Sony+Ten+3&format=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
@@ -821,7 +818,6 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
-https://Genz2.zibobdixserver.top/110/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 #http://103.99.249.139/starsport1/index.m3u8
 #http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
@@ -830,19 +826,16 @@ http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-https://Genz2.zibobdixserver.top/115/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg%3D%3D&name=Star+Sports+2&format=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-https://Genz2.zibobdixserver.top/101/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-https://Genz2.zibobdixserver.top/124/index.m3u8
 https://tv.ottking.top/webottking/linkchor/33.m3u8
 https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 #http://202.70.146.135:8000/play/a03c/index.m3u8
@@ -855,7 +848,6 @@ https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-https://Genz2.zibobdixserver.top/123/index.m3u8
 https://tv.ottking.top/webottking/linkchor/166.m3u8
 https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #http://202.70.146.135:8000/play/a03e/index.m3u8
