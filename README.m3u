@@ -100,7 +100,7 @@ https://tv.ottking.top/webottking/linkchor/101.m3u8
 
 
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
-http://103.161.153.165:8000/play/a02a/index.m3u8
+#http://103.161.153.165:8000/play/a02a/index.m3u8
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
 
@@ -139,7 +139,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
 #http://stvlive.net:8080/atnbangla/index.m3u8
-http://103.161.153.165:8000/play/atnbd/index.m3u8
+#http://103.161.153.165:8000/play/atnbd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
