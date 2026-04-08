@@ -1,20 +1,27 @@
 #EXTINF:-1,LIVE SPORTS
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live sports
+
+
+
+#EXTINF:-1 tvg-id="1090525146" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg" tvg-language="English" group-title="SONAY EVENTS",ENG | PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
 
-
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live sports
+#EXTINF:-1 tvg-id="1090525146" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONAY EVENTS",HIN | PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
 
-
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live sports
+#EXTINF:-1 tvg-id="1090525204" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" tvg-language="English" group-title="SONAY EVENTS",ENG | Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
 
-
-#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live sports
+#EXTINF:-1 tvg-id="1090525204" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONAY EVENTS",HIN | Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
 
+
+
+
+
+
+ 
 
 
 
