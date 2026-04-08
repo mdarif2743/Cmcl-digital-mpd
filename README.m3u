@@ -454,9 +454,10 @@ http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 https://tv.ottking.top/webottking/linkchor/29.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
@@ -648,10 +649,11 @@ http://103.161.153.165:8000/play/a04l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98872.ts
-#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY hindi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1,NET GEO WILD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7344.ts
 
@@ -1087,6 +1089,7 @@ http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 http://103.161.153.165:8000/play/a05c/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
 https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
@@ -1095,6 +1098,7 @@ https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98856.ts
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
@@ -1103,6 +1107,7 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 http://103.161.153.165:8000/play/a01j/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/161.ts
@@ -1110,6 +1115,7 @@ http://103.175.242.10:8080/zeetv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
 #https://mflixott.com/tv/plusbox/live/ZeeCinemaHD/index.m3u8
 #http://103.175.242.10:8080/zeecinema/index.m3u8
@@ -1123,17 +1129,20 @@ http://103.161.153.165:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/966.ts
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="watcho",Zee Anmol
-http://163.61.227.29:8000/play/a04a/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
 #EXTINF:-1,ZEE ANIMAL CINEMA 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
@@ -1191,18 +1200,21 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 #http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6589/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/970.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="watcho",Zoom
 #http://iptvcasomsapi.jprdigital.in/x-media/C0074/master.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9488.ts
 
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho",Korean Drama Active
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eVnttMcFT7g7AMgSM65EJPgrm5G7o4jVIvTxqQQI6A" group-title="watcho", NDTV India
 https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
