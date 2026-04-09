@@ -4,18 +4,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1090525146" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg" tvg-language="English" group-title="SONAY EVENTS",ENG | PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
-
-#EXTINF:-1 tvg-id="1090525146" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONAY EVENTS",HIN | PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
-
-#EXTINF:-1 tvg-id="1090525204" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" tvg-language="English" group-title="SONAY EVENTS",ENG | Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
-
-#EXTINF:-1 tvg-id="1090525204" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg" tvg-language="Hindi" group-title="SONAY EVENTS",HIN | Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8caf5f53c3e5eb8ae68e569dc9b3e910-1775668200156
-
 
 
 
@@ -26,7 +14,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/HIN/master.
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
-http://103.161.153.165:8000/play/willowcrichd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 
@@ -482,8 +470,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
 #EXTINF:-1,SANANDA TV
-http://103.161.153.165:8000/play/a03a/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+https://live.sanandatelevision.in/sananda/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #http://103.161.153.165:8000/play/a03k/index.m3u8
