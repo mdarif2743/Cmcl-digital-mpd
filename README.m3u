@@ -660,8 +660,7 @@ http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
 http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY hindi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+
 #EXTINF:-1,NET GEO WILD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7344.ts
 
@@ -689,7 +688,6 @@ http://103.161.153.165:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
 http://103.157.248.140:8000/play/a01n/index.m3u8
-https://tv.ottking.top/webottking/linkchor/18.m3u8
 #http://103.180.212.191:3500/live/1341.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 
@@ -1005,17 +1003,15 @@ http://103.157.248.140:8000/play/a00e/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
-#http://103.161.153.165:8000/play/a05b/index.m3u8
+http://103.157.248.140:8000/play/a01c/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 http://103.157.248.140:8000/play/a00d/index.m3u8
-https://tv.ottking.top/webottking/linkchor/41.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 https://mflixott.com/tv/plusbox/live/StarGoldHD/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
-#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1nb2xk&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/194.ts
 http://103.175.242.10:8080/stargold/index.m3u8
 
@@ -1023,7 +1019,7 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1, STAR GOLD SD
-#http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
+
 
 #EXTINF:-1,STAR UTSAV MOVIES
 
@@ -1036,13 +1032,14 @@ http://stvlive.net:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://manikholokhangkirchele.noobmaster.xyz/STARMOVIESHD/index.mpd
+http://103.157.248.140:8000/play/a01t/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98842.ts
 http://103.175.242.10:8080/starmovies/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://103.157.248.140:8000/play/a01s/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
@@ -1053,11 +1050,10 @@ http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://manikholokhangkirchele.noobmaster.xyz/COLORSBANGLACINEMA/index.mpd
+https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA
 http://103.180.212.191:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-http://manikholokhangkirchele.noobmaster.xyz/COLORSCINEPLEXHD/index.mpd
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98908.ts
 
 
