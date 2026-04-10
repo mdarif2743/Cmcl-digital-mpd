@@ -579,7 +579,7 @@ http://202.70.146.135:8000/play/a04n/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6568/index.m3u8
+http://103.157.248.140:8000/play/a007/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3Jz&e=.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
@@ -587,6 +587,7 @@ http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+http://103.157.248.140:8000/play/a005/index.m3u8
 https://buy.ottbangla.com/4k/amd/stream.php?id=STAR-PLUS
 http://103.161.153.165:8000/play/strpl/index.m3u8
 #http://stvlive.net:8080/starplus/index.m3u8
@@ -628,7 +629,6 @@ https://sm-monirul.top/Toffee/live.php?id=38060f0d4077&e=.m3u8
 
 
 #EXTINF:-1,SONIC বাংলা
-http://manikholokhangkirchele.noobmaster.xyz/SONIC/index.mpd
 http://103.180.212.191:3500/live/1345.m3u8
 
 
@@ -638,7 +638,7 @@ http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
 
 
 #EXTINF:-1,DURONTO TV
-https://tv.ottking.top/webottking/linkchor/30.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
@@ -646,15 +646,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
-#https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-http://103.161.153.165:8000/play/a04g/index.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 https://mflixott.com/tv/plusbox/live/AnimalPlanet/index.m3u8
-
 
 
 #EXTINF:-1,TLC HD
 #https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
-http://103.161.153.165:8000/play/a04l/index.m3u8
+http://103.157.248.140:8000/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
