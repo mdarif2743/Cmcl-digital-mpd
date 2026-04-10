@@ -706,7 +706,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-#http://103.99.249.139/sonysab/index.m3u8
+http://103.157.248.140:8000/play/a00c/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6571/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
@@ -783,6 +783,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
+http://103.157.248.140:8000/play/a01r/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
@@ -852,6 +853,7 @@ http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
 
 
@@ -868,6 +870,7 @@ https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
+http://103.157.248.140:8000/play/a00o/index.m3u8
 https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #http://103.161.153.165:8000/play/starspsel2/index.m3u8
 
@@ -1124,9 +1127,7 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6576/index.m3u8
 http://103.157.248.140:8000/play/a01o/index.m3u8
-http://103.161.153.165:8000/play/a01j/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/161.ts
 http://103.175.242.10:8080/zeetv/index.m3u8
