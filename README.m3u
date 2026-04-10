@@ -793,6 +793,7 @@ http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
+https://mflixott.com/tv/plusbox/live/SonyTen1HD/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
@@ -844,6 +845,7 @@ http://103.175.242.10:8080/sonyten5/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
+https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 
 
@@ -866,7 +868,6 @@ https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-http://stvlive.net:8080/starselect2/index.m3u8
 https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #http://103.161.153.165:8000/play/starspsel2/index.m3u8
 
