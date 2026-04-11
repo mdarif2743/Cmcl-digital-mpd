@@ -142,6 +142,7 @@ https://mflixott.com/tv/plusbox/live/BanglaVision/index.m3u8
 
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
+http://180.94.28.28:8097/RTV/index.fmp4.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
 
 
