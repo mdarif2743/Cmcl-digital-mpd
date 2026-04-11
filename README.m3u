@@ -11,8 +11,8 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Bundesli1004/ENG/master.
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket 2
+http://180.94.28.28:8097/WILLOW-TV/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
 
