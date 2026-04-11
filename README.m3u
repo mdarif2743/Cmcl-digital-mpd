@@ -161,6 +161,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 http://103.175.242.10:8080/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
+http://180.94.28.28:8097/CHANNEL-i/index.fmp4.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
 #http://103.175.242.10:8080/channeli/index.m3u8
@@ -200,6 +201,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/394.ts
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
+http://180.94.28.28:8097/CHANNEL-9/index.fmp4.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/434.ts
 
@@ -227,6 +229,7 @@ https://mflixott.com/tv/plusbox/live/ATNNews/index.m3u8
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 #https://sm-monirul.top/Toffee/live.php?id=53c73d1268c3&e=.m3u8
+http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8
 http://103.175.242.10:8080/independent/index.m3u8
 
 
@@ -268,10 +271,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/408.ts
 
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvZ2F6aQ%3D%3D&name=Gazi+TV&format=.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/767.ts
-#http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
 
 
@@ -507,9 +508,9 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
 
 
 
-#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
+#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies (beckup)
 #https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw%3D%3D&name=Star+Jalsha+Movies&format=.m3u8
-
+http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
@@ -681,7 +682,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-#http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
+http://180.94.28.28:8097/NAT-GEO-BANGLA/index.fmp4.m3u8
 #http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 
