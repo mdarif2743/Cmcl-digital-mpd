@@ -30,9 +30,8 @@ https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 URDU
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 
-
-#EXTINF:-1, (BANG VS PAK) 3 MATCH ODI SERIES MPD LINK
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 GEO SUPER
+http://180.94.28.28:8097/GEO-SUPER/index.fmp4.m3u8
 
 #EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
