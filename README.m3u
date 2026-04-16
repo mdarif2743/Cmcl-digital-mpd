@@ -640,8 +640,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
 #EXTINF:-1,POGO
-http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
-https://sm-monirul.top/Toffee/live.php?id=38060f0d4077&e=.m3u8
+http://103.180.212.191:3500/live/559.m3u8
+
 
 
 #EXTINF:-1,SONIC বাংলা
@@ -649,7 +649,7 @@ http://103.180.212.191:3500/live/1345.m3u8
 
 
 #EXTINF:-1, CARTOON NETWORK hd
-http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
+http://103.180.212.191:3500/live/816.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 
 
@@ -704,9 +704,9 @@ http://103.180.212.191:3500/live/562.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://103.157.248.140:8000/play/a01n/index.m3u8
-#http://103.180.212.191:3500/live/1341.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
+http://103.180.212.191:3500/live/1341.m3u8
+
+
 
 
 ---------------------------------------------------------------------
