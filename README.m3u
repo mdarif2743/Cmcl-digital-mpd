@@ -972,7 +972,8 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
 
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV
+http://103.180.212.191:3500/live/248.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/4029.ts
 
 
@@ -1069,6 +1070,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
+http://103.180.212.191:3500/live/279.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
@@ -1127,6 +1129,7 @@ http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
+http://103.180.212.191:3500/live/472.m3u8
 http://103.157.248.140:8000/play/a01e/index.m3u8
 http://103.161.153.165:8000/play/a05c/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
@@ -1136,6 +1139,7 @@ https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
+http://103.180.212.191:3500/live/185.m3u8
 http://103.157.248.140:8000/play/a01d/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98856.ts
 
@@ -1145,6 +1149,7 @@ https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
+http://103.180.212.191:3500/live/167.m3u8
 http://103.157.248.140:8000/play/a01o/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/161.ts
