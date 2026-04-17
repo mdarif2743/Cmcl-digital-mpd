@@ -1825,15 +1825,12 @@ http://185.132.134.159:80/one2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415625.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415626.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415627.ts
 
 #EXTM3U
@@ -1856,8 +1853,15 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652317.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
 
-#EXTINF:10,JOJ Šport
 
+#EXTINF:-1,BEIN SPORTS 1 FRANCE
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2 FRANCE
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3 FRANCE
+http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:0,Sport 1
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
