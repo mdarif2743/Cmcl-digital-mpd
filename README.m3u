@@ -492,15 +492,12 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
-https://buy.ottbangla.com/4k/amd/stream.php?id=ZEE-BANGLA
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#https://buy.ottbangla.com/4k/amd/stream.php?id=ZEE-BANGLA
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/435.ts
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
+
 
 
 #EXTINF:-1,R PLUS GOLD
@@ -520,7 +517,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-#https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
+https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 https://buy.ottbangla.com/4k/amd/stream.php?id=STAR-JALSHA
 #http://stvlive.net:8080/starjalsha/index.m3u8
 http://103.161.153.165:8000/play/starjal/index.m3u8
