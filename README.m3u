@@ -727,6 +727,7 @@ http://103.180.212.191:3500/live/1341.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
+http://103.157.248.140:8000/play/a004/index.m3u8
 https://airtel.rkdyiptv.workers.dev/live/404.m3u8
 https://mflixott.com/tv/plusbox/live/SonyTVHD/index.m3u8
 #http://103.180.212.191:3500/live/551.m3u8
