@@ -1150,96 +1150,21 @@ http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
-http://103.180.212.191:3500/live/472.m3u8
-http://103.157.248.140:8000/play/a01e/index.m3u8
-http://103.161.153.165:8000/play/a05c/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
-https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
-http://103.180.212.191:3500/live/185.m3u8
-http://103.157.248.140:8000/play/a01d/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98856.ts
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="watcho",&Pictures SD
-http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
-https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
-http://103.180.212.191:3500/live/167.m3u8
-http://103.157.248.140:8000/play/a01o/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/161.ts
-http://103.175.242.10:8080/zeetv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-http://103.157.248.140:8000/play/a00q/index.m3u8
-#http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
-#https://mflixott.com/tv/plusbox/live/ZeeCinemaHD/index.m3u8
-#http://103.175.242.10:8080/zeecinema/index.m3u8
-#http://stvlive.net:8080/zeecinema/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98860.ts
-http://103.161.153.165:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="watcho",Zee Cinema SD
 
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="watcho",Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/tracks-v1a1/mono.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/966.ts
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="watcho",Zee Anmol
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="watcho",Zee Anoml Cinema
-http://103.175.73.12:8080/live/271/271_0.m3u8
 
 
 #EXTINF:-1,ZEE ANIMAL CINEMA 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="watcho",Zee news
-https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="watcho",Zee Hindustan
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" group-title="watcho",9XM
-#https://publlicip.tvhunter.top/9xm/tracks-v1a1/mono.m3u8
-http://103.175.73.12:8080/live/155/155_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="watcho",9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="watcho",9X Tashan
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="watcho",9X Jhakkas
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="watcho",MTV Beats
 
 
 
@@ -1248,42 +1173,7 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="watcho",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Ddbh.png" group-title="watcho",DD Bharti
-
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
-
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="watcho",Zing
-#http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6589/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/970.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="watcho",Zoom
-#http://iptvcasomsapi.jprdigital.in/x-media/C0074/master.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9488.ts
-
-
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="watcho",Korean Drama Active
-
-
-
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="watcho",Shorts Tv Active
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eVnttMcFT7g7AMgSM65EJPgrm5G7o4jVIvTxqQQI6A" group-title="watcho", NDTV India
-https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
-
-#EXTINF:-1,AJ TAK NEWS
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
 
 #EXTINF:-1,DD NEWS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
