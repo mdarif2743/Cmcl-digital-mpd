@@ -615,19 +615,16 @@ http://202.70.146.135:8000/play/a04n/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-http://103.157.248.140:8000/play/a007/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
-#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3Jz&e=.m3u8
+https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
 #http://103.175.242.10:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+https://airtel.rkdyiptv.workers.dev/live/397.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
 https://buy.ottbangla.com/4k/amd/stream.php?id=STAR-PLUS
-http://103.161.153.165:8000/play/strpl/index.m3u8
 #http://stvlive.net:8080/starplus/index.m3u8
-#https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 http://103.175.242.10:8080/starplus/index.m3u8
 
 
@@ -734,19 +731,17 @@ http://103.180.212.191:3500/live/1341.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
+https://airtel.rkdyiptv.workers.dev/live/404.m3u8
 https://mflixott.com/tv/plusbox/live/SonyTVHD/index.m3u8
 #http://103.180.212.191:3500/live/551.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB SD
+https://airtel.rkdyiptv.workers.dev/live/424.m3u8
+
+
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-
-
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-http://103.157.248.140:8000/play/a00c/index.m3u8
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6571/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
@@ -782,8 +777,8 @@ http://116.90.120.151:8000/play/a0hf/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
+https://airtel.rkdyiptv.workers.dev/live/397.m3u8
 https://mflixott.com/tv/plusbox/live/SonyMaxHD/index.m3u8
-#http://103.99.249.139/sonymax/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98857.ts
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 http://103.175.242.10:8080/sonymax/index.m3u8
@@ -822,8 +817,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
+https://airtel.rkdyiptv.workers.dev/live/392.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 
@@ -1053,8 +1048,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+https://airtel.rkdyiptv.workers.dev/live/390.m3u8
 http://103.157.248.140:8000/play/a00d/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 https://mflixott.com/tv/plusbox/live/StarGoldHD/index.m3u8
 #http://stvlive.net:8080/stargold/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/194.ts
@@ -1070,8 +1065,7 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
-#http://103.161.153.165:8000/play/a00r/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/420.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 http://stvlive.net:8080/colorshd/index.m3u8
 
