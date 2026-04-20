@@ -1363,9 +1363,9 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735400
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-
-
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6637/index.m3u8
+http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6642/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="News",Zee Bharat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1374,10 +1374,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mp
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="News", Zee Bihar Jharkhand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
@@ -1423,6 +1419,7 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6576/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6589/index.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737321
 
 #EXTINF:-1 tvg-id="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM
