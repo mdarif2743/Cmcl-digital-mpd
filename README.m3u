@@ -517,6 +517,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeebangla/master.m3u8
 #https://buy.ottbangla.com/4k/amd/stream.php?id=ZEE-BANGLA
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -623,7 +624,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 
 #EXTINF:-1, ZEE CAFE HD
-http://202.70.146.135:8000/play/a04n/index.m3u8
+https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeecafehd/master.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWNhZmU=&e=.m3u8
 
 
@@ -1170,7 +1171,7 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 ======================================================== Watcho ==========================================================================================================================
 #EXTINF:-1,& XPLORE HD
-
+https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-9z5543514/master.m3u8
 
 #EXTINF:-1,& FLIX HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
