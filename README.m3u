@@ -1580,7 +1580,7 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvaHVt&name=Hum+TV&format=.m3u8
+https://toffe.cr7x.workers.dev/can/hum_tv/.m3u8
 
 
 
@@ -2060,7 +2060,8 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1,TEN SPORTS
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
 #EXTINF:-1,TEN CRICKET 
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
+https://toffe.cr7x.workers.dev/can/ten_cricket/.m3u8
+
 
 #EXTINF:-1,HUB PREMIUM 4K
 
