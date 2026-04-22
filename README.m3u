@@ -234,6 +234,7 @@ http://103.175.242.10:8080/deepto/index.m3u8
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+https://yupptv.rkdyiptv.workers.dev/live/1518.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
 #https://mflixott.com/tv/plusbox/live/EkusheyTv/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=YmsvNjU=&e=.m3u8
@@ -291,11 +292,12 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3814.ts
 
 
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="Channels",News 24 BD
+https://yupptv.rkdyiptv.workers.dev/live/2372.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3810.ts
 
 
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
-https://tplay.live/out/bangladesh/banglatv.index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/2725.m3u8
 
 
 #EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="Channels",Ekattor TV
@@ -336,6 +338,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/399.ts
 
 
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
+https://yupptv.rkdyiptv.workers.dev/live/1507.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/390.ts
 
 
@@ -356,6 +359,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/397.ts
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
 #http://103.229.254.25:7001/play/a05m/index.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3508.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/411.ts
 
 
@@ -566,6 +570,7 @@ http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://buy.ottbangla.com/4k/amd/stream.php?id=JALSHA-MOVIES
+https://yupptv.rkdyiptv.workers.dev/live/1523.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 http://103.161.153.165:8000/play/a01e/index.m3u8
 
