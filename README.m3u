@@ -1674,22 +1674,22 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6555/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png", TSN Sports 1
-
+http://161.129.178.5/tsn/playlist.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="Sports", TSN Sports 2
-
+http://161.129.178.5/tsn2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="Sports", TSN Sports 3
-
+http://161.129.178.5/tsn3/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="Sports", TSN Sports 4
-
+http://161.129.178.5/tsn4/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="Sports", TSN Sports 5
-
+http://161.129.178.5/tsn5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="☆SPORT+☆", ZIGGO SPORT 1
