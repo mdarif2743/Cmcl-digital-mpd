@@ -1,11 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1,Hotstar GEC India 1
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-cookie=hdntl=exp=1777033941~acl=%2f*~id=280de22e6decdf6fc0bf1c6aae65aa35~data=hdntl~hmac=fbdbf46b8bee66773b57209d18f4d288d730cc85e88e478a5cc0ea50600fb91d
 https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow SPORTS
