@@ -1097,6 +1097,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_HD&uid=gana-sunega&pass=krish-ka
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737323
 https://airtel.rkdyiptv.workers.dev/live/390.m3u8
 http://103.157.248.140:8000/play/a00d/index.m3u8
@@ -1112,9 +1113,11 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1,STAR UTSAV MOVIES
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737322
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD&uid=gana-sunega&pass=krish-ka
 https://airtel.rkdyiptv.workers.dev/live/420.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 http://stvlive.net:8080/colorshd/index.m3u8
@@ -1369,11 +1372,6 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735400
 
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-#http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6637/index.m3u8
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeebanglacinema/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6642/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="News",Zee Bharat
@@ -1386,10 +1384,9 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeeclassic/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+
+
+
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="News",Zee Business
 http://103.213.31.111/ZeeBusiness/index.m3u8
@@ -1408,10 +1405,7 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735399
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
-#https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735398
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka
 https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeetvhd/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6576/index.m3u8
 
@@ -1419,7 +1413,7 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6576/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zing/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+#https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zing/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6589/index.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737321
 
