@@ -61,8 +61,9 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+http://163.227.239.233:8080/stream.php?id=1
 https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
-https://buy.ottbangla.com/4k/amd/stream.php?id=T-Sports
+
 
 
 
