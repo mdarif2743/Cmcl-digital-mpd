@@ -764,7 +764,7 @@ http://103.180.212.191:3500/live/1341.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=943926
 http://103.157.248.140:8000/play/a004/index.m3u8
 https://airtel.rkdyiptv.workers.dev/live/404.m3u8
@@ -773,7 +773,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SAB_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SAB_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944604
 https://airtel.rkdyiptv.workers.dev/live/424.m3u8
 
@@ -783,7 +783,7 @@ https://airtel.rkdyiptv.workers.dev/live/424.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PAL&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PAL&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373069
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
@@ -809,13 +809,13 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyono
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_YAY&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_YAY&uid=999&pass=999
 https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 http://116.90.120.151:8000/play/a0hf/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_MAX_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_MAX_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373074
 https://airtel.rkdyiptv.workers.dev/live/397.m3u8
 https://mflixott.com/tv/plusbox/live/SonyMaxHD/index.m3u8
@@ -851,12 +851,12 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_WAH&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_WAH&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944607
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PIX_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PIX_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=943971
 https://airtel.rkdyiptv.workers.dev/live/392.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
@@ -864,7 +864,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyono
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373071
 #http://103.180.212.191:3500/live/821.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
@@ -1102,7 +1102,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737323
 https://airtel.rkdyiptv.workers.dev/live/390.m3u8
 http://103.157.248.140:8000/play/a00d/index.m3u8
@@ -1118,11 +1118,11 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1,STAR UTSAV MOVIES
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737322
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD&uid=gana-sunega&pass=krish-ka
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD&uid=999&pass=999
 https://airtel.rkdyiptv.workers.dev/live/420.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 http://stvlive.net:8080/colorshd/index.m3u8
@@ -1195,7 +1195,7 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 
 ======================================================== Watcho ==========================================================================================================================
 #EXTINF:-1,& XPLORE HD
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-9z5543514/master.m3u8
+
 
 #EXTINF:-1,& FLIX HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
