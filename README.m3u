@@ -530,9 +530,11 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-http://datahub11.com:80/live/Jen12345/Jen54321/98881.ts
 
 
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
+#http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6642/index.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 #EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="SM All TV",R Plus Gold
 http://103.175.73.12:8080/live/198/198_0.m3u8
@@ -1380,9 +1382,6 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735400
 
 
 
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-#http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6642/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="News",Zee Bharat
