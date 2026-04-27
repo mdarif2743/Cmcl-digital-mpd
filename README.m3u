@@ -557,6 +557,10 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 
+
+
+#EXTINF:-1, COLORS BANGLA SD
+http://103.49.70.113:5001/live/1369.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=908665
 http://103.180.212.191:3500/live/756.m3u8
