@@ -535,8 +535,8 @@ http://datahub11.com:80/live/Jen12345/Jen54321/98881.ts
 
 
 
-#EXTINF:-1,R PLUS GOLD
-
+#EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="SM All TV",R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SANANDA TV
 https://live.sanandatelevision.in/sananda/index.m3u8
