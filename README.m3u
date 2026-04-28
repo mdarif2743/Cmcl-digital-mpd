@@ -599,6 +599,17 @@ http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442" group-title="2. JAGOBD" ,Amar Bangla Digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play bollywood
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/467684.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play classic cinema
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/52496.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
+
 
 
 #EXTINF:-1,ABP ANONDO
