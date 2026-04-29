@@ -365,7 +365,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 https://sm-monirul.top/Toffee/live.php?id=global_tv&e=.m3u8
 
-
+#EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1, CHANNEL ONE NEWS
 
@@ -472,15 +473,8 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="FreeTV🇮🇳",Khushboo
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 
-#EXTINF:-1tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-https://buy.ottbangla.com/4k/amd/stream.php?id=Nagorik-TV
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-#http://stvlive.net:8080/tsports1/index.m3u8
-#https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
-#http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+
 
 #EXTINF:-1, চ্যানেল সিক্সটিন
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
