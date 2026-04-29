@@ -1004,14 +1004,14 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 
 
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-https://tv.ottking.top/webottking/linkchor/96.m3u8
+https://yupptv.rkdyiptv.workers.dev/live/3327.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-
+https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
 
 
 
