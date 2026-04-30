@@ -207,20 +207,22 @@ https://mflixott.com/tv/plusbox/live/ATNBangla/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/431.ts
 
 #EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1036.ts
 http://103.175.242.10:8080/atnbangla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-http://180.94.28.28:8097/CHANNEL-i/index.fmp4.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/34665.ts
 #http://103.175.242.10:8080/channeli/index.m3u8
-https://mflixott.com/tv/plusbox/live/ChannelI/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #http://stvlive.net:8080/ntv/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/424.ts
 http://103.175.242.10:8080/ntv/index.m3u8
@@ -272,6 +274,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #http://103.175.242.10:8080/atnnews/index.m3u8
 #http://stvlive.net:8080/atnnews/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8
