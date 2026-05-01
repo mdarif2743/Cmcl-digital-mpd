@@ -594,16 +594,16 @@ http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 
 #EXTINF:-1, COLORS BANGLA SD
-http://103.49.70.113:5001/live/1369.m3u8
+http://103.159.180.34:5001/live/1369.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=908665
+http://103.159.180.34:5001/live/756.m3u8
 http://103.180.212.191:3500/live/756.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
 #https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://103.49.70.113:5001/live/1657.m3u8
+http://103.159.180.34:5001/live/1657.m3u8
 https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA
 
 
@@ -709,11 +709,12 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+http://103.159.180.34:5001/live/144.m3u8
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_HD&uid=999&pass=999
 #https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944612
 https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
-#http://103.175.242.10:8080/colorshd/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
@@ -787,9 +788,9 @@ http://103.180.212.191:3500/live/3458.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
-http://103.180.212.191:3500/live/3428.m3u8
-http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
-http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+http://103.159.180.34:5001/live/3428.m3u8
+
+
 
 
 
@@ -1205,16 +1206,17 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
+http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/37074.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
-http://103.180.212.191:3500/live/279.m3u8
+http://103.159.180.34:5001/live/279.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-http://103.180.212.191:3500/live/1477.m3u8
+http://103.159.180.34:5001/live/1477.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98908.ts
 
 
@@ -1225,7 +1227,7 @@ http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
-http://103.49.70.113:5001/live/1450.m3u8
+http://103.159.180.34:5001/live/1450.m3u8
 http://103.180.212.191:3500/live/1450.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6572/index.m3u8
 
