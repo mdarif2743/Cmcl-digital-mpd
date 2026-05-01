@@ -1206,7 +1206,6 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/37074.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
@@ -1307,16 +1306,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
+http://103.159.180.34:5001/live/472.m3u8
 http://stb-air.wasmer.app//play.php?id=40&uid=999&pass=999
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-tvhd_0/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944622
+ 
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD
-
+http://103.159.180.34:5001/live/185.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
@@ -1350,8 +1349,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Movies",Anmol Cinema
-#https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeeanmolcinema/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373000
 
 
 
@@ -1375,9 +1372,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 
 
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Entertainment", Korean Drama Active
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
@@ -1424,17 +1419,14 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Movies",ShortsTV Active
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ACTION_CINEMA&uid=999&pass=999
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeeaction/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735400
+
 
 
 
@@ -1464,6 +1456,7 @@ https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeebusiness/master.m
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+http://103.159.180.34:5001/live/165.m3u8
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD&uid=999&pass=999
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735399
 
@@ -1473,23 +1466,17 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=735399
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
+http://103.159.180.34:5001/live/167.m3u8
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=999&pass=999
 https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeetvhd/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6576/index.m3u8
 
 #EXTINF:-1 tvg-id="585" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-#https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zing/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6589/index.m3u8
+http://103.159.180.34:5001/live/585.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737321
 
 #EXTINF:-1 tvg-id="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
-
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
