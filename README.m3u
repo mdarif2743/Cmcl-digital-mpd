@@ -567,7 +567,7 @@ https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
-#http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6642/index.m3u8
+http://103.159.180.34:5001/live/3476.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
 
 #EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="SM All TV",R Plus Gold
@@ -766,7 +766,7 @@ http://103.159.180.34:5001/live/815.m3u8
 
 
 #EXTINF:-1, CARTOON NETWORK hd
-http://103.180.212.191:3500/live/3436.m3u8
+http://103.159.180.34:5001/live/3436.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 
 
@@ -779,13 +779,14 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98877.ts
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" tvg-name="Animal planet Hindi" group-title="All-In-One~ENT🧩",Animal planet
+http://149.71.34.166:8002/play/a011/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-https://mflixott.com/tv/plusbox/live/AnimalPlanet/index.m3u8
+
 
 
 #EXTINF:-1,TLC HD
-#https://sm-monirul.top/Toffee/live.php?id=090bf33a56cb&e=.m3u8
-http://103.180.212.191:3500/live/3458.m3u8
+http://103.159.180.34:5001/live/3458.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
