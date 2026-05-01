@@ -60,8 +60,8 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/31131/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-http://163.227.239.233:8080/stream.php?id=1
-https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
+http://27.124.71.27/T-Sports/index.m3u8
+
 
 
 
@@ -81,8 +81,8 @@ http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
 http://163.227.239.233:8080/stream.php?id=3
 
 #EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
-http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
+
 
 
 
@@ -106,7 +106,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705160.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 2
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/705136.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE HINDI 1
@@ -416,11 +416,15 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" tvg-name="Hindi movies" group-title="All-In-One~ENT🧩",Hindi movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Movie.jpg?raw=true" tvg-name="Bangla Movies" group-title="All-In-One~ENT🧩",Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" tvg-name="Dubbed movies" group-title="All-In-One~ENT🧩",Dubbed movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" tvg-name="Gopal Bhar" group-title="All-In-One~ENT🧩",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -430,7 +434,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", NTV EUROPE
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
@@ -519,12 +523,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,JA TV
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
-#EXTINF:-1,AKASH TV
-http://103.121.61.218/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+
+
 #EXTINF:-1,PTV BANGLA
 http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
-#EXTINF:-1,ISLAM NOW
-http://157.245.116.246:8080/hls/islamnow/index.m3u8
+
 
 
 #EXTINF:-1,UNMOCHON TV
