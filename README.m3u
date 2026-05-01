@@ -629,9 +629,13 @@ http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play bollywood
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/467684.ts
+http://stb-air.wasmer.app//play.php?id=486&uid=999&pass=999
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play classic cinema
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/52496.ts
+http://stb-air.wasmer.app//play.php?id=741&uid=999&pass=999
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
 
 
