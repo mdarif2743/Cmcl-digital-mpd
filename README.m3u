@@ -386,7 +386,7 @@ https://sm-monirul.top/Toffee/live.php?id=global_tv&e=.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 
 #EXTINF:-1, CHANNEL ONE NEWS
-https://www.livetvpro.site/ch_one.m3u8
+
 
 
 #EXTINF:-1, NEWS 21 TV
@@ -427,9 +427,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true" tvg-name="Gopal Bhar" group-title="All-In-One~ENT🧩",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" tvg-name="Motu Patlu" group-title="All-In-One~ENT🧩",Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
@@ -458,7 +460,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20Songs.jpg?raw=true" tvg-name="Bangla Songs" group-title="All-In-One~ENT🧩",Bangla Songs
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
 
@@ -471,10 +477,8 @@ https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Chana%20Jor.jpg?raw=true" tvg-name="Chana Jor" group-title="All-In-One~ENT🧩",Chana Jor
 https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bongo%20Dramas.jpg?raw=true" tvg-name="Bongo Dramas" group-title="All-In-One~ENT🧩",Bongo Dramas
-https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Drama/sofastplayout/restream/6509864e-6447-4085-9053-c643734bbc1c/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bongo%20Movies.jpg?raw=true" tvg-name="Bongo Movies" group-title="All-In-One~ENT🧩",Bongo Movies
-https://streams2.sofast.tv/ptnr-runntv/title-Bongo_Movies/sofastplayout/restream/a02e1e3c-eeba-4339-88e1-d6f7e99669e2/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" tvg-name="ZB Cartoon" group-title="All-In-One~ENT🧩",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
