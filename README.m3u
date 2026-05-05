@@ -1826,10 +1826,6 @@ https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="DAZN",DAZN FAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8C7BdHMr/Dubai-Sports-2.jpg",Dubai Sports 2
@@ -1992,21 +1988,21 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/23997..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/23998..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/23999..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/24000..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/343019..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/343020..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/343021..ts
+
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-http://datahub11.com:80/live/Jen12345/Jen54321/343023..ts
+
 
 
 
@@ -2046,15 +2042,15 @@ http://185.132.134.159:80/one2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
+
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415625.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
+
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415626.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
+
 
 
 
