@@ -1671,13 +1671,13 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6731/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
-http://185.94.79.41/1779/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2505/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
-http://185.94.79.41/1781/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2506/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
 
@@ -1685,11 +1685,11 @@ http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png" group-title="Sports", TNT Sports 3 
-http://185.94.79.41/1796/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6564/index.m3u8
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQfQS.png" group-title="Sports", TNT Sports 4
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19054/index.m3u8
 
 
 
@@ -2038,11 +2038,9 @@ http://185.132.134.159:80/one2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
 
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415625.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
 
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415626.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
 
@@ -2053,33 +2051,45 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/415626.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6123/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
+
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6124/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652313.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6125/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652314.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6126/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652315.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6127/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652316.ts
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652317.ts
+
+
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652318.ts
 
 
 #EXTINF:-1,BEIN SPORTS 1 FRANCE
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2499/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2499/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2 FRANCE
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2500/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2500/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 3 FRANCE
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2501/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2501/index.m3u8
 
 #EXTINF:0,Sport 1
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
@@ -2116,9 +2126,6 @@ http://103.161.153.165:8000/play/a01b/index.m3u8
 
 
 
-#EXTINF:-1,tvg-logo="" group-title="Live Event",  ( WORLD CUP T SPORTS)
-#https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
-#https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 
 
 #EXTINF:-1,SHATIYA TV SRI...
