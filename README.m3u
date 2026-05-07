@@ -78,11 +78,9 @@ http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="PSL + IPL",PSL 2026 GEO SUPER
-http://163.227.239.233:8080/stream.php?id=3
+
 
 #EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
-
 
 
 
@@ -198,9 +196,7 @@ http://103.175.242.10:8080/banglavision/index.m3u8
 
 
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
-http://luckonline.eu/live/y49sz6KMQs/6115263489/551.ts
-https://yupptv.rkdyiptv.workers.dev/live/1499.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/401.ts
+http://premimum.online/live/jen12345/jen54321/401.ts
 
 
 
@@ -241,11 +237,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
-https://yupptv.rkdyiptv.workers.dev/live/1518.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3813.ts
-#https://mflixott.com/tv/plusbox/live/EkusheyTv/index.m3u8
-#http://sm-monirul.top/RoarZone/play.php?id=YmsvNjU=&e=.m3u8
-#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://premimum.online/live/jen12345/jen54321/3813.ts
 
 
 
@@ -565,7 +557,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
-https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
+http://premimum.online/live/jen12345/jen54321/435.ts
 #http://103.175.242.10:8080/zeebangla/index.m3u8
 #http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 
@@ -592,7 +584,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3753.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-https://yupptv.rkdyiptv.workers.dev/live/2292.m3u8
+http://premimum.online/live/jen12345/jen54321/198.ts
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 #http://stvlive.net:8080/starjalsha/index.m3u8
 http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
@@ -601,17 +593,19 @@ http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 
 #EXTINF:-1, COLORS BANGLA SD
-http://103.159.180.34:5001/live/1369.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://103.159.180.34:5001/live/756.m3u8
-http://103.180.212.191:3500/live/756.m3u8
-#http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvY29sb3JzLWJhbmdsYQ==&e=.m3u8
-#https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98882.ts
+http://premimum.online/live/jen12345/jen54321/183.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://103.159.180.34:5001/live/1657.m3u8
-https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA
+
+
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies (beckup)
@@ -620,9 +614,8 @@ https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-https://yupptv.rkdyiptv.workers.dev/live/1523.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
-http://103.161.153.165:8000/play/a01e/index.m3u8
+http://premimum.online/live/jen12345/jen54321/425.ts
+
 
 #EXTINF:-1,ETV BANGLA CINEMA
 
@@ -716,11 +709,9 @@ http://103.159.180.34:5001/live/1319.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-http://103.159.180.34:5001/live/144.m3u8
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_HD&uid=999&pass=999
 #https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944612
 https://airtel.rkdyiptv.workers.dev/live/415.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98851.ts
 
 
 
