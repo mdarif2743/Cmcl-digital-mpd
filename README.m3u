@@ -830,24 +830,25 @@ http://103.159.180.34:5001/live/545.m3u8
 ---------------------------------------------------------------------
 -------------------------------SONY----------------------------------
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
-http://103.159.180.34:5001/live/1061.m3u8
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=999&pass=999
-http://103.157.248.140:8000/play/a004/index.m3u8
-https://airtel.rkdyiptv.workers.dev/live/404.m3u8
+#EXTINF:-1 tvg-id="107" tvg-chno="205" tvg-name="sony-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/85d3f1fa-393e-49ff-ab83-edcafa600727.jpg" group-title="Entertainment", Sony HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aqnnl5rzR+eRiqhT0nhj3g","k":"8fN/vOQUzT6s2jJRmy0IIQ"},{"kty":"oct","kid":"+S8Au8NoQR+Lj1RDDrJKrA","k":"cBMURu/EzWfeZ5p1cVZ0kA"},{"kty":"oct","kid":"/rDVV9QdSV64Nshcs7+1Lg","k":"9dKEUK79CAVgRNVPfJIDCw"},{"kty":"oct","kid":"7rbZV5mjSRuADTiVUZVxpw","k":"azcFt+GB+6hqMwqyrpHK1g"},{"kty":"oct","kid":"SEzq+K5DTmqm2O8ZULiBCQ","k":"rTqjDhjs7tj2yZKQGLJnIw"},{"kty":"oct","kid":"FWmNynAsRNig8/mqngcclg","k":"l6cGuqjhGq5awBJ3Pqa4kg"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/cwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-
-
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SAB_HD&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944604
-https://airtel.rkdyiptv.workers.dev/live/424.m3u8
-
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-#https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
-
+#EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="All Channels", SAB HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kZVqB0B0RoOVYSGCNw9ncg","k":"8e/4I1TBhTBcZIrmieBbtg"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/dATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PAL&uid=999&pass=999
@@ -869,7 +870,6 @@ http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/6641/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
 
 
-#EXTINF:-1,SONY MAX 2
 
 
 #EXTINF:-1,SONY KAL
@@ -881,14 +881,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyono
 http://116.90.120.151:8000/play/a0hf/index.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_MAX_HD&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373074
-https://airtel.rkdyiptv.workers.dev/live/397.m3u8
-https://mflixott.com/tv/plusbox/live/SonyMaxHD/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98857.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
-http://103.175.242.10:8080/sonymax/index.m3u8
+
 
 
 #EXTM3U
@@ -939,6 +932,25 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyono
 
 
 
+#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7103d43e-d203-4e02-a110-a30f16906633.jpg" group-title="Movies", Sony Max 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xxOuSKPEQnGGfUYImwtIZA","k":"N4mX0C5mQs7RXYPkk4K30Q"},{"kty":"oct","kid":"DAqfmCGqRYWEoLIZPElkhg","k":"4ZJEx/AmyWdndOn9qslt2Q"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/LwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1de4d782-0e8d-4ae5-a9d0-3581aa177e79.jpg" group-title="All Channels", Sony MAX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fdhS+yk9Q4mWkG4C6OJFXQ","k":"w1QRWk4h2iV+59sS9+hDaA"},{"kty":"oct","kid":"Wky12sxdRSq4KiWtLnfX0w","k":"2LVO0SWBfpg3Euzdj7SxnA"},{"kty":"oct","kid":"fFccFp1WTY6ZF7dEzDzYGg","k":"sOI9q8aR6nKKrYQaAhZLpw"},{"kty":"oct","kid":"R11NSWeWTIWluEM17s1aMQ","k":"qarx95C054+OgOrBcrjuwA"},{"kty":"oct","kid":"84fWFZf9RWKpTDc4ZqEeHw","k":"ZYdYZeoPwdqxvT6fvkyIow"},{"kty":"oct","kid":"ifV2yAMFTkul04PgzBYIDw","k":"fW6Ge58Gp5OytbatqKnAtg"},{"kty":"oct","kid":"oa23b781QVCxbWiG7tLsUw","k":"p4iHwZPnvYttSlkmEeIvsA"},{"kty":"oct","kid":"imJM+nZXQtWMylopnqbz4Q","k":"5DbnC8Xc5QBtg5gPDEZEWQ"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/eATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 
@@ -1034,7 +1046,25 @@ https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
+#EXTINF:-1 tvg-id="6" tvg-chno="105" tvg-name="action-sports-hd-1" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/eabe701c-d2e5-4c98-bd0c-6f06e8537103.jpg" group-title="DH Exclusive", Action Sports HD 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pJEqbSjhSDixX6TFf01CrA","k":"CdKn8m2U27nf3C8tK7x88A"},{"kty":"oct","kid":"k9LDH6oFSc26s+4wQ093cA","k":"+uParCVsifvoyxHxvq++fQ"},{"kty":"oct","kid":"bBB2lnbrSvaBbNWas03pUA","k":"kQKZ/xdBX+ks6z2IkkcluA"},{"kty":"oct","kid":"OuOJJ/OdRq69UbEzNMBVmw","k":"MeVC6m2Bf9e4NxwqLSm5Ig"},{"kty":"oct","kid":"oioLpr8YRca/zr83vcq0kQ","k":"fGj18f/f7fUCJaGkvnkeWA"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
 
+#EXTINF:-1 tvg-id="17" tvg-chno="106" tvg-name="action-sports-hd-2" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3db6653d-d30e-465c-8ba5-ac5a5cb84b51.jpg" group-title="All Channels", Action Sports HD 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"twhBBLxJQ9u7ak1xm7G2Wg","k":"Hx7km62sq5xEwXDx+qOfJw"},{"kty":"oct","kid":"8tH9WhQeTOONJhhnDUEazQ","k":"sOHSXV8XwPPEp0SNzk8fGQ"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="231" tvg-chno="605" tvg-name="sony-sports-1-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/09265de4-13e1-4ffe-b0fd-cd8556822c74.jpg" group-title="Sports", Sony Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
