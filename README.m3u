@@ -1,13 +1,7 @@
 
 
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Sports", PTV Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
- 
 #EXTINF:-1,SKY LIFE BD BANGLA MUSIC
 https://shorturl.at/snJuy
 
@@ -942,36 +936,12 @@ https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373071
 #http://103.180.212.191:3500/live/821.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373200
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 
 
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Ten 2 HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373199
-http://103.157.248.140:8000/play/a01q/index.m3u8
-#http://stvlive.net:8080/sonyten2/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/192.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
-
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
-http://stb-air.wasmer.app//play.php?id=464&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373198
-http://103.157.248.140:8000/play/a05z/index.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9404.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Ten 5 HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD&uid=999&pass=999
-http://103.157.248.140:8000/play/a05x/index.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-https://go.iptvpulse.top/rypp.m3u8
-#http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
-https://playyonogames.in/sliv/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
+
 
 
 
@@ -1045,20 +1015,65 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 
 
 
-#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
-http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
+#EXTINF:-1 tvg-id="3175" tvg-chno="610" tvg-name="a-sports" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4442d302-99bd-4ed1-89ab-0194ce4ef719.jpg" group-title="All Channels", A Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cBYRnuLZTYGaA07+9uKySQ","k":"ijlFHw+279X2IRZ7JuqRWQ"},{"kty":"oct","kid":"mQowyP8NSmm3ZTfkwsrXkw","k":"HhFuV2XqJWRqMGWTC8EqbA"},{"kty":"oct","kid":"2XZvE7ZyS8GKKjW7gWjXug","k":"MFSdrNgyvTWE7cwuvQ6WXg"},{"kty":"oct","kid":"J85DSWCHQMW0DXGVNVrM8Q","k":"OKXfUmNR5Olq/GWI0+XqdQ"},{"kty":"oct","kid":"ys2xVK5OTYGmoVlTPzS2WQ","k":"OIp05i+x5mDBu+DmSMI4Gg"},{"kty":"oct","kid":"HTWUVlI6S4W/6WbErwjtTg","k":"3pZ0dyHQd/iWyx1R6YyITg"},{"kty":"oct","kid":"HbF//Bz3Sdaimasgf8XW7w","k":"56FOyvMoR9/BGJvhVtL8uA"},{"kty":"oct","kid":"6FjJLjFPRUafoWZBFvCiVA","k":"ZI3NUSq0xnKD5BvZmrdL6w"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Sports", PTV Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
-https://yupptv.rkdyiptv.workers.dev/live/1991.m3u8
+
+
+#EXTINF:-1 tvg-id="231" tvg-chno="605" tvg-name="sony-sports-1-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/09265de4-13e1-4ffe-b0fd-cd8556822c74.jpg" group-title="Sports", Sony Sports 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"D++7o05ASXySh2MRV+h34Q","k":"p6s3V2Hrnkd3wcrZTwQS2Q"},{"kty":"oct","kid":"lojeDn0fQEeuBFnusUnM4A","k":"WXlBGqlHyhEElV4OBjA8IQ"},{"kty":"oct","kid":"YnR/UuwAStGRfKC/xqyiJw","k":"e2RQaEI9/4kNrPuJ0UeVnw"},{"kty":"oct","kid":"9Wnfx7coT1mZiw3aYDNr2A","k":"FeZ9ZbTMdnBHHm5K7b4bNQ"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/hgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="1338" tvg-chno="606" tvg-name="sony-sports-2-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ec239486-80f0-4a82-ae8e-cb416019f649.jpg" group-title="Sports", Sony Sports 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"S5eJYQWoQ5aNQj0ZrOGhaA","k":"1dwjKBbAaqMW0eXzqWsQQw"},{"kty":"oct","kid":"ZLymYfdTRtW5nVpRbpmt+Q","k":"FB+LEshBSusoZNjfLFGQmA"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
+http://stb-air.wasmer.app//play.php?id=464&uid=999&pass=999
+https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373198
+http://103.157.248.140:8000/play/a05z/index.m3u8
 
 
 
 
-
+#EXTINF:-1 tvg-id="237" tvg-chno="608" tvg-name="sony-sports-5-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/90c7b1fd-2cdc-431b-abc2-ca6775eaa85f.jpg" group-title="All Channels", Sony Sports 5 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eAzjlAaRTLa/BJZVKE0/vQ","k":"+Z3/4HW8FEbcp4bEhJ0uyw"},{"kty":"oct","kid":"amxUKckzRDu+CGI+DXVZxA","k":"muBzQFg73bm3LOyshau11Q"},{"kty":"oct","kid":"7xc2uz5PR0GmYF+s+y7PMg","k":"K5ilW6qQaiTHady3PgMm0w"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/iQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png",NEWS18 BANGLA
