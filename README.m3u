@@ -28,7 +28,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 
 
-#EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/08/cricbuzz-active.png" group-title="Sports",CricLife 2
+#EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/08/cricbuzz-active.png" group-title="Sports", Cricbuzz 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
