@@ -922,12 +922,15 @@ https://airtel.rkdyiptv.workers.dev/live/392.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
-
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD&uid=999&pass=999
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373071
-#http://103.180.212.191:3500/live/821.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
+#EXTINF:-1 tvg-id="1252" tvg-chno="405" tvg-name="bbc-earth" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/90e71128-272c-4a02-b786-6322848bde60.jpg" group-title="All Channels", BBC Earth
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yxvZORhjSA+il3foTRIk/A","k":"e8TFgldphJC4zzKljEac3w"},{"kty":"oct","kid":"CE1L+8y0TvyR4Im6xVsIdQ","k":"znQhMW39V8KL0ppfR00clQ"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/jwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 
