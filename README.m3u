@@ -21,6 +21,8 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9258/index.m3u8
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png", starzplay 1
+https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8
 
 #EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/08/cricbuzz-active.png" group-title="Sports", Cricbuzz 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
