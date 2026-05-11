@@ -640,7 +640,13 @@ http://premimum.online/live/jen12345/jen54321/271038.ts
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies (beckup)
 
 
-
+#EXTINF:-1 tvg-id="tara-bangla-cinema" tvg-name="tara-bangla-cinema" tvg-language="ENG" tvg-chno="327" tvg-logo="https://nitv-saas-media-prod.s3.ap-southeast-1.amazonaws.com/worldtv/images/channels/square/1c99317f-5712-4611-a6a5-671966faf131.png" group-title="Bengali", Tara Bangla Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 16; CRT-NX1 Build/HONORCRT-N31)
+#EXTVLCOPT:http-origin=https://worldtvgo.com
+#EXTVLCOPT:http-referrer=https://worldtvgo.com/
+https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 http://premimum.online/live/jen12345/jen54321/425.ts
