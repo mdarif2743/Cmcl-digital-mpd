@@ -1103,7 +1103,9 @@ https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+http://premimum.online/live/jen12345/jen54321/89.ts
+
 
 #EXTINF:-1 tvg-id="6" tvg-chno="105" tvg-name="action-sports-hd-1" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/eabe701c-d2e5-4c98-bd0c-6f06e8537103.jpg" group-title="DH Exclusive", Action Sports HD 1
 #KODIPROP:inputstream=inputstream.adaptive
