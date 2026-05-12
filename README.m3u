@@ -749,12 +749,12 @@ https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=999&pass=999
-https://airtel.rkdyiptv.workers.dev/live/409.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
-https://buy.ottbangla.com/4k/amd/stream.php?id=STAR-PLUS
-#http://stvlive.net:8080/starplus/index.m3u8
-http://103.175.242.10:8080/starplus/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/409.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg" group-title="Indian",Sun Neo HD
