@@ -1145,8 +1145,8 @@ https://ottlive.dishhome.com.np/protected/hgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-#https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
+https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="1339" tvg-chno="607" tvg-name="sony-sports-3-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/a3ef2413-3c9f-40a7-84a0-38a8dbe17469.jpg" group-title="Sports", Sony Sports 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
