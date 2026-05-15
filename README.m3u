@@ -314,9 +314,7 @@ http://103.175.242.10:8080/independent/index.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
-#http://116.204.149.16/satv/index.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3814.ts
-
+https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=d07563b0-7580-4cbd-a7c9-e67535c0164a
 
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="Channels",News 24 BD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
