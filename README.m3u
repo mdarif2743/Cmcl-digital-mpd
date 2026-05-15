@@ -738,7 +738,7 @@ http://103.159.180.34:5001/live/1319.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
-https://sflex07.fun/SFA/COLORS_HD.m3u8
+https://sflex07.fun/Sflex-Artl/COLORS_HD.m3u8
 #https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944612
 https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
@@ -892,19 +892,17 @@ https://ottlive.dishhome.com.np/protected/cwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 #https://ottlive.dishhome.com.np/protected/dATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-https://sflex07.fun/SFA/SONY_SAB_HD.m3u8
+https://sflex07.fun/Sflex-Artl/SONY_SAB_HD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-https://sflex07.fun/SFA/SONY_PAL.m3u8
+https://sflex07.fun/Sflex-Artl/SONY_PAL.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373069
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-https://sflex07.fun/SFA/SONY_8.m3u8
-#http://103.175.242.10:8080/sonyaath/index.m3u8
-#http://stvlive.net:8080/sonyaath/index.m3u8
+https://sflex07.fun/Sflex-Artl/SONY_8.m3u8
 
 
 
@@ -920,7 +918,7 @@ https://sflex07.fun/SFA/SONY_8.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_YAY&uid=999&pass=999
+https://sflex07.fun/Sflex-Artl/SONY_YAY.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 http://116.90.120.151:8000/play/a0hf/index.m3u8
 
@@ -955,12 +953,12 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-https://sflex07.fun/SFA/SONY_WAH.m3u8
+https://sflex07.fun/Sflex-Artl/SONY_WAH.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944607
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SONY_PIX_HD&uid=999&pass=999
+https://sflex07.fun/Sflex-Artl/SONY_PIX_HD.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=943971
 https://airtel.rkdyiptv.workers.dev/live/392.m3u8
 http://103.157.248.140:8000/play/a01r/index.m3u8
@@ -1005,7 +1003,7 @@ https://ottlive.dishhome.com.np/protected/eATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-https://sflex07.fun/SFA/STAR_SPORTS_1_HD_HINDI.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD_HINDI.m3u8
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2508/index.m3u8
 http://103.157.248.140:8000/play/a00g/index.m3u8
 
@@ -1019,25 +1017,25 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
-https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
-https://sflex07.fun/SFA/STAR_SPORTS_2_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_2_HD.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-https://sflex07.fun/SFA/STAR_SPORTS_3.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_3.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
-https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_SELECT_1_HD.m3u8
 
 
 
@@ -1045,7 +1043,7 @@ https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
 
 
 #EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD 
-https://sflex07.fun/SFA/STAR_SPORTS_SELECT_2_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_SPORTS_SELECT_2_HD.m3u8
 http://i2col4q6.russtv.net/iptv/GFETD2V4GYT5Q449F9XNUYDZ/2507/index.m3u8
 
 
@@ -1270,7 +1268,8 @@ http://103.157.248.140:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 SD
 http://103.157.248.140:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
+https://sflex07.fun/Sflex-Artl/STAR_GOLD_2_HD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 http://103.157.248.140:8000/play/a01c/index.m3u8
@@ -1278,7 +1277,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/210.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-https://sflex07.fun/SFA/STAR_GOLD_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_GOLD_HD.m3u8
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737323
 https://airtel.rkdyiptv.workers.dev/live/390.m3u8
 http://103.157.248.140:8000/play/a00d/index.m3u8
@@ -1294,11 +1293,11 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1,STAR UTSAV MOVIES
-https://sflex07.fun/SFA/STAR_UTSAV_MOVIES.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_UTSAV_MOVIES.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-https://sflex07.fun/SFA/STAR_BHARAT_HD.m3u8
+https://sflex07.fun/Sflex-Artl/STAR_BHARAT_HD.m3u8
 https://airtel.rkdyiptv.workers.dev/live/420.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98855.ts
 http://stvlive.net:8080/colorshd/index.m3u8
@@ -1327,7 +1326,7 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-https://sflex07.fun/SFA/COLORS_CINEPLEX_HD.m3u8
+https://sflex07.fun/Sflex-Artl/COLORS_CINEPLEX_HD.m3u8
 
 
 #EXTINF:-1, Kantipur piracy HD
