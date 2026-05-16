@@ -262,6 +262,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+http://103.59.176.72:8083/ekushey_tv/tracks-v1a1/mono.m3u8?token=123
 http://premimum.online/live/jen12345/jen54321/3813.ts
 
 
@@ -367,6 +368,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
+http://103.59.176.72:8083/boishakhi_tv/tracks-v1a1/mono.m3u8?token=123
 https://in1.sunilprasad.com.np/wodgoLive/boishaki-tv/master.m3u8
 
 
@@ -379,14 +381,15 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/421.ts
 
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
+http://103.59.176.72:8083/mohona_tv/tracks-v1a1/mono.m3u8?token=123
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#http://sm-monirul.top/AyNa/play.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e&e=.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/397.ts
+
 
 
 
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
+http://103.59.176.72:8083/nexus_tv/tracks-v1a1/mono.m3u8?token=123
 https://in1.sunilprasad.com.np/wodgoLive/nexus-tv/master.m3u8
 
 
@@ -403,7 +406,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-#http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
+http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="BANGLADESH", CHANNEL 1 NEWS
