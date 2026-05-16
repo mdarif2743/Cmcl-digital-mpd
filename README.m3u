@@ -1317,8 +1317,7 @@ http://103.157.248.140:8000/play/a01s/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98843.ts
 
 
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-https://djplabon.aminmuaz636.workers.dev/live.php?id=1763
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
@@ -1353,8 +1352,21 @@ http://103.175.73.12:8080/live/15/15_0.m3u8
 http://103.175.73.12:8080/live/18/18_0.m3u8
 
 
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=1763
 
-#EXTM3U 
+
+
+#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://otapp.store/uploads/tv_image/colors-cineplex-superhit.png" group-title="BDIX 1",Colors Cineplex Superhit
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=1450
+
+
+
+
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+
 
 
 
