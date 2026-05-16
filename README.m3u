@@ -398,7 +398,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://sm-monirul.top/Toffee/live.php?id=global_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
+#http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="BANGLADESH", CHANNEL 1 NEWS
