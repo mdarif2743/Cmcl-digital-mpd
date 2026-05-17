@@ -963,8 +963,9 @@ http://103.180.212.191:3500/live/3418.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
-https://sflex07.fun/Sflex-Artl/SONY_WAH.m3u8
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=944607
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
+
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
