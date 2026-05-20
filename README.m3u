@@ -610,19 +610,18 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 https://cdn-4.pishow.tv/live/969/969_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://103.59.176.72:8083/sun_bangla/tracks-v1a1/mono.m3u8?token=123
+#http://103.59.176.72:8083/sun_bangla/tracks-v1a1/mono.m3u8?token=123
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
-http://book4u.top/royr/index.php?id=STAR_JALSHA
+#http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
 http://premimum.online/live/jen12345/jen54321/198.ts
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
-#http://stvlive.net:8080/starjalsha/index.m3u8
-http://tvn2.chowdhury-shaheb.com/starjalsha/index.m3u8
+
+
 
 
 
@@ -655,7 +654,7 @@ http://premimum.online/live/jen12345/jen54321/271038.ts
 https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
+#http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
 http://premimum.online/live/jen12345/jen54321/425.ts
 
 
@@ -663,7 +662,6 @@ http://premimum.online/live/jen12345/jen54321/425.ts
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
-https://mumt05.tangotv.in/DDBANGLA/index.m3u8
 https://cdn-4.pishow.tv/live/37/master.m3u8
 
 
@@ -674,12 +672,12 @@ http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play bollywood
-http://stb-air.wasmer.app//play.php?id=486&uid=999&pass=999
+
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mygtvact/autogenmerge/refs/heads/main/logos/tata-play-in.png" group-title="Relagion Channel", tata play classic cinema
-http://stb-air.wasmer.app//play.php?id=741&uid=999&pass=999
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
 
