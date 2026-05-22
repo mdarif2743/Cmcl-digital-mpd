@@ -1934,18 +1934,22 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Megacable",ESPN
+http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19201/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Megacable",ESPN 2
+http://cdn.tv-rds.workers.dev/ESPN2ARG.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19061/index.m3u8
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="Megacable",ESPN 3
+http://cdn.tv-rds.workers.dev/ESPN3ARG.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19203/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espnplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="Megacable",ESPN Plus
+http://cdn.tv-rds.workers.dev/ESPNPLUSARG.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19057/index.m3u8
 
 
