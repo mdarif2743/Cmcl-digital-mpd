@@ -635,6 +635,8 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+http://book4u.top/royr/index.php?id=colorsbanglasd
 https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
 
 
