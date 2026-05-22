@@ -622,8 +622,6 @@ http://103.159.180.34:5001/live/1669.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
-#http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
-http://premimum.online/live/jen12345/jen54321/198.ts
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
 
@@ -637,13 +635,13 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://premimum.online/live/jen12345/jen54321/183.ts
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://premimum.online/live/jen12345/jen54321/271038.ts
+
 
 
 
@@ -659,8 +657,8 @@ http://premimum.online/live/jen12345/jen54321/271038.ts
 https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
-#http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
-http://premimum.online/live/jen12345/jen54321/425.ts
+
+
 
 
 #EXTINF:-1,ETV BANGLA CINEMA
