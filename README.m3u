@@ -1857,53 +1857,60 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6555/index.m3u8
 http://27.124.71.27/DAZN_LaLiga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png", TSN Sports 1
-http://161.129.178.5/tsn/playlist.m3u8
+http://cdn.tv-rds.workers.dev/TSN1.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="Sports", TSN Sports 2
-http://161.129.178.5/tsn2/playlist.m3u8
+http://cdn.tv-rds.workers.dev/TSN2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="Sports", TSN Sports 3
-http://161.129.178.5/tsn3/playlist.m3u8
+http://cdn.tv-rds.workers.dev/TSN3.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="Sports", TSN Sports 4
-http://161.129.178.5/tsn4/playlist.m3u8
+http://cdn.tv-rds.workers.dev/TSN4.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="Sports", TSN Sports 5
-http://161.129.178.5/tsn5/playlist.m3u8
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="☆SPORT+☆", ZIGGO SPORT 1
+http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2560/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png" group-title="☆SPORT+☆", ZIGGO SPORT 2
+http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2561/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="☆SPORT+☆", ZIGGO SPORT 3
+http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2559/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bbVShcY/ziggosport5.png" group-title="☆SPORT+☆", ZIGGO SPORT 5
-
+http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/P5xs9ZF/ziggosport6.png" group-title="☆SPORT+☆", ZIGGO SPORT 6
-
+http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
 
 
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1
+http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2531/index.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 2
+http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31955/index.m3u8
+
+
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 3
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31956/index.m3u8
 
@@ -2081,15 +2088,15 @@ http://46.225.94.157/hls/espn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png?w=272",Hub Sports 2 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports2hd/
+
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272",Hub Sports 3 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports3hd/
+
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png?w=272",Hub Sports 4 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
+
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272",Hub Sports 5 HD
-https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
+
 
 
 
