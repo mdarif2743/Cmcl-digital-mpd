@@ -1,7 +1,7 @@
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz
+#EXTM3U x-tvg-url="
 
 #EXTINF:-1,SKY LIFE hindi MUSIC
 http://103.175.73.12:8080/live/469/469_0.m3u8
