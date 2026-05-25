@@ -1327,7 +1327,8 @@ http://103.175.242.10:8080/stargold/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-https://restream-bay.vercel.app/chuchhi?id=206310
+http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619FCCB42A4D4EDDFE9740C3083&profile=pass
+
 
 
 
@@ -1353,7 +1354,7 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-
+https://restream-bay.vercel.app/chuchhi?id=206310
 
 
 #EXTINF:-1, Kantipur piracy HD
