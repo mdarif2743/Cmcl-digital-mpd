@@ -910,13 +910,13 @@ http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/6571/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
-https://sflex07.fun/Sflex-Artl/SONY_PAL.m3u8
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=373069
-https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
-https://sflex07.fun/Sflex-Artl/SONY_8.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
+
 
 
 
@@ -973,11 +973,11 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://do
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-https://sflex07.fun/Sflex-Artl/SONY_PIX_HD.m3u8
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=943971
-https://airtel.rkdyiptv.workers.dev/live/392.m3u8
-http://103.157.248.140:8000/play/a01r/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+
+
+
 
 #EXTINF:-1 tvg-id="1252" tvg-chno="405" tvg-name="bbc-earth" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/90e71128-272c-4a02-b786-6322848bde60.jpg" group-title="All Channels", BBC Earth
 #KODIPROP:inputstream=inputstream.adaptive
