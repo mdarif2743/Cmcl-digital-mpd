@@ -3,6 +3,13 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="
 
+
+#EXTINF:-1, HAJJ LIVE 2026
+https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
+
+#EXTINF:-1, HAJJ LIVE 2026
+https://s1.ideationtec.live/Saudi_Quran_HD/Saudi_Quran_HD.m3u8
+
 #EXTINF:-1,SKY LIFE hindi MUSIC
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
