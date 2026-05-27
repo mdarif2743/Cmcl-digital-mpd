@@ -325,7 +325,7 @@ http://103.175.242.10:8080/independent/index.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
-https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 http://116.204.149.16/satv/index.m3u8
 
 
