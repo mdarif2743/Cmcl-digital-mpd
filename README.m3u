@@ -1207,7 +1207,9 @@ http://103.180.212.191:3500/live/1264.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
-http://103.175.73.12:8080/live/18/18_0.m3u8
+http://103.175.73.12:8080/live/17/17_0.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
