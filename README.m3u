@@ -812,20 +812,14 @@ http://airtel-07.wasmer.app//play.php?id=114&uid=999&pass=999
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
-#EXTINF:-1,POGO
-http://103.159.180.34:5001/live/559.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="watcho",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
-#EXTINF:-1,SONIC বাংলা
-http://103.159.180.34:5001/live/815.m3u8
 
-
-#EXTINF:-1, CARTOON NETWORK hd
-http://103.159.180.34:5001/live/3436.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="watcho",CN HD+
