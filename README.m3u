@@ -148,7 +148,7 @@ http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19146/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5eb64393bb15c8bafd44d7f238d613f:ded1389b40e965f46304916b03764d27
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/6f58fcb8e80047acb7419bdbdff88e5f/index.mpd
+#https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/6f58fcb8e80047acb7419bdbdff88e5f/index.mpd
 
 
 
