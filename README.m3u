@@ -59,14 +59,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/KWn2Z0u.png" group-title="Sports",Fancode Live 1
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://iili.io/KWn2Z0u.png" group-title="Sports",Fancode Live 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/KWn2Z0u.png" group-title="Sports",Fancode Live 2
+#EXTINF:-1 tvg-chno=301" tvg-logo="https://iili.io/KWn2Z0u.png" group-title="Sports",Fancode Live 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
