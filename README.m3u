@@ -208,13 +208,15 @@ https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/250px-BTV_News_Logo.png" group-title="BANGLADESH", বিটিভি নিউজ
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXhVPRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 https://in1.sunilprasad.com.np/wodgoLive/btv-world/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
-
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45QHBePRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/10/MyTV_HD_logo_2020.png" group-title="BANGLADESH",মাই টিভি
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45R3hVPRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 https://tvsen6.aynaott.com/mytv/index.m3u8
 
 
@@ -283,6 +285,7 @@ https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45R3hZPRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
@@ -635,6 +638,7 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45RXlePRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 http://book4u.top/royr/index.php?id=colorsbanglasd
 https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
