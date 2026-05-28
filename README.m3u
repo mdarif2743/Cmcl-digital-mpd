@@ -961,8 +961,8 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://pl
 
 
 
-
-
+#EXTINF:-1,SONY MAX SD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.m3u8
 
 
 
@@ -1758,7 +1758,7 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
-https://jxc.cr7x.workers.dev/live/999/999/hum_tv/master.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_tv/index.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/6730/index.m3u8
 
 
@@ -1792,10 +1792,10 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5546.png" tvg-name="HUM WORLD" group-title="URDU | TV",HUM WORLD
-
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_sitaray/index.m3u8
 
 #EXTINF:-1,HUM MASALA
-
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_masala/index.m3u8
 
 
 
@@ -2343,6 +2343,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98.ts
 
 
 #EXTINF:-1,TEN CRICKET 
+https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8
 https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
 
@@ -2354,7 +2355,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 
 #EXTINF:-1, EUROSPORT HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23308.ts
+https://edge2.roarzone.net:8447/roarzone/edge3/euro_sports_hd/index.m3u8
 
 
 
