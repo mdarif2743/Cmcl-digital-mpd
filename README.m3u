@@ -946,7 +946,11 @@ http://103.157.248.140:8000/play/a01n/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/cwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/cwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
+
+
 
 #EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="All Channels", SAB HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1167,7 +1171,12 @@ https://ottlive.dishhome.com.np/protected/7QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/hgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/hgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+
+
+
 
 #EXTINF:-1 tvg-id="1338" tvg-chno="606" tvg-name="sony-sports-2-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ec239486-80f0-4a82-ae8e-cb416019f649.jpg" group-title="Sports", Sony Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1177,7 +1186,10 @@ https://ottlive.dishhome.com.np/protected/hgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+
 
 
 #EXTINF:-1 tvg-id="1339" tvg-chno="607" tvg-name="sony-sports-3-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/a3ef2413-3c9f-40a7-84a0-38a8dbe17469.jpg" group-title="Sports", Sony Sports 3 HD
@@ -1188,7 +1200,10 @@ https://ottlive.dishhome.com.np/protected/hwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/iATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/iATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
+
 
 
 
@@ -1201,7 +1216,11 @@ https://ottlive.dishhome.com.np/protected/iATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/iQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#https://ottlive.dishhome.com.np/protected/iQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009281|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009281
+
+
 
 
 #EXTINF:-1 tvg-id="100" tvg-chno="611" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="Sports", DD Sports 1.0
