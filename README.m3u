@@ -1698,6 +1698,10 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 
 
+
+#EXTINF:-1,ARY Q TV
+https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/92-News-HD.png" group-title="Shoq",92 News HD
 
 
