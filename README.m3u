@@ -874,10 +874,10 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
-
+http://103.204.43.87:8080/live/1/1/278.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
-
+http://103.204.43.87:8080/live/1/1/296.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
@@ -965,6 +965,7 @@ http://103.159.180.34:5001/live/562.m3u8
 
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
+http://103.204.43.87:8080/live/1/1/275.m3u8
 http://103.157.248.140:8000/play/a01n/index.m3u8
 
 
