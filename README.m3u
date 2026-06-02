@@ -666,6 +666,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
+http://103.204.43.87:8080/live/1/1/241.m3u8
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
 
@@ -675,8 +676,10 @@ https://yupptv.rkdyiptv.workers.dev/live/2290.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
+http://103.204.43.87:8080/live/1/1/272.m3u8
 http://103.159.180.34:5001/live/3476.m3u8
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/49615.ts
+
+
 
 #EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="SM All TV",R Plus Gold
 http://103.175.73.12:8080/live/198/198_0.m3u8
@@ -687,13 +690,14 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 http://103.159.180.34:5001/live/698.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-#http://103.59.176.72:8083/sun_bangla/tracks-v1a1/mono.m3u8?token=123
+http://103.204.43.87:8080/live/1/1/244.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
+http://103.204.43.87:8080/live/1/1/261.m3u8
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
 
@@ -707,6 +711,7 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
+http://103.204.43.87:8080/live/1/1/239.m3u8
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 http://book4u.top/royr/index.php?id=colorsbanglasd
@@ -716,6 +721,7 @@ https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
+http://103.204.43.87:8080/live/1/1/276.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
 
 
@@ -732,8 +738,8 @@ https://yupptv.rkdyiptv.workers.dev/live/3492.m3u8
 https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
+http://103.204.43.87:8080/live/1/1/245.m3u8
 https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVeV0uHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
-http://airtel-07.wasmer.app//play.php?id=1122&uid=999&pass=999
 https://yupptv.rkdyiptv.workers.dev/live/1523.m3u8
 
 
@@ -918,6 +924,7 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+http://103.204.43.87:8080/live/1/1/248.m3u8
 https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVdlsuHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="watcho",Discovery ID HD
