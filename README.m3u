@@ -982,7 +982,8 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://pl
 
 
 #EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="All Channels", SAB HD
-http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/6571/index.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
 
@@ -1041,37 +1042,17 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258|referer=https://pl
 
 
 #EXTINF:-1 tvg-id="1252" tvg-chno="405" tvg-name="bbc-earth" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/90e71128-272c-4a02-b786-6322848bde60.jpg" group-title="All Channels", BBC Earth
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yxvZORhjSA+il3foTRIk/A","k":"e8TFgldphJC4zzKljEac3w"},{"kty":"oct","kid":"CE1L+8y0TvyR4Im6xVsIdQ","k":"znQhMW39V8KL0ppfR00clQ"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/jwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 
 
 #EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7103d43e-d203-4e02-a110-a30f16906633.jpg" group-title="Movies", Sony Max 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xxOuSKPEQnGGfUYImwtIZA","k":"N4mX0C5mQs7RXYPkk4K30Q"},{"kty":"oct","kid":"DAqfmCGqRYWEoLIZPElkhg","k":"4ZJEx/AmyWdndOn9qslt2Q"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/LwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 
 #EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1de4d782-0e8d-4ae5-a9d0-3581aa177e79.jpg" group-title="All Channels", Sony MAX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fdhS+yk9Q4mWkG4C6OJFXQ","k":"w1QRWk4h2iV+59sS9+hDaA"},{"kty":"oct","kid":"Wky12sxdRSq4KiWtLnfX0w","k":"2LVO0SWBfpg3Euzdj7SxnA"},{"kty":"oct","kid":"fFccFp1WTY6ZF7dEzDzYGg","k":"sOI9q8aR6nKKrYQaAhZLpw"},{"kty":"oct","kid":"R11NSWeWTIWluEM17s1aMQ","k":"qarx95C054+OgOrBcrjuwA"},{"kty":"oct","kid":"84fWFZf9RWKpTDc4ZqEeHw","k":"ZYdYZeoPwdqxvT6fvkyIow"},{"kty":"oct","kid":"ifV2yAMFTkul04PgzBYIDw","k":"fW6Ge58Gp5OytbatqKnAtg"},{"kty":"oct","kid":"oa23b781QVCxbWiG7tLsUw","k":"p4iHwZPnvYttSlkmEeIvsA"},{"kty":"oct","kid":"imJM+nZXQtWMylopnqbz4Q","k":"5DbnC8Xc5QBtg5gPDEZEWQ"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/eATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 
 
