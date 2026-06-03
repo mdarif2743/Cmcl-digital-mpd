@@ -11,15 +11,23 @@ http://103.175.73.12:8080/live/856/856_0.m3u8
 #EXTINF:-1, HAJJ LIVE 2026
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1,FIFA WORLD 🌎 CUP 2026
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026
 http://103.204.43.87:8080/live/1/1/266.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 
 
-#EXTINF:-1,FIFA WORLD 🌎 CUP 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026
 http://103.204.43.87:8080/live/1/1/264.m3u8
 http://66.102.126.10:8000/play/a022/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (BTV NATIONAL)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/638057.ts
