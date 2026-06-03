@@ -836,7 +836,7 @@ http://103.175.73.12:8080/live/21/21_0.m3u8
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="9bd6f8b3b2923c35cf2afbee66d4cc05eddb41a7cc72b472446a66b426803f08.png" group-title="sports", UNITE8 SPORTS 1 HD
+#EXTINF:-1, tvg-logo="https://i.ibb.co/6P0xX3R/1780520932174.png" group-title="sports", UNITE8 SPORTS 1 HD
 http://103.159.180.34:5001/live/1319.m3u8
 
 
