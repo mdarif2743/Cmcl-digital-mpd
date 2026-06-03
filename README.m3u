@@ -976,28 +976,12 @@ http://103.157.248.140:8000/play/a01n/index.m3u8
 -------------------------------SONY----------------------------------
 
 #EXTINF:-1 tvg-id="107" tvg-chno="205" tvg-name="sony-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/85d3f1fa-393e-49ff-ab83-edcafa600727.jpg" group-title="Entertainment", Sony HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aqnnl5rzR+eRiqhT0nhj3g","k":"8fN/vOQUzT6s2jJRmy0IIQ"},{"kty":"oct","kid":"+S8Au8NoQR+Lj1RDDrJKrA","k":"cBMURu/EzWfeZ5p1cVZ0kA"},{"kty":"oct","kid":"/rDVV9QdSV64Nshcs7+1Lg","k":"9dKEUK79CAVgRNVPfJIDCw"},{"kty":"oct","kid":"7rbZV5mjSRuADTiVUZVxpw","k":"azcFt+GB+6hqMwqyrpHK1g"},{"kty":"oct","kid":"SEzq+K5DTmqm2O8ZULiBCQ","k":"rTqjDhjs7tj2yZKQGLJnIw"},{"kty":"oct","kid":"FWmNynAsRNig8/mqngcclg","k":"l6cGuqjhGq5awBJ3Pqa4kg"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-#https://ottlive.dishhome.com.np/protected/cwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 
 
 #EXTINF:-1 tvg-id="117" tvg-chno="206" tvg-name="sab-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="All Channels", SAB HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kZVqB0B0RoOVYSGCNw9ncg","k":"8e/4I1TBhTBcZIrmieBbtg"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-#https://ottlive.dishhome.com.np/protected/dATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/6571/index.m3u8
 
 
