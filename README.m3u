@@ -1071,6 +1071,9 @@ http://103.159.180.34:5001/live/1319.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgSwPU75bk_YAiFI9IjYyJJ0Yts2Ieyh6igxJEPLhNeNyVIHba", UNITE8 SPORTS 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 
@@ -1466,9 +1469,7 @@ https://djplabon.aminmuaz636.workers.dev/live.php?id=1450
 #EXTINF:-1,& XPLORE HD
 
 
-#EXTINF:-1,& FLIX HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-http://103.161.153.165:8000/play/a01z/index.m3u8
+
 
 #EXTINF:-1, Hi DOST
 http://103.175.73.12:8080/live/713/713_0.m3u8
