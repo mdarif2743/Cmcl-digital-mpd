@@ -38,7 +38,11 @@ http://live.balajibroadband.com:3500/live/162.m3u8
 #EXTINF:-1,SONY LIV
 http://live.balajibroadband.com:3500/live/892.m3u8
 
+#EXTINF:-1, SKY SPORTS 4K
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/581307.ts
 
+#EXTINF:-1, SKY SPORTS MAIN EVENT 4K
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/581305.ts
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (T SPORTS)
 http://103.204.43.87:8080/live/1/1/284.m3u8
