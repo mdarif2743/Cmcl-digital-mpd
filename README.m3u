@@ -13,6 +13,9 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
+#EXTINF:-1, SONY LIV
+http://103.180.212.191:3500/live/162.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (T SPORTS)
 http://103.204.43.87:8080/live/1/1/284.m3u8
 
