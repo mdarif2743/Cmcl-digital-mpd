@@ -1909,13 +1909,13 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5546.png" tvg-name="HUM WORLD" group-title="URDU | TV",HUM WORLD
-https://edge2.roarzone.net:8447/roarzone/edge3/hum_sitaray/index.m3u8
+http://103.158.133.62:8080/hum-tv/index.m3u8
 
 #EXTINF:-1,HUM MASALA
-https://edge2.roarzone.net:8447/roarzone/edge3/hum_masala/index.m3u8
+http://103.158.133.62:8080/hum-masala/index.m3u8
 
-
-
+#EXTINF:-1,HUM SITERY world
+http://103.158.133.62:8080/hum-sitary/index.m3u8
 #EXTINF:-1,HUM SITERY
 https://jxc.cr7x.workers.dev/live/999/999/hum_sitaray/master.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6731/index.m3u8
