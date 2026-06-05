@@ -1,6 +1,6 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"
+#EXTM3U tvg-url=""
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 
@@ -10,8 +10,16 @@ http://103.175.73.12:8080/live/856/856_0.m3u8
 
 #EXTINF:-1, HAJJ LIVE 2026
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="1090529785" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622178796673_RG26_SF_Philippe_Chatrier_court_landscape_thumb_SP_rev.jpg" tvg-language="English" group-title="Tennis",ENG | Philippe Chatrier - 5 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/RG_Day130506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
+#EXTINF:-1 tvg-id="1090529787" tvg-name="Roland-Garros 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622234464673_RG26_SF_Simonne_Mathieu_court_landscape_thumb_SP_rev.jpg" tvg-language="English" group-title="Tennis",ENG | Simonne Mathieu - 05 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/RG_SM_050506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
+#EXTINF:-1 tvg-id="1090533894" tvg-name="Chhattisgarh Cricket Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629496866886_CCPL26_Surguja_Tigers_vs_Raipur_Rhinos_4jun_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Surguja Tigers vs Raipur Rhinos - 5 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Cricket_0506/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
+EXTINF:-1 tvg-id="1090533893" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271746291861_DP_World_Tour_KLM_Open_day2_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | KLM Open - Day 2 - 5 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Golf_DP_0506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
+#EXTINF:-1 tvg-id="1090533873" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019175/1780573350180650_LIV_Golf_Andalucia_Day2_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Andalucia - Day 2 - 5 Jun 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/LIV_Golf0506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
 
 #EXTINF:-1,SONY LIV
 http://live.balajibroadband.com:3500/live/514.m3u8
