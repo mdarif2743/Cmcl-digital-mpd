@@ -22,7 +22,8 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Golf_DP_0506/ENG/master
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/LIV_Golf0506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13da5e50bb7d191ef12c633aaf3e2a51-1780661400127
 
 
-#EXTINF:-1, BAN VS SUNMERINO LIVE
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/CxHgpZXW/images.jpg",BANGLADESH VS SAN MARINO HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/138713.ts
 
 
