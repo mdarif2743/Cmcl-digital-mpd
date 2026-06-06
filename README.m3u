@@ -1493,8 +1493,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
-http://103.159.180.34:5001/live/472.m3u8
-
+#http://103.159.180.34:5001/live/472.m3u8
+http://live.balajibroadband.com:3500/live/472.m3u8
  
 
 
@@ -1502,8 +1502,9 @@ http://103.159.180.34:5001/live/472.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD
+http://live.balajibroadband.com:3500/live/185.m3u8
 http://103.204.43.87:8080/live/1/1/232.m3u8
-http://103.159.180.34:5001/live/185.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
@@ -1613,7 +1614,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ACTION_CINEMA&uid=999&pass=999
+
 
 
 
@@ -1632,18 +1633,18 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD&uid=999&pass=999
+
 
 
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="News",Zee Business
 http://103.213.31.111/ZeeBusiness/index.m3u8
-https://zee5.cr7x.workers.dev/live/gana-sunega/krish-ka/0-9-zeebusiness/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-
+ 
 
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+http://live.balajibroadband.com:3500/live/165.m3u8
 http://103.204.43.87:8080/live/1/1/240.m3u8
 http://103.159.180.34:5001/live/165.m3u8
 
@@ -1655,14 +1656,16 @@ http://103.159.180.34:5001/live/165.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
+http://live.balajibroadband.com:3500/live/167.m3u8
 http://103.204.43.87:8080/live/1/1/234.m3u8
 http://103.159.180.34:5001/live/167.m3u8
 
  
 #EXTINF:-1 tvg-id="585" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
+http://live.balajibroadband.com:3500/live/585.m3u8
 http://103.204.43.87:8080/live/1/1/281.m3u8
 http://103.159.180.34:5001/live/585.m3u8
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=737321
+
 
 #EXTINF:-1 tvg-id="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM
 http://103.204.43.87:8080/live/1/1/271.m3u8
