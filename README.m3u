@@ -762,9 +762,9 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://103.204.43.87:8080/live/1/1/239.m3u8
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
-https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
+#http://103.204.43.87:8080/live/1/1/239.m3u8
+#https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
+#https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
 
@@ -772,7 +772,7 @@ https://yupptv.rkdyiptv.workers.dev/live/1509.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
-http://103.204.43.87:8080/live/1/1/276.m3u8
+#http://103.204.43.87:8080/live/1/1/276.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 
