@@ -1977,49 +1977,44 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="☆SPORT+☆", ZIGGO SPORT 1
-http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2560/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png" group-title="☆SPORT+☆", ZIGGO SPORT 2
-http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2561/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="☆SPORT+☆", ZIGGO SPORT 3
-http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2559/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bbVShcY/ziggosport5.png" group-title="☆SPORT+☆", ZIGGO SPORT 5
-http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/P5xs9ZF/ziggosport6.png" group-title="☆SPORT+☆", ZIGGO SPORT 6
-http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 1
-http://cdn.tv-rds.workers.dev/ZonaDAZN.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2531/index.m3u8
+
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 2
-http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31955/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 3
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/31956/index.m3u8
+
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 4
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2534/index.m3u8
+
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="", DAZN 5
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2535/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
@@ -2042,23 +2037,20 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Megacable",ESPN
-http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19201/index.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Megacable",ESPN 2
-http://cdn.tv-rds.workers.dev/ESPN2ARG.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19061/index.m3u8
+
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="Megacable",ESPN 3
-http://cdn.tv-rds.workers.dev/ESPN3ARG.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19203/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="espnplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="Megacable",ESPN Plus
-http://cdn.tv-rds.workers.dev/ESPNPLUSARG.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19057/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="golf" tvg-logo=" group-title="Megacable",Golf Channel
@@ -2166,12 +2158,12 @@ http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9248/index.m3u8
 
 
 #EXTINF:-1,TNT SPORTS
-http://46.225.94.157/hls/tnt/index.m3u8
+
 
 
 
 #EXTINF:-1,SKY SPORTS BUNDESLIGA
-http://104.194.8.54:9090/281188_.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
@@ -2179,13 +2171,13 @@ http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
 
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowextra.m3u8
+
 
 
 
 
 #EXTINF:-1,ESPN premium
-http://46.225.94.157/hls/espn/index.m3u8
+l
 
 
 
@@ -2337,18 +2329,6 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652317.ts
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652318.ts
-
-#EXTINF:-1,BEIN SPORTS 1 FRANCE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2499/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 2 FRANCE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2500/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 3 FRANCE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2501/index.m3u8
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/2501/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K88c764w/sport-klub-rs-1.png",SPORT KLUB 1
