@@ -16,7 +16,6 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652310.ts
 
 
 #EXTINF:-1,SONY LIV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8871.ts
 http://live.balajibroadband.com:3500/live/524.m3u8
 
 #EXTINF:-1,SONY LIV
@@ -279,7 +278,9 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-id="match-1" tvg-name="EPL channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee",EPL LIVE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 HD
-https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="match-1" tvg-name="EPL channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee",EPL LIVE
 
 
@@ -299,7 +300,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-
 
 
 
-#EXTINF:-1,DAWATEISLAMI FGN HINDI
+
 
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
