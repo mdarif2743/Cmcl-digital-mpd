@@ -330,7 +330,7 @@ https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8S
 https://in1.sunilprasad.com.np/wodgoLive/btv-world/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/sangsad-television-bd.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
 https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45QHBePRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BANGLADESH",মাই টিভি
@@ -410,7 +410,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Channels",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
@@ -435,7 +435,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://mflixott.com/tv/plusbox/live/ATNNews/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Channels",Independent TV
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png" group-title="Channels",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/423.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
@@ -479,7 +479,7 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="All-In-One~ENT🧩",Bijoy TV
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bijoy%20TV.png" group-title="All-In-One~ENT🧩",Bijoy TV
 http://103.158.133.62:8080/bijoytv/index.m3u8
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_480/chunks.m3u8
 
@@ -492,13 +492,13 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="All-In-One~ENT🧩",Anananda Tv
+#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Logo_of_Ananda_TV.svg.png" group-title="All-In-One~ENT🧩",Anananda Tv
 #https://tvsen6.aynaott.com/anandatv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="" group-title="All-In-One~ENT🧩",Boishakhi tv
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uWrO_3qX3hj7I2kpPiVhKpuASKJ_u5PxDTq5VoRAuQ&s" group-title="All-In-One~ENT🧩",Boishakhi tv
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 
