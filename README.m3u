@@ -542,7 +542,7 @@ http://103.204.43.87:8080/live/1/1/282.m3u8
 https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45R3ldcxUuHVdXTkxOBHNAZkZ1UX0RYxk_DnRDdlR5WWtTEhAFAAc.ts
 
 
-#EXTINF:-1, tvg-logo="" group-title="BANGLADESH", CHANNEL 1 NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="",Channel 1 NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, NEWS 21 TV
