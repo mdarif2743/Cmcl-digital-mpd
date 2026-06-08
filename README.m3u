@@ -2048,14 +2048,14 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Megacable",ESPN 2
-
+http://79.127.243.211:14506/
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="Megacable",ESPN 3
-
+http://79.127.243.211:14510/
 
 
 #EXTINF:-1 tvg-id="espnplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="Megacable",ESPN Plus
-
+http://79.127.243.211:14514/
 
 
 #EXTINF:-1 tvg-id="golf" tvg-logo=" group-title="Megacable",Golf Channel
