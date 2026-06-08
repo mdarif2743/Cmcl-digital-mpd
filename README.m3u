@@ -1129,14 +1129,16 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
+http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 https://tvsen7.aynaott.com/sspts1/index.m3u8
-https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
+http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 
