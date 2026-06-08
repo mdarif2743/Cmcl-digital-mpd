@@ -380,7 +380,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/424.ts
 http://103.175.242.10:8080/ntv/index.m3u8
 
-#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Recorded TV",Deepto TV
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="Recorded TV",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
 #http://103.175.242.10:8080/deepto/index.m3u8
 #http://stvlive.net:8080/deepto/index.m3u8
@@ -419,7 +419,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Channels",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 #https://mtlivestream.com/hls/asian/ytlive/index.m3u8
@@ -484,7 +484,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_480/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="All-In-One~ENT🧩",G TV
+#EXTINF:-1 tvg-name="G TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="All-In-One~ENT🧩",G TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 
@@ -497,7 +497,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="All-In-One~ENT🧩",Boishakhi tv
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="All-In-One~ENT🧩",Boishakhi tv
 #https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 https://in1.sunilprasad.com.np/wodgoLive/boishaki-tv/master.m3u8
 
@@ -518,7 +518,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
+#EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Channels",NEXUS TV
 http://103.158.133.62:8080/nexustv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/nexustv/index.m3u8
@@ -549,9 +549,9 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1,NRB TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" group-title="Bangla" tvg-server="Server 1",042. NRB HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1,JAGO NEWS 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="Bangla" tvg-server="Server 1",041. Jago News
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Movie%20Bangla.jpg?raw=true" tvg-name="Movie Bangla" group-title="Bangla🇧🇩",Movie Bang
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -748,7 +748,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 http://103.204.43.87:8080/live/1/1/261.m3u8
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
@@ -886,7 +886,7 @@ https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 http://103.204.43.87:8080/live/1/1/250.m3u8
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
@@ -952,7 +952,7 @@ http://103.204.43.87:8080/live/1/1/279.m3u8
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 
-#EXTINF:-1,DURONTO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1",029. Duronto TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
 
@@ -1090,7 +1090,7 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009258|referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009252|referer=https://b4uplay.com/
 
 
-#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7103d43e-d203-4e02-a110-a30f16906633.jpg" group-title="Movies", Sony Max 2
+#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 https://b4uplay.com/sliv/stream.m3u8?id=1000044878|referer=https://b4uplay.com/
