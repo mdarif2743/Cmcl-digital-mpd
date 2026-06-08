@@ -498,9 +498,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="All-In-One~ENT🧩",Boishakhi tv
-#https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-https://in1.sunilprasad.com.np/wodgoLive/boishaki-tv/master.m3u8
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="" group-title="All-In-One~ENT🧩",Boishakhi tv
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Channels",Jamuna TV
@@ -556,8 +556,13 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Movie%20Bangla.jpg?raw=true" tvg-name="Movie Bangla" group-title="Bangla🇧🇩",Movie Bang
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+
 #EXTINF:-1,NAN TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,PROBASHI TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
@@ -594,26 +599,25 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
 #https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", NTV EUROPE
+#EXTINF:-1 tvg-logo="" group-title=" ", NTV EUROPE
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel",ATN BANGLA UK
+#EXTINF:-1 tvg-logo="" group-title=" ",ATN BANGLA UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", BANGLA ONE USA
+#EXTINF:-1 tvg-logo="" group-title=" ", BANGLA ONE USA
 https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", deshe bideshe tv
+#EXTINF:-1 tvg-logo="" group-title=" ", deshe bideshe tv
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", TORONI 24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" ", TORONI 24
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1, C TV
-https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Songs.jpg?raw=true" tvg-name="Hindi Songs" group-title="All-In-One~ENT🧩",Hindi Songs
 #https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
@@ -631,9 +635,6 @@ https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhboll
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/NH%20BollyRaja.jpg?raw=true" tvg-name="NH BollyRaja" group-title="All-In-One~ENT🧩",NH BollyRaja
 https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Chana%20Jor.jpg?raw=true" tvg-name="Chana Jor" group-title="All-In-One~ENT🧩",Chana Jor
-https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" tvg-name="ZB Cartoon" group-title="All-In-One~ENT🧩",ZB Cartoon
@@ -648,14 +649,18 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" tvg-name="Hindi Hits" group-title="FreeTV🇮🇳",Hindi Hits
-https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/All%20Time%20Movies.jpg?raw=true" tvg-name="ALL TIME MOVIES" group-title="FreeTV🇮🇳",ALL TIME MOVIES
-https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
+
+
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rang%20tv.jpg?raw=true" tvg-name="Rang" group-title="FreeTV🇮🇳",Rang
-https://mumt01.tangotv.in/RANG/index.m3u8
+
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="FreeTV🇮🇳",Khushboo
-https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
+
 
 
 
@@ -688,8 +693,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
 
-#EXTINF:-1,PTV BANGLA
-http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
+
 
 
 
@@ -704,8 +708,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://59.152.99.22:9999/live/channel1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
-#https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1z&name=Channel+S&format=.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
@@ -716,7 +721,7 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="All-In-One~ENT🧩",T Series
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="AynaOTT - IN Bangla",Zee Bangla HD
 http://103.204.43.87:8080/live/1/1/241.m3u8
@@ -738,7 +743,9 @@ http://103.159.180.34:5001/live/3476.m3u8
 http://103.175.73.12:8080/live/198/198_0.m3u8
 
 #EXTINF:-1,SANANDA TV
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+
+
+
 #EXTINF:-1, AKASH AATH IN
 http://103.159.180.34:5001/live/698.m3u8
 
@@ -906,7 +913,7 @@ https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_ind
 
 
 #EXTINF:-1, COLORS INFINITY HD
-http://103.159.180.34:5001/live/1158.m3u8
+http://live.balajibroadband.com:3500/live/1158.m3u8
 http://103.175.73.12:8080/live/29/29_0.m3u8
 
 
@@ -989,7 +996,7 @@ https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 http://103.204.43.87:8080/live/1/1/249.m3u8
 
 #EXTINF:-1,DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
 
 
 #EXTINF:-1,CGTN
