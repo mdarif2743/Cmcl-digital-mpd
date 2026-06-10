@@ -943,7 +943,7 @@ http://103.204.43.87:8080/live/1/1/296.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-
+http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
@@ -962,7 +962,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
 
 #EXTINF:-1,ETV BAL BHARAT
-http://103.204.43.87:8080/live/1/1/279.m3u8
+http://103.204.43.87:8080/live/1/1/279.m3u8http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
 
 
 
