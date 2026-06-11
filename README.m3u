@@ -235,15 +235,15 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
 #https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
-
+#http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
 
 #EXTINF:-1 tvg-chno="410" tvg-id="Fox.501.uk" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",Fox Sports 501 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
 #https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
-
+#http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
