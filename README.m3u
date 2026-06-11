@@ -991,8 +991,8 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
-http://103.204.43.87:8080/live/1/1/248.m3u8
-https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVdlsuHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/406.ts
+
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="watcho",Discovery ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1002,7 +1002,7 @@ https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 
 
 #EXTINF:-1,NET GEO WILD
-http://103.204.43.87:8080/live/1/1/249.m3u8
+
 
 #EXTINF:-1,DW NEWS
 
@@ -1014,7 +1014,6 @@ http://103.204.43.87:8080/live/1/1/249.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
-http://103.204.43.87:8080/live/1/1/251.m3u8
 https://restream-bay.vercel.app/chuchhi?id=206285
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
@@ -1024,7 +1023,6 @@ http://103.159.180.34:5001/live/562.m3u8
 
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
-http://103.204.43.87:8080/live/1/1/275.m3u8
 http://103.157.248.140:8000/play/a01n/index.m3u8
 
 
