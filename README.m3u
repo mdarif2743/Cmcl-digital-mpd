@@ -1164,6 +1164,7 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
+http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8
 http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 
