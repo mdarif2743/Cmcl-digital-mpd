@@ -57,8 +57,9 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6z
 #EXTINF:-1,ICC WOMEN WORLD CUP
 http://103.204.43.87:8080/live/1/1/313.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (T SPORTS)
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 http://103.158.133.62:8080/live/index.m3u8
-http://103.204.43.87:8080/live/1/1/284.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 FS 1
