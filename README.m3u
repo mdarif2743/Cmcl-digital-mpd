@@ -484,6 +484,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+http://103.59.176.72:8083/ekushey_tv/video.m3u8?token=123
 http://103.158.133.62:8080/etv/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
@@ -500,6 +501,7 @@ https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
 #https://tvsen6.aynaott.com/deshtv/index.m3u8
+http://103.59.176.72:8083/desh_tv/video.m3u8?token=123
 https://sm-monirul.top/toffee/play/desh_tv.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
@@ -582,6 +584,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_480/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="G TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="All-In-One~ENT🧩",G TV
+http://103.59.176.72:8083/gtv/video.m3u8?token=123
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 
@@ -860,6 +863,7 @@ http://103.175.73.12:8080/live/198/198_0.m3u8
 http://103.159.180.34:5001/live/698.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
+http://103.59.176.72:8083/sun_bangla/video.m3u8?token=123
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
@@ -988,7 +992,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 
 #EXTINF:-1, SONIC BANGLA
-http://103.204.43.87:8080/live/1/1/274.m3u8
+
 
 
 
@@ -1057,7 +1061,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
 
 #EXTINF:-1,ETV BAL BHARAT
-http://103.204.43.87:8080/live/1/1/279.m3u8
+
 
 
 
@@ -1068,6 +1072,7 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1",029. Duronto TV
+http://103.59.176.72:8083/duronto_tv/video.m3u8?token=123
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
 
@@ -1242,7 +1247,7 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
-http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8
+http://103.59.176.72:8083/live3/video.m3u8?token=123
 http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 
