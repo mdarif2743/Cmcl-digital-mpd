@@ -1454,7 +1454,7 @@ http://103.157.248.140:8000/play/a01c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
-http://103.204.43.87:8080/live/1/1/246.m3u8
+http://66.102.126.10:8000/play/a00f/index.m3u8
 http://103.99.249.139/stargold/index.m3u8
 https://airtel.rkdyiptv.workers.dev/live/390.m3u8
 http://103.157.248.140:8000/play/a00d/index.m3u8
@@ -1471,21 +1471,19 @@ http://103.157.248.140:8000/play/a00d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
-http://103.204.43.87:8080/live/1/1/319.m3u8
 http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619FCCB42A4D4EDDFE9740C3083&profile=pass
 
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-http://103.204.43.87:8080/live/1/1/267.m3u8
-https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45TXlVdVsuHV9QQUxOSXFLbEBxUX0RY1U_DjlFdlp4UWJYERUGBwIA.ts
+http://66.102.126.10:8000/play/a021/index.m3u8
 http://103.157.248.140:8000/play/a01t/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-http://103.204.43.87:8080/live/1/1/253.m3u8
+http://66.102.126.10:8000/play/a020/index.m3u8
 http://103.157.248.140:8000/play/a01s/index.m3u8
 
 
