@@ -481,6 +481,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1331.ts
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+http://103.158.133.62:8080/etv/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
 
