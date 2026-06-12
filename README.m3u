@@ -359,8 +359,9 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 
 #EXTINF:-1 tvg-chno="111" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Channels", বিটিভি
+http://103.59.176.72:8083/btv_world/video.m3u8?token=123
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SA/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+
 
 
 
@@ -376,7 +377,7 @@ https://in1.sunilprasad.com.np/wodgoLive/btv-world/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/sangsad-television-bd.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
-https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45QHBePRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BANGLADESH",মাই টিভি
 https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45R3hVPRUuFVBYTkwDBnhKYEJ1UX0RLxk_Q3JDeFVxUGBQFxMCBQ.ts
