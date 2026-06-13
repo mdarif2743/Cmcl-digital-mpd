@@ -930,7 +930,7 @@ http://live.balajibroadband.com:3500/live/1657.m3u8
 https://in1.sunilprasad.com.np/wodgoLive/tara-bangla-cinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="KOLKATA", Jalsha Movies HD
-http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
+http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/1523.m3u8
 
 
