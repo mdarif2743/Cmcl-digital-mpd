@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U tvg-url=""
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/UFbSjU3vgB.xml" refresh="1440"
 
 #EXTINF:-1, FGN
 http://103.175.73.12:8080/live/856/856_0.m3u8
