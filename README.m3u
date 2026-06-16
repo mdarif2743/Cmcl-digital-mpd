@@ -908,7 +908,7 @@ http://103.159.180.34:5001/live/3476.m3u8
 http://103.175.73.12:8080/live/198/198_0.m3u8
 
 #EXTINF:-1,SANANDA TV
-
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 
 #EXTINF:-1, AKASH AATH IN
@@ -964,8 +964,8 @@ https://yupptv.rkdyiptv.workers.dev/live/1523.m3u8
 
 
 
-#EXTINF:-1,ETV BANGLA CINEMA
-
+#EXTINF:-1,SNB CINEMA
+http://103.182.83.246/hls/snbcinema.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
 http://103.175.73.12:8080/live/197/197_0.m3u8
