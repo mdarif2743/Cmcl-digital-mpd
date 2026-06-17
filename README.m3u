@@ -1006,7 +1006,7 @@ https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
@@ -1233,7 +1233,7 @@ http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
 http://103.157.248.140:8000/play/a00g/index.m3u8
 
@@ -1248,7 +1248,7 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 
 https://tvsen7.aynaott.com/sspts1/index.m3u8
@@ -1258,7 +1258,7 @@ https://tvsen7.aynaott.com/sspts1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="AynaOTT - Sports",Star Sports 2 hd
 http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
@@ -1279,7 +1279,7 @@ http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 SD 
 
 
-#EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png",Star Sports Select 2 HD 
+#EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",Star Sports Select 2 HD 
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148801.ts
 
 
@@ -1472,7 +1472,7 @@ http://103.157.248.140:8000/play/a00e/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
 http://103.157.248.140:8000/play/a01c/index.m3u8
 
 
@@ -1499,13 +1499,13 @@ http://119.156.228.231:9983/stream/channelid/2119636855?ticket=D8ABDAB7FB615619F
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
 http://66.102.126.10:8000/play/a021/index.m3u8
 http://103.157.248.140:8000/play/a01t/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://66.102.126.10:8000/play/a020/index.m3u8
 http://103.157.248.140:8000/play/a01s/index.m3u8
 
