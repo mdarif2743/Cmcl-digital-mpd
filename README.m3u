@@ -305,7 +305,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4748.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
-
+https://xfireflix.my.id/mac.php?id=809386.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 #http://cdn.tv-rds.workers.dev/WillowCricket.m3u8
@@ -319,6 +319,7 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+https://restream-bay.vercel.app/chuchhi?id=167590&format=.m3u8
 http://113.21.231.219:789/Tsports/index.m3u8
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
@@ -1303,6 +1304,8 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148801.ts
 #EXTINF:-1, STAR SPORTS KHEL
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
+https://xfireflix.my.id/mac.php?id=809387.m3u8
 
 
 
@@ -2263,13 +2266,6 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6546/index.m3u8
 
 #EXTINF:-1,SKY SPORTS BUNDESLIGA
 
-
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
-
-
-#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
 
 
 
