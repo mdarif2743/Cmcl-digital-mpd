@@ -996,7 +996,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 
 
-#EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="AynaOTT - Indian ENT",Colors HD
 https://restream-bay.vercel.app/chuchhi?id=109947&format=.m3u8
 http://live.balajibroadband.com:3500/live/144.m3u8
 http://103.157.248.140:8000/play/a007/index.m3u8
@@ -1006,7 +1006,7 @@ https://airtel.rkdyiptv.workers.dev/live/415.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
@@ -1024,7 +1024,7 @@ https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_ind
 
 
 
-#EXTINF:-1, COLORS INFINITY HD
+#EXTINF:-1, https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png   COLORS INFINITY HD
 http://live.balajibroadband.com:3500/live/1158.m3u8
 http://103.175.73.12:8080/live/29/29_0.m3u8
 
@@ -1035,14 +1035,14 @@ http://103.175.73.12:8080/live/29/29_0.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="KIDS CHANNELS", HUNGAMA HINDI
 
 
-#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
+#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
 
 
 
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
 http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
@@ -1106,7 +1106,7 @@ https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 
 
 
-#EXTINF:-1,NET GEO WILD
+#EXTINF:-1, https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png   NET GEO WILD
 
 
 #EXTINF:-1,DW NEWS
@@ -1118,7 +1118,7 @@ https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Documentary",National Geographic HD বাংলা
 https://restream-bay.vercel.app/chuchhi?id=206285
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
@@ -1191,7 +1191,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 http://103.180.212.191:3500/live/3418.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movies",Sony WAH
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Movies",Sony WAH
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
 https://b4uplay.com/sliv/stream.m3u8?id=1000009253|referer=https://b4uplay.com/
@@ -1266,7 +1266,7 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="Xfireflix",Star Sports 3
 http://103.157.248.140:8000/play/a00i/index.m3u8
 
 
@@ -1376,8 +1376,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 
 
-#EXTINF:-1, STAR PLUS SD
-http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+#EXTINF:-1, https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
@@ -1466,7 +1466,7 @@ http://103.157.248.140:8000/play/a01i/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 SD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
 http://103.157.248.140:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
 
@@ -1489,7 +1489,7 @@ http://103.157.248.140:8000/play/a00d/index.m3u8
 #EXTINF:-1, STAR GOLD SD
 
 
-#EXTINF:-1,STAR UTSAV MOVIES
+#EXTINF:-1,    https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png  STAR UTSAV MOVIES
 
 
 
