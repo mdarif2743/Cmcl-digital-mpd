@@ -934,6 +934,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #http://103.158.133.62:8080/star_jalsha_hd/tracks-v1a1/mono.m3u8
+https://xfireflix.my.id/mac.php?id=908682.m3u8
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
 
@@ -948,7 +949,7 @@ https://yupptv.rkdyiptv.workers.dev/live/825.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-#http://103.204.43.87:8080/live/1/1/239.m3u8
+https://xfireflix.my.id/mac.php?id=908654.m3u8
 #https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
@@ -1062,6 +1063,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+https://restream-bay.vercel.app/chuchhi?id=109947&format=.m3u8
 http://live.balajibroadband.com:3500/live/144.m3u8
 http://103.157.248.140:8000/play/a007/index.m3u8
 https://sflex07.fun/Sflex-Artl/COLORS_HD.m3u8
@@ -1159,6 +1161,7 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+https://xfireflix.my.id/mac.php?id=908684.m3u8
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/406.ts
 
 
