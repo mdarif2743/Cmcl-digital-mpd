@@ -1392,6 +1392,11 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009278|referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009275|referer=https://b4uplay.com/
 
 
+#EXTINF:-1,RUSH SPORTS
+https://xfireflix.my.id/mac.php?id=809405.m3u8
+#EXTINF:-1,Rush sports 2
+https://xfireflix.my.id/mac.php?id=809406.m3u8
+
 
 #EXTINF:-1 tvg-id="100" tvg-chno="611" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="Sports", DD Sports 1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1556,15 +1561,14 @@ http://103.157.248.140:8000/play/a01s/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
+https://xfireflix.my.id/mac.php?id=733522.m3u8
 http://103.159.180.34:5001/live/279.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-http://live.balajibroadband.com:3500/live/1477.m3u8
-http://103.204.43.87:8080/live/1/1/237.m3u8
-https://restream-bay.vercel.app/chuchhi?id=206310
+https://xfireflix.my.id/mac.php?id=733523.m3u8
 
 
 #EXTINF:-1, Kantipur piracy HD
