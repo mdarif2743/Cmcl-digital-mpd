@@ -550,8 +550,7 @@ http://103.175.242.10:8080/independent/index.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
-#https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
-http://techtalks.uk:80/live/FbCjAetheb/jovial4construction/3814.ts?RKDYIPTV&token=rkdyiptv
+http://techtalks.uk:8080/live/zHGUQfwWU2/imperfect3cabinet/3814.ts?RKDYIPTV&token=rkdyiptv
 http://116.204.149.16/satv/index.m3u8
 
 
