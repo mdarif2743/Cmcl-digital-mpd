@@ -401,6 +401,7 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 
 #EXTINF:-1 tvg-chno="111" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Channels", বিটিভি
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 http://103.59.176.72:8083/btv_world/video.m3u8?token=123
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
