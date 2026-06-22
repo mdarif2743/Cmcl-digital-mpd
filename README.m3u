@@ -43,7 +43,7 @@ http://live.balajibroadband.com:3500/live/155.m3u8
 #EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png", SONY LIV 1
 http://live.balajibroadband.com:3500/live/162.m3u8
 
-#EXTINF:-1,tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png", SONY LIV 2
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png", SONY LIV 2
 http://live.balajibroadband.com:3500/live/891.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png", SONY LIV 3
