@@ -584,6 +584,7 @@ http://116.204.149.16/satv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Channels",News 24 BD
+http://fastshare1.com:8080/live/618679846/543181704/3810.ts?RKDYIPTV&token=rkdyiptv
 http://103.158.133.62:8080/news24/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/2372.m3u8
@@ -678,7 +679,6 @@ https://tvsen6.aynaott.com/nexustv/index.m3u8
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/340?cb=20260202200847",Star News
-http://starhub.pro/live/farhat-3379/67897-913379/3802.ts
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 
@@ -689,8 +689,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2024/04/Logo.png" group-title="BANGLADESH", নাগরিক টিভি
-#http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
-http://techtalks.uk:80/live/FbCjAetheb/jovial4construction/3802.ts?RKDYIPTV&token=rkdyiptv
+http://fastshare1.com:8080/live/618679846/543181704/3802.ts?RKDYIPTV&token=rkdyiptv
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="",Channel 1 NEWS
 http://103.158.133.62:8080/somoytv/index.m3u8
