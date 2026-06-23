@@ -1315,6 +1315,7 @@ http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="AynaOTT - Sports",Star Sports 1 HD
+http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 
 https://tvsen7.aynaott.com/sspts1/index.m3u8
