@@ -428,11 +428,12 @@ http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
-http://techtalks.uk:80/live/FbCjAetheb/jovial4construction/3818.ts?RKDYIPTV&token=rkdyiptv
+http://fastshare1.com:8080/live/618679846/543181704/3818.ts?RKDYIPTV&token=rkdyiptv
 https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="BANGLADESH", বিটিভি নিউজ
+http://fastshare1.com:8080/live/618679846/543181704/998.ts?RKDYIPTV&token=rkdyiptv
 https://in1.sunilprasad.com.np/wodgoLive/btv-world/master.m3u8
 
 
@@ -557,6 +558,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-news-hd-bd.png" group-title="Channels",ATN News
+http://fastshare1.com:8080/live/618679846/543181704/427.ts?RKDYIPTV&token=rkdyiptv
 http://103.158.133.62:8080/atnnews/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #http://103.175.242.10:8080/atnnews/index.m3u8
