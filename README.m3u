@@ -773,8 +773,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Motu%20Patlu.jpg?raw=true" tvg-name="Motu Patlu" group-title="All-In-One~ENT🧩",Motu Patlu
-#https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", VISION 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
