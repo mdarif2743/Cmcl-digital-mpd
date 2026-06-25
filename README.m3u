@@ -1112,6 +1112,7 @@ http://103.175.73.12:8080/live/29/29_0.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
+https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
