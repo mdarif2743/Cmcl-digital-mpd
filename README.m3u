@@ -28,14 +28,14 @@ http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
 http://fastshare1.com:8080//live/25711345/late8airline/581307.ts
 http://fastshare1.com:8080//live/25711345/late8airline/384222.ts
 
-#EXTINF:-1, SKY SPORTS F1 UHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/960px-Sky_Sport_UHD_logo.svg.png", SKY SPORTS F1 UHD
 http://fastshare1.com:8080//live/25711345/late8airline/384213.ts
 
 
-#EXTINF:-1, SKY SPORT MAIN EVENT UHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg", SKY SPORT MAIN EVENT UHD
 http://fastshare1.com:8080//live/25711345/late8airline/384215.ts
 
-#EXTINF:-1, ELEVEN SPORTS 1 UHD
+#EXTINF:-1, tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", ELEVEN SPORTS 1 UHD
 http://fastshare1.com:8080//live/25711345/late8airline/688288.ts
 
 
