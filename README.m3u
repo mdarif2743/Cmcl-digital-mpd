@@ -20,13 +20,23 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026
 http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
 
-#EXTINF:-1,4K CRICKET LIVE
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg", 4K CRICKET LIVE
 http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", SKY SPORT UHD
+http://fastshare1.com:8080//live/25711345/late8airline/581307.ts
 http://fastshare1.com:8080//live/25711345/late8airline/384222.ts
 
+#EXTINF:-1, SKY SPORTS F1 UHD
+http://fastshare1.com:8080//live/25711345/late8airline/384213.ts
+
+
+#EXTINF:-1, SKY SPORT MAIN EVENT UHD
+http://fastshare1.com:8080//live/25711345/late8airline/384215.ts
+
+#EXTINF:-1, ELEVEN SPORTS 1 UHD
+http://fastshare1.com:8080//live/25711345/late8airline/688288.ts
 
 
 
