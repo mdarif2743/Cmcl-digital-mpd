@@ -1326,21 +1326,15 @@ https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png"  NET GEO WILD
 
 
-#EXTINF:-1,tvg-logo=" " DW NEWS
-
-
-
-#EXTINF:-1,tvg-logo=" " CGTN
-
 
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Documentary",National Geographic HD বাংলা
-https://restream-bay.vercel.app/chuchhi?id=206285
+http://fastshare1.com:8080//live/25711345/late8airline/98874.ts
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle",Travelxp HD বাংলা
-http://103.159.180.34:5001/live/562.m3u8
-
+#http://103.159.180.34:5001/live/562.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/20622.ts
 
 
 
