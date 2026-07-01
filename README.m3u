@@ -2793,6 +2793,7 @@ http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8?token=544f08111346de6231cb2
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="SM BDIX",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip
 
-
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/PTV Sports.png" group-title="SM BDIX",PTV Sports
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8?token=93bfc3e373ae64dfc86a2b064efcf164ab636f88-e915256d9d836a2b50774d2e1507e3b7-1776169972-1776166372&remote=no_check_ip
 
 
