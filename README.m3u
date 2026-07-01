@@ -106,12 +106,7 @@ https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/in
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dcwbm4iztn/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
 
 
 #EXTM3U
@@ -201,7 +196,6 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 #EXTINF:-1 tvg-chno="1433" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/277428.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
@@ -215,7 +209,7 @@ http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=S
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 1
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 http://202.70.146.135:8000/play/a06s/index.m3u8
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98841.ts
+
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (SOMOY TV)
 #https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
