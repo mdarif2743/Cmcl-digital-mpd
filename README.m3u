@@ -630,6 +630,7 @@ http://103.158.133.62:8080/channel24/index.m3u8
 
 
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Channels",Asian TV
+https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 #https://trs1.aynaott.com/asiantv/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=80&uid=7245&deviceMac=00:1A:79:4A:02:91
 https://sm-monirul.top/toffee/play/asian_tv.m3u8
@@ -702,6 +703,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bp
 
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="All-In-One~ENT🧩",Ekhon Tv
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #https://trs1.aynaott.com/ekhontv/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
@@ -740,6 +742,7 @@ https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Channels",Jamuna TV
+https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 https://sm-monirul.top/toffee/play/jamuna_tv.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #http://103.158.133.62:8080/jamunatv/index.m3u8
@@ -750,6 +753,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bp
 
 
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://lo1.in/ind/mohn1.png" group-title="Channels",Mohona TV
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #https://tvsen6.aynaott.com/mohonatv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
@@ -758,6 +762,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Channels",NEXUS TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 https://in1.sunilprasad.com.np/wodgoLive/nexus-tv/master.m3u8
