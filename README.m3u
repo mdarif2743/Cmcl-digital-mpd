@@ -198,7 +198,7 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 Sky
-https://chatgpt.hereisman.net/playlist/52820/load-playlist?
+?
 
 
 
@@ -215,7 +215,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 #EXTINF:-1 tvg-chno="1433" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
