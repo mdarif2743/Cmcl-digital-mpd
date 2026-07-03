@@ -29,6 +29,11 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 
 
+#EXTINF:-1 tvg-id="argentinavscaboverde2300foxoneaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Argentina vs Cabo Verde 23:00 (FOX ONE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
 #EXTINF:-1 tvg-id="australiavsegypt1900tsn4sportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Australia vs Egypt 19:00 (TSN4 SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
