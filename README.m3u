@@ -523,8 +523,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 
 #EXTINF:-1 tvg-chno="111" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Channels", বিটিভি
-http://103.114.11.37:8081/BTV/video.m3u8?token=LcfvVCNp3LLVz0
-#https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#http://103.114.11.37:8081/BTV/video.m3u8?token=LcfvVCNp3LLVz0
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
