@@ -556,12 +556,12 @@ http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
-http://fastshare1.com:8080/live/618679846/543181704/3818.ts?RKDYIPTV&token=rkdyiptv
-https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 #EXTINF:-1 tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="BANGLADESH", বিটিভি নিউজ
-http://fastshare1.com:8080/live/618679846/543181704/998.ts?RKDYIPTV&token=rkdyiptv
+
 https://in1.sunilprasad.com.np/wodgoLive/btv-world/master.m3u8
 
 
@@ -583,10 +583,8 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
-http://fastshare1.com:8080//live/25711345/late8airline/426.ts
-#https://trs1.aynaott.com/banglavision/index.m3u8
+#http://fastshare1.com:8080//live/25711345/late8airline/426.ts
 #http://stvlive.net:8080/banglavision/index.m3u8
-#http://103.158.133.62:8080/banglavision/index.m3u8
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 
@@ -599,7 +597,7 @@ http://116.204.149.16/rtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="115" tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Recorded TV",ATN Bangla
-http://fastshare1.com:8080//live/25711345/late8airline/431.ts
+#http://fastshare1.com:8080//live/25711345/late8airline/431.ts
 http://tv.indigotv.me:80/live.ts?channelId=81&uid=7245&deviceMac=00:1A:79:4A:02:91
 https://in1.sunilprasad.com.np/wodgoLive/atn-bangla/master.m3u8
 #https://tvsen5.aynaott.com/atnbangla/index.m3u8
@@ -617,7 +615,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bp
 
 
 #EXTINF:-1 tvg-chno="116" tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Recorded TV",Channel I
-http://fastshare1.com:8080//live/25711345/late8airline/34665.ts
+#http://fastshare1.com:8080//live/25711345/late8airline/34665.ts
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://trs1.aynaott.com/channeli/index.m3u8
 https://sm-monirul.top/toffee/play/channel_i.m3u8
@@ -629,38 +627,36 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
-http://fastshare1.com:8080//live/25711345/late8airline/424.ts
+#http://fastshare1.com:8080//live/25711345/late8airline/424.ts
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-https://trs1.aynaott.com/ntv/index.m3u8
-https://sm-monirul.top/toffee/play/n_tv.m3u8
 http://stvlive.net:8080/ntv/index.m3u8
 http://103.158.133.62:8080/ntv/index.m3u8
 http://103.175.242.10:8080/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
+https://ranapkbd.site/RANAPK33k/TVD/play.php?id=908678
 http://fastshare1.com:8080//live/25711345/late8airline/1331.ts
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://xfireflix.my.id/mac.php?id=908678.m3u8
 http://stvlive.net:8080/deepto/index.m3u8
-http://103.158.133.62:8080/deepto/index.m3u8
 #http://103.175.242.10:8080/deepto/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
-http://fastshare1.com:8080//live/25711345/late8airline/3813.ts
+#http://fastshare1.com:8080//live/25711345/late8airline/3813.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 http://103.158.133.62:8080/etv/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
-https://tvsen6.aynaott.com/etv/index.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Channels",Somoy News TV
-http://fastshare1.com:8080//live/25711345/late8airline/422.ts
+#http://fastshare1.com:8080//live/25711345/late8airline/422.ts
 #https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
