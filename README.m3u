@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
@@ -2282,12 +2282,12 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="Drama" tvg-server="Server 1",081. HUM MASALA
-https://sm-monirul.top/toffee/play/hum_masala.m3u8
-http://103.158.133.62:8080/hum-masala/index.m3u8
+http://38.101.217.46/HumMasala/index.m3u8
+
 
 #EXTINF:-1,HUM SITERY world
-https://sm-monirul.top/toffee/play/hum_sitaray.m3u8
-http://103.158.133.62:8080/hum-sitary/index.m3u8
+http://38.101.217.46/HumSitaray/index.m3u8
+
 #EXTINF:-1,HUM SITERY
 
 
