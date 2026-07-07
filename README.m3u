@@ -69,23 +69,7 @@ https://live.inplyr.com/room/168740.m3u8
 https://svc.flyins.my.id/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg", 4K CRICKET LIVE
-http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
 
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", SKY SPORT UHD
-http://fastshare1.com:8080//live/25711345/late8airline/581307.ts
-http://fastshare1.com:8080//live/25711345/late8airline/384222.ts
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/960px-Sky_Sport_UHD_logo.svg.png", SKY SPORTS F1 UHD
-http://fastshare1.com:8080//live/25711345/late8airline/384213.ts
-
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg", SKY SPORT MAIN EVENT UHD
-http://fastshare1.com:8080//live/25711345/late8airline/384215.ts
-
-#EXTINF:-1, tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", ELEVEN SPORTS 1 UHD
-http://fastshare1.com:8080//live/25711345/late8airline/688288.ts
 
 
 
@@ -115,25 +99,7 @@ http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/tsports/tracks-v1/mono.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png", SONY LIV 5
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=155&e=.m3u8
-http://live.balajibroadband.com:3500/live/155.m3u8
 
-#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png", SONY LIV 1
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=162&e=.m3u8
-http://live.balajibroadband.com:3500/live/162.m3u8
-
-#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png", SONY LIV 2
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=891&e=.m3u8
-http://live.balajibroadband.com:3500/live/891.m3u8
-
-#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png", SONY LIV 3
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=892&e=.m3u8
-http://live.balajibroadband.com:3500/live/892.m3u8
 
 
 
@@ -356,7 +322,44 @@ http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png", SONY LIV 5
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=155&e=.m3u8
+http://live.balajibroadband.com:3500/live/155.m3u8
 
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png", SONY LIV 1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=162&e=.m3u8
+http://live.balajibroadband.com:3500/live/162.m3u8
+
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png", SONY LIV 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=891&e=.m3u8
+http://live.balajibroadband.com:3500/live/891.m3u8
+
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png", SONY LIV 3
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=892&e=.m3u8
+http://live.balajibroadband.com:3500/live/892.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg", 4K CRICKET LIVE
+http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
+
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", SKY SPORT UHD
+http://fastshare1.com:8080//live/25711345/late8airline/581307.ts
+http://fastshare1.com:8080//live/25711345/late8airline/384222.ts
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/960px-Sky_Sport_UHD_logo.svg.png", SKY SPORTS F1 UHD
+http://fastshare1.com:8080//live/25711345/late8airline/384213.ts
+
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg", SKY SPORT MAIN EVENT UHD
+http://fastshare1.com:8080//live/25711345/late8airline/384215.ts
+
+#EXTINF:-1, tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", ELEVEN SPORTS 1 UHD
+http://fastshare1.com:8080//live/25711345/late8airline/688288.ts
 
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
