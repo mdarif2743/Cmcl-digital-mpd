@@ -631,7 +631,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
-#http://fastshare1.com:8080//live/25711345/late8airline/424.ts
+http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 http://stvlive.net:8080/ntv/index.m3u8
 http://103.158.133.62:8080/ntv/index.m3u8
