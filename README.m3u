@@ -1129,6 +1129,13 @@ https://xfireflix.my.id/mac.php?id=908685.m3u8
 http://103.59.176.72:8083/sun_bangla/video.m3u8?token=123
 http://103.159.180.34:5001/live/1669.m3u8
 
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="AynaOTT - Indian ENT",Colors HD
 https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_HD.m3u8
 http://live.balajibroadband.com:3500/live/144.m3u8
@@ -1144,13 +1151,25 @@ https://tvsen7.aynaott.com/sphdbd/index.m3u8
 http://103.157.248.140:8000/play/a005/index.m3u8
 https://airtel.rkdyiptv.workers.dev/live/409.m3u8
 
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg" group-title="Indian",Sun Neo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
 
-
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" group-title="Entertainment",Anmol TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd?
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", COLORS INFINITY HD
 http://live.balajibroadband.com:3500/live/1158.m3u8
@@ -1165,7 +1184,15 @@ http://103.175.73.12:8080/live/258/258_0.m3u8
 http://103.175.73.12:8080/live/21/21_0.m3u8
 
 
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Services",ShortsTV Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Services",Korean Drama Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 
 
@@ -1205,6 +1232,31 @@ http://103.182.83.246/hls/snbcinema.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI",Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
+http://103.99.249.139/stargold/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/390.m3u8
+http://103.157.248.140:8000/play/a00d/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
+http://103.157.248.140:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="HINDI",Star Gold 2 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
+http://103.157.248.140:8000/play/a01c/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
+http://103.157.248.140:8000/play/a00b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png", STAR GOLD ROMANCE
+http://103.157.248.140:8000/play/a01i/index.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
@@ -1793,35 +1845,7 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
-http://103.157.248.140:8000/play/a00b/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png", STAR GOLD ROMANCE
-http://103.157.248.140:8000/play/a01i/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
-http://103.157.248.140:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="HINDI",Star Gold 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
-http://103.157.248.140:8000/play/a01c/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI",Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
-http://103.99.249.139/stargold/index.m3u8
-https://airtel.rkdyiptv.workers.dev/live/390.m3u8
-http://103.157.248.140:8000/play/a00d/index.m3u8
-
-
-
-
-
-#EXTINF:-1, STAR GOLD SD
 
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" STAR UTSAV MOVIES
