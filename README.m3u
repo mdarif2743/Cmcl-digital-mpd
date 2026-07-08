@@ -1193,7 +1193,9 @@ http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF:-1 tvg-chno="451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+http://103.159.180.34:5001/live/585.m3u8
+
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="India🇮🇳",Shemaroo TV
 http://103.175.73.12:8080/live/274/274_0.m3u8
@@ -1310,8 +1312,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 #EXTINF:-1 tvg-chno="339" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+http://103.159.180.34:5001/live/165.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Movies",Anmol Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2029,9 +2031,7 @@ http://live.balajibroadband.com:3500/live/472.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD
-#http://live.balajibroadband.com:3500/live/185.m3u8
-http://103.159.180.34:5001/live/185.m3u8
+
 
 
 
@@ -2065,12 +2065,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Movies",Anmol Cinema
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" group-title="Entertainment",Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" group-title="Entertainment",DD Bharati
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2087,8 +2081,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 
 
 
-
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Entertainment", Korean Drama Active
 
 
 
@@ -2135,15 +2127,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Movies",ShortsTV Active
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action
-
-
 
 
 
@@ -2160,8 +2143,7 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+
 
 
 
@@ -2171,9 +2153,6 @@ http://103.213.31.111/ZeeBusiness/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="watcho",Zee Cinema HD
-#http://live.balajibroadband.com:3500/live/165.m3u8
-http://103.159.180.34:5001/live/165.m3u8
 
 
 
@@ -2181,15 +2160,9 @@ http://103.159.180.34:5001/live/165.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee TV HD
-#http://live.balajibroadband.com:3500/live/167.m3u8
-http://103.159.180.34:5001/live/167.m3u8
 
  
-#EXTINF:-1 tvg-id="585" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
-#http://live.balajibroadband.com:3500/live/585.m3u8
-http://103.159.180.34:5001/live/585.m3u8
+
 
 
 #EXTINF:-1 tvg-id="592" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",ZOOM
