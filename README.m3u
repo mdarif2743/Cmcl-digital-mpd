@@ -991,8 +991,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dubbed%20Movie.jpg?raw=true" tvg-name="Dubbed movies" group-title="All-In-One~ENT🧩",Dubbed movies
-#https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="All-In-One~ENT🧩", UPHAR BANGLA
+https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="MOVIES BANGLA" group-title="All-In-One~ENT🧩", RS MOVIE HD
 http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
