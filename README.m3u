@@ -1286,7 +1286,7 @@ http://103.157.248.140:8000/play/a01i/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-http://premiumtvs.space:80/ARORA005/65553356/98908
+http://66.102.126.10:8000/play/a076/index.m3u8
 https://xfireflix.my.id/mac.php?id=733523.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
