@@ -1003,8 +1003,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TBN24.jpg?raw=true" tvg-name="TBN24" group-title="All-In-One~ENT🧩",TBN24
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" tvg-name="Gubbare" group-title="All-In-One~ENT🧩",Gubbare
-#https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:1 tvg-logo="" tvg-name="" group-title="All-In-One~ENT🧩", JTV CLASSIC
+http://103.67.97.46/0.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="FreeTV",JTV BANGLA
+http://103.67.97.45:81/0.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title=" ",ATN BANGLA UK
@@ -1048,8 +1051,6 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" tvg-name="Hindi Hits" group-title="FreeTV🇮🇳",Hindi Hits
 
 
 
