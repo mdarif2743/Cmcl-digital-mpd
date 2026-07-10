@@ -970,8 +970,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
 
-#EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="All-In-One~ENT🧩",T Series
-
+#EXTINF:1 tvg-logo="" tvg-name="DTV USA" group-title="All-In-One~ENT🧩",DTV USA
+https://cdn.dtvusa.com/dtv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jangle%20Book.jpg?raw=true" group-title="All-In-One~ENT🧩",Jungle Book
