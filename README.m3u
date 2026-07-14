@@ -466,7 +466,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD
-https://xfireflix.my.id/mac.php?id=809386.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1142110.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket
 
@@ -1693,24 +1693,25 @@ http://103.161.153.165:8000/play/a01z/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/2047231.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
-http://103.157.248.140:8000/play/a00g/index.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Star Sports 2 Hindi HD
-http://103.180.212.191:3500/live/1984.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104676.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="AynaOTT - Sports",Star Sports 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
 http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+
 
 
 
