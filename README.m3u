@@ -280,8 +280,8 @@ https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/geosuper.png" group-title="PSL + IPL",PSL 2026 GEO SUPER
-https://xfireflix.my.id/mac.php?id=809399.m3u8
-http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106886.m3u8
+
 
 #EXTINF:-1, (SA VS NZ) SUPER SPORTS CRICKET 🏏 
 
@@ -350,22 +350,22 @@ http://live.balajibroadband.com:3500/live/892.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg", 4K CRICKET LIVE
-http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
+
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", SKY SPORT UHD
-http://fastshare1.com:8080//live/25711345/late8airline/581307.ts
-http://fastshare1.com:8080//live/25711345/late8airline/384222.ts
+l
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/960px-Sky_Sport_UHD_logo.svg.png", SKY SPORTS F1 UHD
-http://fastshare1.com:8080//live/25711345/late8airline/384213.ts
+
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg", SKY SPORT MAIN EVENT UHD
-http://fastshare1.com:8080//live/25711345/late8airline/384215.ts
+
 
 #EXTINF:-1, tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", ELEVEN SPORTS 1 UHD
-http://fastshare1.com:8080//live/25711345/late8airline/688288.ts
+
 
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
