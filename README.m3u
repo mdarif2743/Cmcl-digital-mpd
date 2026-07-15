@@ -746,7 +746,7 @@ http://103.175.242.10:8080/independent/index.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
-http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
+https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/sa-tv.m3u8?token=7961c09378f5b1a81e2d3514bcbc35c5&time=1784126447
 http://tv.indigotv.me:80/live.ts?channelId=114&uid=7245&deviceMac=00:1A:79:4A:02:91
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
