@@ -98,7 +98,7 @@ https://svc.flyins.my.id/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/tsports.m3u8
+https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/tsports.m3u8?token=03095b642b509a93a474b67e2589c70f&time=1784139157
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=LcfvVCNp3LLVz0
