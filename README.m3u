@@ -635,7 +635,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bp
 
 
 #EXTINF:-1 tvg-chno="116" tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Recorded TV",Channel I
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/channeli.m3u8?token=5d03af6c83ca76c5ba6e278b5e8a0156&time=1784126816
+https://iptv.aboxbdix.workers.dev/live/channeli.m3u8?token=6eec143c2e27b9df6065e164c5f53d88&time=1784238701&link_index=0
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_i
 https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
@@ -699,7 +699,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Channels",Channel 9
 #https://tv.beyondtaxconsultants.com/api/robi/lps/https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#https://trs1.aynaott.com/channel9/index.m3u8
+https://iptv.aboxbdix.workers.dev/ts-proxy?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fchannel9hd.stream%2Ftracks-v1a1%2F2026%2F07%2F16%2F21%2F50%2F37-06000.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
 
@@ -748,7 +748,7 @@ http://103.175.242.10:8080/independent/index.m3u8
 
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/sa-tv.m3u8?token=7961c09378f5b1a81e2d3514bcbc35c5&time=1784126447
+https://iptv.aboxbdix.workers.dev/live/sa-tv.m3u8?token=257392c99b72a49334092d90a77fad67&time=1784238771&link_index=0
 http://tv.indigotv.me:80/live.ts?channelId=114&uid=7245&deviceMac=00:1A:79:4A:02:91
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
