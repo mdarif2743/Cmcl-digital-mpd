@@ -382,6 +382,12 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31cb90e7adf14d62c40cb7d85d37d6ac:d100b18a1937455db4ca2b3dcb5bd317
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd
+
+
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
