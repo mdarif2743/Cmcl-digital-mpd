@@ -1610,7 +1610,7 @@ http://live.balajibroadband.com:3500/live/471.m3u8
 http://live.balajibroadband.com:3500/live/474.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-#https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009255|referer=https://b4uplay.com/
@@ -1656,7 +1656,7 @@ http://103.180.212.191:3500/live/3418.m3u8
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-#https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PIX_HD.m3u8
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PIX_HD.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009258|referer=https://b4uplay.com/
@@ -1666,19 +1666,19 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 #EXTINF:-1 tvg-id="1252" tvg-chno="405" tvg-name="bbc-earth" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/90e71128-272c-4a02-b786-6322848bde60.jpg" group-title="All Channels", BBC Earth
 #https://yowaimo.in/Sflex-ArtlPVT0719/SONY_BBC_EARTH_HD.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009252|referer=https://b4uplay.com/
 http://live.balajibroadband.com:3500/live/821.m3u8
 
 #EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 #https://b4uplay.com/sliv/stream.m3u8?id=1000044878|referer=https://b4uplay.com/
 http://live.balajibroadband.com:3500/live/483.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="All Channels", Sony MAX HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009247|referer=https://b4uplay.com/
 #https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
