@@ -374,6 +374,9 @@ http://premiumtvs.space/1Aoen7elp5/IgMJ60tmAa/384215
 
 #EXTINF:-1, tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", ELEVEN SPORTS 1 UHD
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
 
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
