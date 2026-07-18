@@ -312,12 +312,12 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE ENGLISH
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png" group-title="LPL2026", LPL 2026
+#EXTINF:-1 tvg-logo="" group-title="LPL2026", LPL 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
 
 
 
