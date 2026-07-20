@@ -21,10 +21,6 @@ https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 fast 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Screenshot_2026-06-09_233511.png/revision/latest?cb=20260609181015"group-title="LIVE SPORTS" group-title="", UNITE8 SPORTS 1 HD
-https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/index.m3u8
-http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
-http://103.155.18.186:8000/play/a125/index.m3u8
 
 
 
@@ -97,6 +93,10 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 https://xfireflix.my.id/mac.php?id=809398.m3u8
 http://103.114.11.37:8081/PTV/video.m3u8?token=LcfvVCNp3LLVz0
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Screenshot_2026-06-09_233511.png/revision/latest?cb=20260609181015"group-title="LIVE SPORTS" group-title="", UNITE8 SPORTS 1 HD
+https://bdixserver.tvhunter.top/ant1002/tracks-v1a1/index.m3u8
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
+http://103.155.18.186:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="live sports", Unite8 Sports 2 FHD
 https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
@@ -186,12 +186,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="PSL + IPL",IPL 2026 AD FREE LIVE ENGLISH
 
 
-#EXTINF:-1 tvg-logo="" group-title="LPL2026", LPL 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
 
 
 
