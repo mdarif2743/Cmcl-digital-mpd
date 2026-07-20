@@ -1074,7 +1074,7 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://monirul.bro.bd/sm/live.php?id=sun_bangla_hd&e=.m3u8
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://myco-channels.nurmd2006-official.workers.dev/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 
 
