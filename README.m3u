@@ -1240,7 +1240,12 @@ http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
 
-#EXTINF:-1 tvg-logo="" group-title="Relagion Channel",
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list_clean/zee24ghanta1920x1080list70b4cb6429064c8eaa362e7daa8fd683.png" group-title="news Channel", zee 24 gonta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABP_Ananda.svg/revision/latest",Abp Ananda
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
