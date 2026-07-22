@@ -23,11 +23,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0-1-6z5974915" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1013,h_570,c_scale,f_webp,q_auto:eco/resources/0-1-6z5974915/list/1920x1080list4db7b3a731ea4b2c98b5ef2d007d95eed6fc8f01c3be480c8add30c394d64f0b" group-title="FIFA 2026 - All in one reborn 1", GOLTV VIVO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrW-UFtvBLya9utF8CurJA9FVAcCi4I8Qh-7CzHyv50MJi-nu_4oAZOKZ&s=10" group-title="live sports", The Hundred
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784762617~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=790f23d2898f7b60f43c3ea3a7c5490f4202a58cd09932f4b106da245cdb12c5
 
 
 #EXTINF:-1 tvg-id="australiavsegypt1900tsn4sportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup", RUSH SPORTS 
