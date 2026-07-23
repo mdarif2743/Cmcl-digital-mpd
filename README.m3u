@@ -5,8 +5,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 
-#EXTINF:-1, tvg-logo="https://drive.google.com/file/d/1kPZWwFphUtueM9n5DAnad7E7N2Lyy3Na/view?usp=drivesdk", SKY LIFE BD(FREE IPTV)
-https://drive.google.com/file/d/1kPZWwFphUtueM9n5DAnad7E7N2Lyy3Na/view?usp=drivesdk
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
+https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
 
 #EXTINF:-1 tvg-id="438441" group-title="Thể Thao" tvg-logo="http://picons.cmshulk.com/picons/411539.png",Sport Digital Fussball
