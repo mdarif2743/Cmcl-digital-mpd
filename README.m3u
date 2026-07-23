@@ -12,8 +12,14 @@
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (STAR SPORTS 2 HD)
+http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 
- 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTng3Zrm6L6MAr0dUC7QyuiotQg9kWZYkVBVvQXB5pkZjsMo_CVx90THAs&s=10", LPL 2026 (STAR SPORTS 1 HD)
+http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
+
+
+
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ"group-title="LIVE SPORTS" group-title="", SOCO LIVE ONLY MATCH TIME
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
 
