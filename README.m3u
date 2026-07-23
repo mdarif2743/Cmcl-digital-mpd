@@ -5,6 +5,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 
+#EXTINF:-1, tvg-logo="https://drive.google.com/file/d/1kPZWwFphUtueM9n5DAnad7E7N2Lyy3Na/view?usp=drivesdk", SKY LIFE BD(FREE IPTV)
+https://drive.google.com/file/d/1kPZWwFphUtueM9n5DAnad7E7N2Lyy3Na/view?usp=drivesdk
+
+
 #EXTINF:-1 tvg-id="438441" group-title="Thể Thao" tvg-logo="http://picons.cmshulk.com/picons/411539.png",Sport Digital Fussball
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
