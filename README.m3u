@@ -1059,7 +1059,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies SD(BD IP)
-http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-official.workers.dev/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="KOLKATA", Jalsha Movies HD
