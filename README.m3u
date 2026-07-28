@@ -929,8 +929,7 @@ http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-#https://iptv.aboxbdix.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fcolors-bangla%2Ftracks-v1a1%2Fmono.m3u8&token=22c94930bd0d70c2ab7fba2ad86bc6f4&time=1784283709
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
 
