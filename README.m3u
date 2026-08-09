@@ -13,13 +13,6 @@ https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_13003
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H7M46Y2T" tvg-name="Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ded9236-2021-4f12-bef7-83a84088d957/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
-
 #EXTINF:-1 tvg-id="DIRECTV 1" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="🏆MUNDIAL 2026🏆", DIRECTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
