@@ -452,14 +452,10 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
-#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODYyNjk2NDV9fX1dfQ","edge-signature":"ey~MXQeXEPrmHsqw0ktw9KEVaDx4tZJFLGFIQc~641s"}
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
-#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY0MDY0NDd9fX1dfQ","edge-signature":"ntqQkxUgYtLfa2zVpj~4LhD4JLtAWYo527o2tnqcaAk"}
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1, NEWS 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
