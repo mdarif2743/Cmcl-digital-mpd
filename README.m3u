@@ -7,8 +7,11 @@
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
-#EXTINF:-1 tvg-id="sonyliv-1090539087" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Football", PSG vs Aston Villa - 13 Aug 2026 | UEFA Super Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/football1208/ENG/master.m3u8?hdnea=exp=1786582235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=00f3f13455a5332eb32aa1b308d79c89c4b83299fa6934a132713980d139591d
+#EXTINF:-1 tvg-id="1090539087" tvg-name="UEFA Super Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | PSG vs Aston Villa - 13 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/football1208/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=581850ab020be2de16f0d3e1fada3bfe-1786559404367
+
+#EXTINF:-1 tvg-id="1090539087" tvg-name="UEFA Super Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | PSG vs Aston Villa - 13 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/football1208/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=581850ab020be2de16f0d3e1fada3bfe-1786559404367
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Fox+Deportes&font=Oswald" group-title="Sports", Fox Deportes
 #KODIPROP:inputstream=inputstream.adaptive
