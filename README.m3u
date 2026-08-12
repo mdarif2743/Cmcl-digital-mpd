@@ -3,6 +3,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
@@ -267,6 +268,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 #EXTINF:-1 tvg-chno="111" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Channels", বিটিভি
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=9df1a5e101c6e54e08dc14fef64866105103393d-9e80493e461068b4380aa7708255deb8-1786548337-1786537537
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
@@ -797,13 +799,13 @@ http://103.182.83.246/hls/snbcinema.m3u8
 
 #EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 #https://b4uplay.com/sliv/stream.m3u8?id=1000044878|referer=https://b4uplay.com/
 http://live.balajibroadband.com:3500/live/483.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-chno="503" tvg-name="sony-max-hd" tvg-language="HIN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="All Channels", Sony MAX HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009247|referer=https://b4uplay.com/
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
@@ -813,17 +815,15 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 http://103.180.212.191:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Movies",Sony WAH
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009253|referer=https://b4uplay.com/
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="HINDI",Star Gold BD IP
-
+https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=0fb98ed3b9b08e9be2e4ef577bb815252079742c-818d6a3106ccd3402bcbc5ce305cb7b6-1786548319-1786537519
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI",Star Gold HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
@@ -833,15 +833,12 @@ http://66.102.126.10:8000/play/a00g/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
 http://66.102.126.10:8000/play/a01s/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_THRILLS.m3u8
 http://66.102.126.10:8000/play/a00c/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png", STAR GOLD ROMANCE
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_ROMANCE.m3u8
 http://66.102.126.10:8000/play/a00r/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" STAR UTSAV MOVIES
