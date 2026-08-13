@@ -825,7 +825,7 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="HINDI",Star Gold 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
+http://66.102.126.10:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
 http://66.102.126.10:8000/play/a01s/index.m3u8
@@ -837,7 +837,7 @@ http://66.102.126.10:8000/play/a00c/index.m3u8
 http://66.102.126.10:8000/play/a00r/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" STAR UTSAV MOVIES
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
 http://66.102.126.10:8000/play/a076/index.m3u8
