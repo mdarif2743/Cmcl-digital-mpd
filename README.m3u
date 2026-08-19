@@ -17,11 +17,8 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/281153.m3u8
 
-#EXTINF:-1 tvg-id="1090539087" tvg-name="UEFA Super Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | PSG vs Aston Villa - 13 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/football1208/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=581850ab020be2de16f0d3e1fada3bfe-1786559404367
-
-#EXTINF:-1 tvg-id="1090539087" tvg-name="UEFA Super Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | PSG vs Aston Villa - 13 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/football1208/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=581850ab020be2de16f0d3e1fada3bfe-1786559404367
+#EXTINF:-1 tvg-id="1090539718" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Day 1 - 1st Test - 19 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000376/criclive1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b833af802b4e2632218f7eb3635f962e-1787148605025
 
 #EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
