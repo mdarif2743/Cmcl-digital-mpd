@@ -82,6 +82,17 @@ http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://icon2.cleanpng.com/20180805/awa/e4f03ff870a6707a729b06c7134bf872.webp", PTV SPORTS
 
+#EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Sports",FANCODE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="fancode2" tvg-name="FANCODE 2" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Sports",FANCODE 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg"group-title="LIVE SPORTS" group-title="", UNITE8 SPORTS 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Unite8S1.m3u8
