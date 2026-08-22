@@ -7,6 +7,14 @@
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
+#EXTINF:-1 tvg-id="LA LIGA HYPERMOTION 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0taB2YON7iSap3muhVOu06lWVvy-mEaV2wLy75tmVg1bxD2IchXUrIjhcpXm1weX05_68wSjlKEYrp2q4j6r1uFpcvI6Fi2dvNNSqOsgIUAz96WFHwyn1YDHv7DJ_73GmM_1M2iX2Z1YEBtPZx0TXqaGqH7ezf-IAYqGVxIbRGgR7xbDr1_KR8CN87k/s512/LaLiga%20Hypermotion%20V.png" group-title="DEPORTE ESPAÑA🇪🇸", LA LIGA HYPERMOTION 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dpY8jy9em0gIQ7QJzw9DdP0H0uMiI99fQLeumVi5S0FRRJ4rZYRcVFA&s=10", EPL LIVE
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
