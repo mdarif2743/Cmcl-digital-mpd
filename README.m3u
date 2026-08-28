@@ -704,7 +704,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1369&e=.m3u8
 http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla HD
-http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
+#http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
 
