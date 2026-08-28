@@ -307,6 +307,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 #EXTINF:-1 tvg-chno="111" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-name="BTV NATIONAL HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Channels", বিটিভি
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 https://akash-by-hady.srhady.workers.dev/live/122.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
