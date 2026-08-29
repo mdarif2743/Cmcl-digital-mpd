@@ -922,6 +922,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
+https://cdn-2.pishow.tv/live/419/master.m3u8
 http://103.175.73.12:8080/live/43/43_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
@@ -1243,6 +1244,7 @@ http://103.175.73.12:8080/live/17/17_0.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
 http://103.175.73.12:8080/live/157/157_0.m3u8
 
 #EXTINF:-1, Kantipur piracy HD
@@ -1261,7 +1263,7 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 http://103.175.73.12:8080/live/713/713_0.m3u8
 
 #EXTINF:-1,  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png", ZEE ANIMAL CINEMA 2
-http://103.175.73.12:8080/live/257/257_0.m3u8
+
 
 #EXTINF:-1,DD NEWS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
