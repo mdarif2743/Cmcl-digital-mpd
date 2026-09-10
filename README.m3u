@@ -1018,7 +1018,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="KIDS CHANNELS", HUNGAMA HINDI
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="superhungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097624.m3u8
