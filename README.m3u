@@ -698,7 +698,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://pl
 http://live.balajibroadband.com:3500/live/697.m3u8
 
 #EXTINF:-1,  tvg-logo="",COLORS BANGLA SD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225712.m3u8
+http://103.172.29.30:9991/stream/channelid/1759751142?profile=mobarok/fllusonic
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://live.balajibroadband.com:3500/live/1369.m3u8
 http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -734,6 +734,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://pl
 http://live.balajibroadband.com:3500/live/471.m3u8
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
+http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009273|referer=https://b4uplay.com/
@@ -759,6 +760,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
+http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/112685.m3u8
 #http://103.159.180.34:5001/live/279.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6586/index.m3u8
@@ -813,8 +815,8 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://103.159.180.34:5001/live/3476.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="KOLKATA",Colors Bangla Cinema
+http://103.172.29.30:9991/stream/channelid/14180834?profile=mobarok/fllusonic
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535" group-title="Relagion Channel", tata play Bangla cinema
@@ -830,6 +832,7 @@ http://103.182.83.246/hls/snbcinema.m3u8
 
 
 #EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
+http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 #https://b4uplay.com/sliv/stream.m3u8?id=1000044878|referer=https://b4uplay.com/
@@ -861,13 +864,13 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
-http://66.102.126.10:8000/play/a00g/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="HINDI",Star Gold 2 HD
-http://66.102.126.10:8000/play/a077/index.m3u8
+http://107.167.16.138/stargold2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="HINDI",Star Gold Select HD
-http://66.102.126.10:8000/play/a01s/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png ",  STAR GOLD THRILLS
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181317.m3u8
@@ -881,7 +884,7 @@ http://66.102.126.10:8000/play/a00r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-http://66.102.126.10:8000/play/a076/index.m3u8
+
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
