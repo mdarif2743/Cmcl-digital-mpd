@@ -688,8 +688,7 @@ https://flussonic.defineatoz.com/zeebangla/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
 
 #EXTINF:-1, tvg-logo="", ZEE BANGLA
-https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
-http://103.159.180.34:5001/live/625.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 #https://playyonogames.in/sliv/stream.m3u8?id=1000009255|Referer=https://playyonogames.in/
@@ -712,7 +711,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/2820
 http://live.balajibroadband.com:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
-http://103.159.180.34:5001/live/1669.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -723,6 +722,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-chno="205" tvg-name="sony-hd" tvg-language="HIN" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Entertainment", Sony HD
+http://38.96.178.205/SONYHD/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 https://b4uplay.com/sliv/stream.m3u8?id=1000009246|referer=https://b4uplay.com/
