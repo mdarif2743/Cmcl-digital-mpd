@@ -805,7 +805,6 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="KOLKATA", Jalsha Movies HD
-http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="1433" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bengali",Zee Bangla Sonar
@@ -858,14 +857,13 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://do
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="HINDI",Star Gold BD IP
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI",Star Gold HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
-http://66.102.126.10:8000/play/a00f/index.m3u8
+http://103.155.18.186:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="HINDI",Star Gold 2 SD
-
+http://103.155.18.186:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="HINDI",Star Gold 2 HD
 http://107.167.16.138/stargold2/index.m3u8?token=test
@@ -885,7 +883,7 @@ http://66.102.126.10:8000/play/a00r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-
+http://103.155.18.186:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
@@ -931,14 +929,12 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
 https://cdn-2.pishow.tv/live/419/master.m3u8
-http://103.175.73.12:8080/live/43/43_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
-http://66.102.126.10:8000/play/a021/index.m3u8
-http://103.157.248.140:8000/play/a01t/index.m3u8
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281643.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/21109.m3u8
@@ -1143,7 +1139,7 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 https://flussonic.defineatoz.com/Starsports2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="Xfireflix",Star Sports 3
-http://103.157.248.140:8000/play/a00i/index.m3u8
+
 
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1 HD 
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
@@ -1551,10 +1547,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="Sports", EUROSPORT 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/941598.m3u8
+
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s" group-title="Sports", EUROSPORT 2 
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/941599.m3u8
+
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Megacable",ESPN
 
@@ -1580,33 +1576,29 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS GOLF
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312183.m3u8
+
 
 #EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312176.m3u8
+
 
 #EXTINF:-1 tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS MIX
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312179.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS F1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312181.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7342/index.m3u8
-http://starhub.pro/live/farhat-3379/67897-913379/688284.ts
 
 #EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS EPL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS RACING
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312182.m3u8
+
 
 #EXTINF:-1  tvg-name="Sky Sports Tennis FHD" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="http://crm.iptvpro.pw/iptv/logo/uk/sky-sports-tennis-uk.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS TENNIS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312186.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sports+ FHD" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="WORLD SPORTS" radio="false",SKY SPORTS+
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1312185.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
 
