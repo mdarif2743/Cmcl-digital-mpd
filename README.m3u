@@ -7,24 +7,26 @@
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR live
-#EXTGRP:😎live sport semetara gangguan😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="B0HKD4JJG8" tvg-name="South Africa vs. Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48002730-9044-4596-896f-894146dc2c4f/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",South Africa vs. Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV live
-#EXTGRP:😎live sport semetara gangguan😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+#EXTINF:-1 tvg-id="B0HCDY7QHC" tvg-name="India vs. West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81abe910-3459-40fa-80bb-f9e5b2e25b77/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India vs. West Indies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kokgbqrt6n/out/v1/7d6a6227d1d44ce993e20e600e2bebd4/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJY39X3Y" tvg-name="England vs. Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c98a79e-1b64-459e-937e-912f862701aa/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",England vs. Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd
 
 #EXTINF:-1 tvg-id="GO3 Sport 1 (LT).lv" tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png" group-title="FOOTBALL", GO3 Sport 1 🇱🇻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
